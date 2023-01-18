@@ -1,0 +1,557 @@
+---
+title: "QuEST Coding Workshop"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+### Intro (45 min)
+
+
+Hello everyone, I hope you're doing well! My name's George Ni, I'm a 2nd year Phd Student in the Biology Department working with Nicholas Gotelli, and I'm going to be going over some of the basics of RStudio and R today. This workshop was created because one of the required courses for QuEST trainees, Foundations of Quantitative Reasoning, is unavailable this year. Instead, another course called Modeling Complex systems led by Professor Laurent will replace it, which is a little more advanced. Because of that, we want to make sure that you all have the tools necessary to succeed in that course and give you a crash course of sorts for what you would've covered in that original class. We've designed this workshop to last 3 days, with this first day covering the foundations of RStudio to make sure you're familiar with it, then the 2nd day will be taking an in-depth look at some interesting packages called the Tidyverse, and then the last day will be covering the mathematical foundations needed for Laurent's class. 
+
+So, to get started, we're going to go ahead and get RStudio and R downloaded-so who went and downloaded these? You should've gotten a link from Brendan in an email previously. Here are the links: http://lib.stat.cmu.edu/R/CRAN/ and  https://rstudio.com/products/rstudio/download/#download . Then go ahead and install RMarkdown by opening up RStudio, hitting File -> New File -> RMarkdown. Alternatively, you can type install.packages("rmarkdown"). 
+
+We also want to install something called Latex, which is used to prepare documents for publication. Luckily, RStudio has access to a package that makes installation very simple. In your console, go ahead and type "install.packages("tinytex")" and then press enter. 
+
+Finally, depending on time, we may do a little bit of work with GitHub in developing a repository. Here's the link to the download: git-scm.com 
+
+So, now that we've gone over the installations, let's go over some of the basics of RStudio. The first thing to note is the difference between R and RStudio. R is the programming language that we can use for statistical computing, while RStudio is how we can use the R language to develop statistical programs. Let's go ahead and open up RStudio and take a look at what we're dealing with. So when you open up RStudio, you should be able to see something similar to what's on my screen. There are basically 4 panels that we'll be working with, with some options to customize if you'd like. 
+
+Starting with the top left panel, This panel is where you will create script and document files. These files consist of lines of computer code. These are instructions to R to carry out calculations and report the results. Think of this window as an old-fashioned typewriter. You will enter plain text here, save the files to disk, and then execute them to carry out your R code. As you will see later, you can also use the Source window as a very powerful word-processor (much easier to use than Word).
+
+For the lower left panel, we have the console. Here's where you'll basically communicate directly with R. You can write commands and send them, and it'll complete them immediately. The > (chevron) at the console is a prompt and means that R is waiting for instructions from you to do something. Working in the console, you have to enter commands one line at a time, sort of like a calculator. When R generates output from its calculations, the output also appears in the console window. And, when you have made a mistake in your code, R will tell you about the problem in this location.
+
+At the upper right panel, we have our Workspace. This is where we'll have the environment, history,and various other tabs. The environment tab will let us know what sort of variables and objects we've created and exist. The history tab will give us some records of the lines of code that have actually been employed/run.  These all have important information but won't necessarily be useful at this stage. In order to clear your environment (which you'll often have to do), you can either hit the broom icon at the top right of your panel, or type in "rm(list=ls())" to your console. 
+
+Finally we have the Plot panel, where the files, plots, packages, and help tabs are. The Files options will have a condensed look at your file locations and what readable files you have, and is also a good place to set and find your working directory (which we'll talk about in just a little bit). Plots will be where your graphics and plots show up, and whenever you're confused/curious about a particular function or package you can use the help function to take a closer look at the documentation for it. 
+
+So now, I just want to go over a few customization options that are available to you that are just quality-of-life changes. The first being going to Tools->Global options->Code->Soft-wrap text. That way your lines won't just keep travelling to the right and still be readable for yourself. You can also hit "Appearance", and edit your font, text size, etc. But, ultimately, these are aesthetic, and you can do what you want. 
+
+For now, let's kind of go through the motions of starting a new assignment, or project, or whatever it may be. One of the most important things to keep in mind while coding is making sure that you're generating reproducible results and work. That means that you have things neat and organized, and that a random researcher/editor could take a look at your code quickly without needing you to explain anything. The first thing you'd want to do then is making sure you have an organized working directory. This means that your workspaces are compartmentalized and distinct from each other.
+
+So, let's say you have a particular project with multiple files and documents related to it. The smart thing to do would be to have all of those things in the same spot so you can access them at once. That's what setting your work directory is going to do. So the commands to do this are "getwd()" and "setwd()". getwd() is going to tell you what your current working directory is, and the exact file path that it's using. Setwd() is how you actually change it and set it manually. Alternatively, you can use the Files tab in the bottom right panel to root around in your files and try to find the best working directory. 
+
+So, for example, let's look through my files for this project I've been working on about Emerald Ash Borer. So I have all of my related files here in this folder, so I've made this my working directory, since I can just pull all of those files easily from here, and then I've also made my R Project and placed it here just to make it easier to find. 
+
+So what's a project and R script? An R Script file is basically a record or paper trail of the commands that we want issued to the console as well as the results that they'll produce. But first, we will tell RStudio to set up a “project” for us. The project is just a file folder and associated documents that RStudio creates for organizing your work. Once you have created your project, R knows where to find everything, and you can pick up your work exactly where you left off, without having to reopen all sorts of files. In the RStudio “File” menu select “New project. . .” and follow the prompts. Name the new directory something like “myFirstProject” and use the “Browse” button to direct RStudio to create the project on your desktop (or wherever you want to store it). Now go ahead and quit RStudio from the “File” menu. Find the new directory on your desk top and inside you will find a file called myFirstProject.Rproj. If you double-click this file, it will open up RStudio and automatically set everything up where you last left off. Remember you only have to create a new project at the start, and then you can re-open it and it will keep all of your work organized
+
+Now that we have everything organized, we have an RProject, as well as a good working directory, we can get started. So we open up a fresh script file, and we can get started. So when you're working in a script file, there are a few things to note. First, this is unlike a normal word processing document, in that every line is treated as a line of code that is supposed to be sent to R and create some output. Because of that, everything should have a structure and follow the conventional coding rules. 
+
+If you want to actually include some lines of text, whether that's for you or for another reader, you can include comments by placing a # before whatever you want to be a comment. So the building blocks of data types we'll be working with are numeric, character, integer, logical, and factor variables. It's important to be aware of what kind of data type you're working with at any one point, especially if you want your variables to interact somehow with other variables, in which case they often need to be of compatible types, or you'll run into errors. So we'll start working in our script file here and assign some variables. This is how we'll create objects in the environment that we can actually use. That's using the chevron (>) character in the script file, as seen here. 
+
+### Vectors (45 Min)
+
+
+```{r}
+#Vectors are a basic data structure in RStudio, and are just structures with data of the same type. In order to create a vector you just need to assign a variable with:
+a <- 0
+a = 0 #But we don't really use the = sign, because it has multiple contextual uses
+a <- "Character" #We can also assign it to be any of the data types we had previously determined
+a <- 8 > 9 #Boolean/Logical Operator
+class(a) #At any point you can determine the class of your variable by typing in "class(a)"
+a <- as.integer(0) #Numeric data types mean that there are trailing zeros (0.000). If you require just integers, or any other data types, you can coerce it by using the command as.integer(x). Or, you can just add L to your integer value
+class(a)
+#Of course, this is just looking at vectors with single elements. If you want to create a vector with multiple elements we can use the c() function to do this. c() stands for concatenate, but you can also think of it as combine, as it's doing something similar to that.
+b <- c(1, 4, 5, 6, 1, 22)
+#You can also concatenate strings themselves using the paste() function
+a <- c(2, 3, 4, 4, 6, 1)
+paste(a, "then", b)
+#you'll want an easier way to create a vector than just manually writing them up, so you can either use 1:N, or seq() functions.
+x <- 1:30
+b <- seq(1, 20)
+b <- seq(0, 20, by = 2)
+```
+
+### Data Structures (45 min)
+
+
+Alright, so now let's talk about data structures. These are ways in which those earlier data types that were in vectors can be oriented into multi-dimensional data structures. These will take the form of matrices, dataframes, and lists. Let's start with a matrix. So a vector is a single line of data that is of the exact same type. You can think of it as a 1 dimensional array. A matrix is a two-dimensional array as it holds rows and columns. We can make a matrix using the matrix() function. 
+```{r}
+matrix(ncol = 4, nrow = 4) #So we've created a matrix with 4 rows and 4 columns, but of course we haven't given it any other information, so of course everything inside is empty, defaulting to NA's. If we want to give it information, then we need to specify it, like so.
+matrix(ncol = 4,
+       nrow = 4,
+       data = 1:16) #By default, the data goes by the columns and not rows. You can switch that by using the byrow=TRUE argument.
+matrix(ncol = 4,
+       nrow = 4,
+       1:16,
+       byrow = TRUE) #You can also create a matrix by binding vectors. The commands for this are cbind() and rbind()
+a <- c(1, 2, 3)
+b <- c(1, 2)
+m <-
+  cbind(a, b) #Warning, the number of rows is not a multiple of the vector. If you want it to match perfectly you can fill out the entire vector b, or you can just extend the a vector to match the number in b.
+m
+#To rename matrix column names you should use colnames()
+
+#LIST
+#A list is a container for data, often used because of its flexibility. Elements within a list can be any type of data, so it can be a vector, dataframe, etc.
+
+x <- list("here's a list item", c(1, 2, 3, 4, 5))
+x
+
+#Data.Frames
+#Data frames are similar to how we think of spreadsheets-with rows and columns, and column variables able to have different data types. We can see an easy example of a data.frame by using the "read.csv" function on any particular excel spreadsheet we might have.
+
+data("iris")
+x <- iris
+x <- read.csv("Test_data.csv")
+class(x)
+```
+
+### Indexing(45 Min)
+
+
+So now that we've gone over the most common data structures, we can talk about how exactly we interact with these things. Often we won't actually work with the full dataset,and we'll instead often work with subsets of the data in R. There're many different ways to actually subset data, so we'll go through some of them now. 
+
+```{r}
+#Let's first start with a vector to work with.
+x <- 5:20
+#[] is a function that means "retrieve the nth element from this vector. This can be referred to as "slicing"
+x[4]
+x[1:4]#You can ask for a sequence
+x[c(1, 2, 1)] #or the same thing multiple times. Remember, when indexing, the first element of a vector has an index of 1.
+#We can remove elements by using the - sign
+x[-2]
+x[c(-1, -5)]
+x[-c(1, 5)]
+
+#We can subset by name
+x <- c(a = 1, b = 2, c = 3)
+x[c("a", "b")]
+
+#Or by logical operators to turn elements "on" or "off"
+x[c(TRUE, FALSE, FALSE)]
+#More conditionals
+# & represents the "and" operator
+# | represents the "or" operator
+# ! represents the "not" operator
+
+1:10 %in% c(1, 3, 5, 9)
+```
+
+### Subsetting Matrices
+
+```{r}
+# The [] function also applies to matrices. You must specify both the rows and columns, in that order. 
+vec <- 1:12
+m <- matrix(data = vec, nrow = 4)
+m
+m[2, 3]
+#Getting multiple values
+m[2:3, 2:3]
+m[2, ] #Leaving it blank means you want the entire row or entire column
+m[, 2, drop = FALSE]  #don't include drop=FALSE if you want it to be a vector
+```
+
+### Subsetting Dataframes 
+
+
+```{r}
+varX <- 1:12
+varY <- rep(c("Low", "Med", "High"), each = 4)
+varZ <- runif(12)
+df <- data.frame(varX, varY, varZ, stringsAsFactors = FALSE)
+str(df)
+
+#Let's say we have another df that we're concerned with and want to append a row
+rand <- list(varX = 22, varY = "Low", varZ = 0.223)
+print(rand)
+newframe <- rbind(df, rand)
+
+#Now we can also add a new column
+varA <- runif(13) #Make sure that you have enough elements
+newframe <- cbind(newframe, varA) #rbind for "row", cbind for "column"
+
+```
+
+### Subsetting Lists
+
+```{r}
+newlist <-
+  list(1:10, matrix(nrow = 4, 1:8, byrow = TRUE), letters[1:3], pi)
+print(newlist)
+newlist[2]#Single brackets subsets refer only to the element, of type list.
+newlist[c(1, 2, 3)]
+newlist[[2]] - 3#Double brackets will actually be the contents within it, and we can apply things to it. Once you have called the double brackets, you can then access individual elements within that.
+newlist[[2]][3, 2] #Right now, we're referring to these based on positions within this list. But, it'll be a lot easier for us if we can just name these and refer to them that way.
+newlist <-
+  list(
+    val = 1:10,
+    mat = matrix(nrow = 4, 1:8, byrow = TRUE),
+    alph = letters[1:3],
+    pi = pi
+  )
+newlist$mat[3, 2]
+newlist$mat
+newlist$mat[2, ]
+newlist$mat[2] #Gives us 3(byrow=TRUE, which is why 2 as it's counted normally is actually 3 in this case)
+
+#If you were to want to unlist these things, unlist() does the trick
+unlisted <- unlist(newlist)
+unlisted
+```
+
+Quick exercise! 
+
+1. Create a vector object of length 12 that has all the month names as elements in order.
+2. Use the bracket operator [] to display the 3rd through the 5th month.
+3. Display this vector object in reverse order (when you put a vector into the bracket operator, it will
+display the output in the same order as the vector)
+4. Create a boolean vector that displays whether a given element of the month vector is equal to May.
+5. Use help command on the rnorm function to learn how to generate a vector of 10 random numbers
+from a random variable with a normal distribution with mean 6 and sd, σ, of 3.
+6. Use the functions mean, sd and sqrt to calculate the mean and standard error of the mean for the
+random variable from question 5. Recall that the formula for standard error of the mean is $\frac {sd(x)}{\sqrt(n)}$
+```{r}
+#1
+month <- c("January","February","March","April","May","June",
+           "July","August","September","October","November",
+           "December")
+season <- c(rep("Winter",2),rep("Spring",3),rep("Summer",3),
+            rep("Fall",3),"Winter")
+#2
+months2<-month[3:5]
+
+#3
+months3<-month[5:3]
+
+#4
+bool1<-month=="May"
+bool1
+
+#5
+rand1<-rnorm(10,mean=6, sd=3)
+
+#6
+mean1<-mean(rand1)
+standerr<-sd(rand1)/sqrt(10)
+
+```
+### Cleaning Data
+
+So now let's talk about how to clean data. You've got your dataset, you know how to do some basic manipulation, interact with it, take some elements out, things like that. Well, let's say you were looking through your dataset and noticed that some of your observations were missing-rather, there was missing data. You choose not to leave it in there, but how do you take it out? Well, thankfully R has a few options to make this a little easier. First, we can use the complete.cases() function so R can look over our dataset for us. So complete.cases is going to return a logical vector, so true/false, based on whether the cases are complete and have no missing values. 
+```{r}
+DF <- data.frame(x = c(1, 2, 3), y = c(0, 10, NA))
+complete <- complete.cases(DF$y)
+clean <- DF[complete.cases(DF$y), ]
+which(!complete.cases(DF$y))
+
+#If your spreadsheet had different codes for NA's, such as NaN, or 9999, etc, then you can recode them to be NA's.
+DF$x[DF$y == 10] <- NA
+#You can also use the na.omit function to clean out the NA's.
+na.omit(DF)
+
+```
+
+### Control Structures- if, For and While Loops (45)
+
+
+So, often times we don't want to manually type out code and complete basic tasks repeatedly-that's the whole purpose of using a machine, right? So to make RStudio a little bit more practical, we have some really handy functions that can streamline processes for us. So I'm pretty sure most of you should be familiar with ifelse statements, correct? If you aren't, then it's one of the most basic ways of giving commands to a computer-given a certain condition, if it is true, then a command/function must be completed, else something else happens, usually the code stopping. if statements can also be standalone, with the structure of if(condition){action}. Otherwise, the full statement is if(condition){action}else{some other action}. So let's give that a try with a basic example
+
+```{r}
+#Logical operators
+5 > 3
+5 < 3
+5 >= 5
+5 <= 5
+5 == 3
+5 != 3
+
+# use & for AND
+FALSE & FALSE
+FALSE & TRUE
+TRUE & TRUE
+5 > 3 & 1 != 2
+1 == 2 & 1 != 2
+
+
+lions <- 20
+tigers <- 15
+
+if (lions > tigers) {
+  print("Lions win!")
+}
+
+lions <- sample(1:100, 1)
+tigers <- sample(1:100, 1)
+if (lions > tigers) {
+  print("Lions win!")
+} else{
+  print("Tigers win!")
+} #You can also chain together multiple ifelse statements depending on what you're working with. The ifelse statement can also be built-in using ifelse(), which has a similar function but in one single line.
+
+#Iteration
+#for() loops are your friends
+#The structure is for(x in y){action}
+for (i in 1:10) {
+  print(i)
+}
+
+#Nested for loops
+for (i in 1:10) {
+  for (j in letters[1:5]) {
+    print(paste(i, j))
+  }
+}
+
+#While() loops
+#While(conditional){action}
+#While loops aren't the most useful, simply because you have to give it a conditional that will actually end-otherwise it'll just be stuck in an infinite loop and you'll have to stop the program yourself.
+z <- 1
+while (z > 0.1) {
+  z <- runif(1)
+  cat(z, "\n")
+}
+```
+
+### Functions (45 Min)
+
+```{r}
+airTemp <- c(32, 34, 35, 37, 39, 40, 32, 36, 41)
+eabAbundance <- c(100, 104, 98, 132, 138, 150, 103, 92, 170)
+df <- as.data.frame(cbind(airTemp, eabAbundance))
+
+grab_stats <- function(df) {
+  model <- lm(df$airTemp ~ df$eabAbundance)
+  summary(model)
+  u <- unlist(summary(model))
+  slope <- u$coefficients2
+  pval <- u$coefficients8
+  print(paste("slope=", slope))
+  print(paste("p-value=", pval))
+}
+
+grab_stats(df)
+
+#It's also a good idea to have these functions as a list running in a separate script file. That way, you can source the files whenever you'd like. You can use the command source(file path) to do this. 
+
+```
+
+### Plotting Fundamentals (45 min)
+
+```{r}
+data(mtcars)
+#scatter plot
+plot(mtcars$wt, mtcars$mpg) #basic plotting function
+qplot(mtcars$wt, mtcars$mpg) #qplot, or "quick" plot is a convenient way of throwing up a plot, but still doesn't have all of the necessary information we might be looking for.
+plot(
+  mtcars$wt,
+  mtcars$mpg,
+  main = "Relationship b/t Weight and MPG",
+  xlab = "Weight",
+  ylab = "MPG",
+  pch = 16
+) + abline(lm(mtcars$mpg ~ mtcars$wt)) #pch=point type, abline includes a line, we used lm(y~x) to tell it how to actually draw the line
+
+#bar graph
+cars <- mtcars[1:6, 1:5]
+barplot(cars$mpg,
+        main = "Cars",
+        xlab = "Car Models",
+        ylab = "mpg")
+#histogram
+x <- runif(400, 1, 200)
+hist(x) #plotting the frequency
+hist(x, freq = FALSE) #plot the proportion. Also, there are similar levels of customization available to you as with the scatter plot and bar plot.
+hist(x, col = "red" , xlab = "Data Range", ylab = "Frequency")
+
+
+#box plot
+boxplot(
+  mtcars$mpg,
+  col = "lightblue",
+  ylab = "mpg",
+  xlab = "all vehicles",
+  main = "Box Plot"
+)
+
+
+#qplot
+qplot(mpg, wt, data = mtcars)
+qplot(mpg, wt, data = mtcars, colour = cyl)
+qplot(mpg, wt, data = mtcars, size = cyl)
+qplot(mpg, wt, data = mtcars, facets = vs ~ am)
+
+
+```
+
+### Fitting Models (45 min)
+
+```{r}
+#Regression Analysis
+n = 50  # number of observations (rows)
+varA <- runif(n) # random uniform values (independent)
+varB <- runif(n) # a second random column (dependent)
+varC <- 5.5 + varA * 10 # a noisy linear relationship with varA
+ID <- seq_len(n) # creates a sequence from 1:n (if n > 0!)
+regData <- data.frame(ID, varA, varB, varC)
+head(regData)
+str(regData)
+
+# model
+regModel <- lm(varB ~ varA, data = regData)
+
+# model output
+regModel # printed output is sparse
+#str(regModel) # complicated, but has "coefficients"
+#head(regModel$residuals) # contains residuals
+
+# 'summary' of model has elements
+#summary(regModel) #
+#summary(regModel)$coefficients
+#str(summary(regModel))
+
+# best to examine entire matrix of coefficients:
+summary(regModel)$coefficients[] #shows all
+
+# can pull results from this, but a little wordy
+summary(regModel)$coefficients[1, 4]   #p value for intercept
+summary(regModel)$coefficients["(Intercept)", "Pr(>|t|)"]
+
+
+# alternatively unfurl this into a 1D atomic vector with names
+z <- unlist(summary(regModel))
+#str(z)
+#z
+z$coefficients7
+
+# grab what we need and put into a tidy  list
+
+regSum <- list(
+  intercept = z$coefficients1,
+  slope = z$coefficients2,
+  interceptP = z$coefficients7,
+  slopeP = z$coefficients8,
+  r2 = z$r.squared
+)
+
+# much easier to query and use
+print(regSum)
+regSum$r2
+regSum[[5]]
+
+
+plot <-
+  plot(
+    regData$varA,
+    regData$varB,
+    pch = 16,
+    cex = 0.8,
+    main = "Regression Analysis",
+    xlab = "varA",
+    ylab = "varB"
+  ) + abline(regModel$coefficients[1], regModel$coefficients[2])
+
+
+#Logistic Regression Analysis
+set.seed(1000)
+bodysize <- rnorm(20, 30, 2) # generates 20 values, with mean of 30 & s.d.=2
+bodysize <- sort(bodysize) # sorts these values in ascending order.
+survive <- c(0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1) # assign 'survival' to these 20 individuals non-randomly... most mortality occurs at smaller body size
+
+n<-20
+survive<-sample(c(0,1), replace=TRUE, size=n)
+dat = as.data.frame(cbind(bodysize, survive)) # saves dataframe with two columns: body size & survival
+dat # j
+
+plot(bodysize, survive, xlab = "Body size", ylab = "Probability of survival")# plot with body size on x-axis and survival (0 or 1) on y-axis
+
+g <- glm(survive ~ bodysize, family = binomial, dat) # run a logistic regression model (in this case, generalized linear model with logit link). see ?glm
+
+curve(predict(g, data.frame(bodysize = x), type = "resp"), add = TRUE) # draws a curve based on prediction from logistic regression model
+
+points(bodysize, fitted(g), pch = 20) # optional: you could skip this draws an invisible set of points of body size survival based on a 'fit' to glm model. pch= changes type of dots.
+
+#Alternatively
+set.seed(1000)
+library(popbio)
+logi.hist.plot(bodysize,
+               survive,
+               boxp = FALSE,
+               type = "hist",
+               col = "gray")
+```
+
+### RMarkdown (45 min) 
+
+So now let's talk about RMarkdown. This is an efficient way to integrate both your code and word processing to create robust documents with your code. RMarkdown files behave differently from normal r script files, which we'll see in just a little bit. Files are .Rmd's. So let's go ahead and open up an RMarkdown file by going to file->new file->RMarkdown. So RMarkdown will always give you this default page with code already written inside so that you have a sense of how it's structured. The grey'ed out lines are code chunks, which are essentially just mini script files that we've placed inside here. So within these code chunks, everything that we've learned about coding applies, the assigning conventions, commands, things like that. What determines a code chunk are these backticks that you see here (hover over that) as well as including the curly brackets. These curly brackets basically determine what steps you want Markdown to initialize with-meaning, you have a lot of options to adjust this code chunk-like whether you want to display the code, or just the results of them, or the sizes of the plots/graphics that you created. There'll be a list of options you can set in the cheat sheet I'll send to you. 
+
+Outside of these code chunks though, as you'll notice, you can write normally like how you would in Word. However, there are still formatting commands in this section that you should be aware of. So you'll be writing your report in plain text, but the specific markdown syntax will actually format your text. 
+
+Plain Text
+
+# Header 1
+
+## Header 2
+
+### Header 3 
+ 
+Italic **
+
+bold-face ****
+
+subscript ~~
+
+superscript ^^
+
+strikethrough ~~~~
+
+quotations ><text with no closing mark
+
+"Hello"
+
+> Hello! 
+
+
+## Equations
+
+* in-line uses $ 
+* centered uses $$
+* basic math and text is handled by Latex
+$$y = a + b$$
+
+# Subscripts
+
+> H_0 = Z_{a + b}
+
+$H_0 = Z_{a + b}$
+
+# Superscripts
+
+> S = cA^z
+
+$S = cA^z$
+
+
+> S=cA^z_1 + z_{2 + x}
+
+$S=cA^z_1 + z_{2 + x}$
+
+# Fractions and Greek
+
+> \alpha = \frac{\beta}{\delta + \gamma_x}
+
+$\alpha = \frac{\beta}{\delta + \gamma_x}$
+
+# Summation
+
+> z = \sum_{i=1}^X{K}
+
+$z = \sum_{i=1}^X{K}$
+
+
+
+### Cheat Sheets
+
+
+
+
+
+
+

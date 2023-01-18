@@ -1,0 +1,930 @@
+﻿STATE,SITE_ID,COMMENTS,CONTROL,ORIGIN,TRAP_NUMBER,DATE_TRAP_SAMPLED,NUMBER_S.AGRILI_INDIVIDUALS,NUMBER_T.PLANIPENNISI_INDIVIDUALS,NUMBER_O.AGRILI,NUMBER_OF_S.AGRILI_CLUTCHES,NUMBER_OF_T.PLANIPENNISI_CLUTCHES,NUMBER_OF_ATANYCHOLUS,SAMPLE METHOD,NUMBER OF SAMPLES,POSSIBLE_EAB_PARASITOID_RECOVERED,DATE_SAMPLE_SHIPPED,SAMPLE_SHIPPED_TO,POINT_X,POINT_Y,COMMENTS_LAB,USER_ID,SITE_NAME,NUMBER_S.GALINAE_CLUTCHES
+Michigan,,visual egg survey @ 30 min/tree on 10 ash trees/plot.,,Research,LPR4,"4/21/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,1,Yes,,Leah Bauer,-84.38,42.7,EAB egg with O. agrili exit hole & meconium; parasitism from 2012.,lsbauer,LPRFLT,0
+Michigan,"1,770",visual egg survey @ 30 min/tree on 10 ash trees/plot,,Research,LPR7,"4/21/2013, 8:00 PM",0,0,2,0,0,0,Egg Collection,4,Yes,,Leah Bauer,-84.38,42.7,EAB egg with O. agrili exit hole & meconium; parasitism from 2012.,lsbauer,LPRFLT,0
+Indiana,"2,026",Recovered Tetrastichus pupae from an EAB larvae while debarking green trees at the Orleans site. Found overwintering pupae and reared them out to adults. Oobius adults were reared from ash logs in cardboard rearing tubes.,,Research,Orleans,"2/27/2013, 7:00 PM",0,108,2,0,3,0,Tree Debarking,4,Yes,,Donnie Peterson & Leah Bayer,-86.49,38.6,Tetrastichus planipennisi adult identification was confirmed (Juli Gould). Oobius agrili adult identifications were confirmed.,donaldson77,Orleans-July-8-2010,0
+Indiana,"2,039","Ritchey Woods site, compared to voucher specimens of T. planipennisi. Recovered by peeling bark off of logs.",,Program,Ritchey,"2/18/2013, 7:00 PM",0,22,0,0,1,0,Tree Debarking,4,Yes,,Donnie Peterson,-86.04,39.94,Juli Gould confirmed T. planipennisi.,donaldson77,Ritchey Wood-2,0
+Indiana,"2,026",Orleans Site,,,Orleans,"2/27/2013, 7:00 PM",0,0,2,0,0,0,Bark in Tubes,2,Yes,"6/11/2013, 8:00 PM",Leah Bauer,-86.49,38.6,Leah Bauer confirmed Oobius agrili adults,donaldson77,Orleans,0
+Minnesota,"1,818","Tree that was sampled is about 1/2 mile from Great River Bluffs State Park site 2. Recovered from a green ash in a branch sample 4"" in diameter.",,,184W.GC,"10/22/2013, 8:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,,Juli Gould,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Minnesota,"1,818","A clutch of what looks to be Tetrastichus planipennisi larvae was found in a 3"" diam. branch sample about 1/2 mile from the nearest release site. About 20 larvae were recovered from the EAB gallery.",,,176W.A,"10/31/2013, 8:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,"12/4/2013, 7:00 PM",Juli Gould,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Indiana,"2,025","Huntington site Recovered Tetrastichus larvae from EAB larvae while debarking ash trees. Reared to adults (May 2, 2011)",,,Huntington,"3/15/2011, 8:00 PM",0,0,0,0,8,0,Tree Debarking,7,Yes,,null,-85.46,40.84,ID confirmed by Cliff Sadof & Leah Bauer by comparing to vouchers. Juli Gould confirmed T. planipennisi.,donaldson77,Huntington-2,0
+Illinois,,"Four ash trees were cut at Schiller Woods, Chicago on 3/29/11, logs were transported to E. Lansing, and placed in rearing tubes.",,,Schiller,"5/3/2011, 8:00 PM",0,18,0,0,1,0,Logs in Tubes,28,Yes,"3/28/2011, 8:00 PM",Leah Bauer,-87.86,41.96,rearing tubes were held at room temp. Tet adults assumed to be from one clutch: 13 females & 5 males,lsbauer,Schiller Woods,0
+Michigan,"1,769",This documents reproduction and overwintering of Oobius agrili at the first 2007 release site.,,,CPR1,"4/7/2008, 8:00 PM",0,0,3,0,0,0,Logs in Tubes,2,Yes,,"Houping Liu, Leah Bauer",-84.42,42.73,Two trees were felled in April 2008 and put in rearing tubes. Adult Oobius agrili emerged about a month later.,lsbauer,CPNMLT,0
+Michigan,"1,802",MSU Tree Research Center recovery by Deb McCullough during dissection of ash trees for a different study.,,,TRC,"9/5/2010, 8:00 PM",0,30,0,0,1,0,Tree Debarking,30,Yes,,Leah Bauer,-84.46,42.68,Tetrastichus planipennisi individual count an estimate. D. McCullough ID,lsbauer,MSUTRC,0
+Michigan,"1,796","Reared from adults rearing logs cut near Round Lake, MI (Lelito)",,,RoundLake,"6/6/2010, 8:00 PM",0,30,0,0,1,0,Logs in Tubes,0,Yes,,Jonathan Lelito,-84.45,42.88,Jon Lelito made recovery and confirmed ID.,lsbauer,SLHSP,0
+Michigan,"2,134",Jonathan Lelito,,,IsLake,"6/13/2010, 8:00 PM",0,30,0,0,1,0,Logs in Tubes,0,Yes,,,-83.66,42.51,Jon Lelito confirmed ID.,lsbauer,IsLakeB,0
+Michigan,"2,103",Deb McCullough & Andrew Tluczek provided this data collected from their ongoing EAB studies.,,,Jasper,"1/12/2014, 7:00 PM",0,0,0,0,10,0,Tree Debarking,0,Yes,"1/12/2014, 7:00 PM",Deb McCullough,-84.56,43.54,T. planipennisi ID D.McCullough. Individuals not counted,lsbauer,JA,0
+Michigan,"1,773",Adults are from 2011 diapausing cohort emerging spring 2012,,,BFR1,"5/22/2012, 8:00 PM",0,0,7,0,0,0,Bark in Tubes,2,Yes,,"Kristopher Abell, Leah Bauer",-84.6,42.59,Adults were reared from 2-10x100cm outer-bark sample from W&S sides lower trunk of live 16.9cmDBH green ash tree: 4 emerged from W & 3 from S,lsbauer,BFPKLT,0
+Michigan,"1,773",Adult is from 2011 diapausing cohort emerging spring 2012,,,BFR2,"5/22/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.6,42.59,Adult emerged from 1-10x100cm outer bark sample from west lower trunk live 11.2cmDBH green ash tree,lsbauer,BFPKLT,0
+Michigan,"1,798",Adult is from 2011 diapausing cohort emerging spring 2012,,,BFC1,"5/23/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.6,42.59,Adult emerged from 1-10x100cm outer-bark sample from west lower trunk live 13cmDBH green ash tree,lsbauer,BFPKLT_C,0
+Michigan,"1,769",Adult is from 2011 diapausing cohort emerging spring 2012,,,CPR2,"5/16/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.42,42.73,Adult emerged from 1-10x100cm outer-bark sample from west lower trunk live 19.3cmDBH green ash tree,lsbauer,CPNMLT,0
+Michigan,"1,769",Adults from 2011 diapausing cohort emerging spring 2012,,,CPR3,"5/16/2012, 8:00 PM",0,0,2,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.42,42.73,Adults emerged from 2-10x100cm outer-bark sample from W&S lower trunk live 11.2cmDBH green ash tree,lsbauer,CPNMLT,0
+Michigan,26,Adult is from 2011 diapausing cohort emerging spring 2012,,,GSWC1,"5/21/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.45,43.21,Adult emerged from 1-10x100cm outer-bark sample from west lower trunk live 20.8cmDBH green ash tree,lsbauer,GSW_C,0
+Michigan,25,Adult is from 2011 diapausing cohort emerging spring 2012,,,GSWR1,"5/21/2012, 8:00 PM",0,0,2,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.45,43.23,Adult emerged from 1-10x100cm outer-bark sample from west lower trunk live 16.2cmDBH green ash tree,lsbauer,GSW,0
+Michigan,25,Adult is from 2011 diapausing cohort emerging spring 2012,,,GSWR2,"5/21/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,1,Yes,,"Kristopher Abell, Leah Bauer",-84.45,43.23,Adult emerged from 1-10x100cm outer-bark sample from south lower trunk live 13.2cmDBH green ash tree,lsbauer,GSW,0
+Pennsylvania,"1,451",,,,Deer Lakes,"6/4/2012, 8:00 PM",0,0,8,0,0,0,Tree Debarking,3,Yes,,,-79.81,40.62,,PArelease11,Deer Lakes,0
+Pennsylvania,"1,453",,,,North Park,"5/8/2012, 8:00 PM",6,0,0,1,0,0,Tree Debarking,4,Yes,,,-80.03,40.62,,PArelease11,North Park,0
+Tennessee,"2,045",,,,RR10,"8/11/2013, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,1,Yes,"10/29/2013, 8:00 PM",Jon Lelito and Julie Gould,-83.44,36.47,,utipmlab,Rowe Road,0
+Wisconsin,"1,480","Location is approximate, entered by Bill McNee, WI DNR on 9/24/2014",,,B3,"7/28/2013, 8:00 PM",0,24,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-88.03,43.44,"Insect identities confirmed by Juli Gould in email to Todd Johnson, U of WI",billmcnee,River Edge Nature Center,0
+Wisconsin,"1,480","Location is approximate. Data entered by Bill McNee, WI DNR, 9/24/2014",,,B3,"8/11/2013, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-88.03,43.44,"Identification confirmed by Juli Gould in email to Todd Johson, U of WI, 11/6/2013",billmcnee,River Edge Nature Center,0
+Wisconsin,"1,480","Location is approximate. Data entered by Bill McNee, WI DNR, 9/24/2014.",,,B9,"8/8/2013, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-88.03,43.44,"Identities confirmed by Juli Gould in email to Todd Johnson, U of WI, 11/6/2013",billmcnee,River Edge Nature Center,0
+Wisconsin,"1,480","Location is approximate. Data entered by Bill McNee, WI DNR, 9/24/2014.",,,B9,"8/11/2013, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-88.03,43.44,"Identity confirmed by Juli Gould in email to Todd Johnson, U of WI, Nov 6, 2013.",billmcnee,River Edge Nature Center,0
+Maryland,"1,840","Dr. Jian Duan and crew peeled trees at Cheltenham warehouse. No host remained, larvae collected - 41 females, 11 males T. planipennisi emerged",,,SouthHill,"2/26/2013, 7:00 PM",0,52,0,0,2,0,Tree Debarking,2,Yes,,Jian Duan,-76.9,38.71,,beanra,South Hill,0
+Maryland,"1,835","Dr. Jian Duan and crew peeled trees at Cheltenham warehouse. 1 L4 infested. Pupae - 56 females, 12 males T. planipennisi emerged",,,Kirby 1,"4/14/2013, 8:00 PM",0,68,0,0,1,0,Tree Debarking,2,Yes,,Jian Duan,-76.91,38.78,,beanra,Kirby 1,0
+Maryland,"1,840","Dr. Jian Duan and crew peeled trees at Cheltenham warehouse. 36 females, 6 males T. planipennisi, walking out of pupal chamber",,,Ducket Rd,"4/28/2013, 8:00 PM",0,42,0,0,1,0,Tree Debarking,2,Yes,,Jian Duan,-76.91,38.7,null,beanra,South Hill,0
+Minnesota,"1,817","what looks to be about 22 adult Tetrastichus planipennisi were found inside an EAB gallery in a 12"" dbh green ash tree. https://plus.google.com/photos/110288044640879329565/albums/6085684764818781409?authkey=CPfqgOmh9pLFgAE",0,,250W,"11/12/2014, 7:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,,,-91.38,43.93,Tetrastichus planipennisi,josthus,Great River Bluffs 1,0
+Minnesota,"1,818",More likely adult tets were found in an EAB gallery from a branch sample at a seperate site inside of Great River Bluffs State Park. https://plus.google.com/photos/110288044640879329565/albums/6085684764818781409?authkey=CPfqgOmh9pLFgAE,0,,204W,"11/19/2014, 7:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,,,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Minnesota,"1,818",A Clutch of what looks to be Tetrastichus planipennisi was found in an EAB gallery in a green ash at Great River Bluffs State Park. 57 larvae were found in the gallery. Tets were reared and shipped to parasitoid rearing facility on 12/29/14,0,,177W.B,"12/8/2014, 7:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,,,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Minnesota,"1,818",a clutch of what looks to be T. planipennisi was found in a branch sample from a green ash in which T. planipennisi was detected last year in a separate branch sample. 11 larvae were recovered from the gallery.,0,,176W.A,"12/11/2014, 7:00 PM",0,0,0,0,1,0,Tree Debarking,70,Yes,,,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Minnesota,"1,818",What look to be tets were found in a larva that was dissected after being collected while branch sampling at Great River Bluffs State Park. 28 larvae were recovered from inside the L4 EAB larva,0,,LD121814J,"11/24/2014, 7:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,,,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs 2,0
+Minnesota,"1,818",6 release trees from GRBSP2 had bark samples taken from the south side of the tree. 33 EAB eggs were recovered using the bark sifting method. Samples will be shipped for confirmation of any parasitism. 10x50cm area of bark taken for each tree sampled.,0,Program,GRBSP2,"10/28/2014, 8:00 PM",0,0,1,0,0,0,Bark Sifting,6,Yes,"2/10/2015, 7:00 PM",Leah Bauer,-91.41,43.94,3 eggs confirmed parasitized out of 33 eggs recovered from 6 samples.,josthus,Great River Bluffs State Park 2,0
+Minnesota,"2,474",Images of possible parasitism of EAB egg sent to Leah Bauer and Debbie Miller. 2 eggs from one tree at site appear to be parasitized. samples from 4 other trees continue to be processed. 10x50cm area of bark taken for each tree sampled.,0,Program,Ft.N2,"2/24/2015, 7:00 PM",0,0,2,0,0,0,Bark Sifting,5,Yes,,,-93.19,44.89,2 parasitized eggs confirmed out of 4 eggs recovered from 5 samples.,josthus,Fort Snelling Hillside Hwy 5,0
+Minnesota,"1,818",Pictures taken of black egg with injured/destroyed larvae or pupa inside. Pics can be seen at - https://plus.google.com/photos/110288044640879329565/albums/6145398011090253153?banner=pwa 10x50cm area of bark taken for each tree sampled.,0,Program,GRBSP2.2B,"4/22/2015, 8:00 PM",0,0,1,0,0,0,Bark Sifting,4,Yes,,,-91.41,43.94,one parasitized egg confirmed out of 53 eggs recovered from 4 samples.,josthus,Great River Bluffs State Park 2,0
+,"2,514",,0,Research,Brooke Ln,"10/22/2014, 8:00 PM",0,40,0,0,0,0,Logs in Tubes,71,Yes,"4/28/2016, 8:00 PM",J. Gould,-81.85,42.84,,gcjones,Brooke Line,0
+,"2,512",,0,Program,Ausable,"10/21/2014, 8:00 PM",0,496,0,0,0,0,Logs in Tubes,117,Yes,,,-81.54,43.38,,gcjones,Ausable Line,0
+Pennsylvania,"2,557",Tionesta Lake and DAM COE,0,,1221,"8/12/2015, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,1,Yes,"8/20/2015, 8:00 PM",Juli Gould,-79.44,41.48,O. agrili confirmed by Jason Mottern of the Smithsonian.,rturcotte,,0
+Michigan,,Deb McCullough identified the insects as T. planipennisi,0,,JAAuSab1,"7/14/2014, 8:00 PM",0,0,0,0,1,0,Tree Debarking,22,Yes,,,-84.56,43.54,Deb McCullough identified the insects as T. planipennisi,juligould,,0
+Michigan,,Parasitoids identified by Deb McCullough as Tetrastichus planipennisi,0,,TRCMSU1,"7/14/2013, 8:00 PM",0,0,0,0,30,0,Tree Debarking,59,Yes,,,-84.46,42.68,Parasitoids identified by Deb McCullough as Tetrastichus planipennisi,juligould,,0
+Michigan,,Tetrastichus planipennisi recovered. The number were not counted.,0,,MRWEST1,"7/14/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,12,Yes,,,-84.87,43.03,Tetrastichus planipennisi ID confirmed by D. McCullough,juligould,,0
+Michigan,,Deb McCullough identified the Tetrastichus planipennisi,0,,Ionia2,"7/14/2012, 8:00 PM",0,0,0,0,6,0,Tree Debarking,15,Yes,,,-85.12,42.96,,juligould,,0
+Michigan,,Tetrastichus planipennisi identified by Deb McCullough,0,,MapleR4,"7/14/2012, 8:00 PM",0,0,0,0,90,0,Tree Debarking,25,Yes,"7/14/2012, 8:00 PM",,-84.5,43.15,,juligould,,0
+Michigan,,Tetrastichus planipennisi identified by Deb McCullough,0,,MapleR3,"7/14/2012, 8:00 PM",0,0,0,0,10,0,Tree Debarking,15,Yes,,,-84.54,43.15,,juligould,,0
+Michigan,,Tetrastichus planipennisi identified by Deb McCullough.,0,,TRCMSU4,"7/14/2012, 8:00 PM",0,0,0,0,8,0,Tree Debarking,18,Yes,,,-84.46,42.68,,juligould,,0
+Michigan,,Tetrastichus planipennisi identified by Deb McCullough.,0,,PortSGA2,"7/14/2012, 8:00 PM",0,0,0,0,1,0,Tree Debarking,20,Yes,,,-84.93,42.81,,juligould,,0
+Michigan,,,0,,MSUTRC,"7/14/2010, 8:00 PM",0,0,0,0,8,0,Tree Debarking,86,Yes,,,-84.46,42.68,Tetrastichus planipennisi identified by D. McCullough.,juligould,,0
+Michigan,,Adult Tetrastichus planipennisi identified by Jon Lelito,0,,Alma20,"2/24/2013, 7:00 PM",0,24,0,0,0,0,Logs in Tubes,1,Yes,,,-84.74,43.36,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito,0,,Alma21,"2/14/2013, 7:00 PM",0,7,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,Alma19,"3/5/2013, 7:00 PM",0,30,0,0,0,0,Logs in Tubes,1,Yes,,,-84.74,43.36,,juligould,,0
+Michigan,,Tetarstichus planipennisi adults identified by Jon Lelito.,0,,Alma18,"9/16/2013, 8:00 PM",0,25,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetarastichus planipennisi adults identified by Jon Lelito.,0,,Alma17,"9/17/2013, 8:00 PM",0,2,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetarstichus planipennisi adults identified by Jon Lelito,0,,Alma16,"9/24/2013, 8:00 PM",0,5,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetarstichus planipennisi adults identified by Jon Lelito.,0,,Alma13,"10/1/2013, 8:00 PM",0,17,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito,0,,Alma15,"9/26/2013, 8:00 PM",0,11,0,0,0,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetarstichus planipennisi adults identified by Jon Lelito.,0,,Alma14,"9/29/2013, 8:00 PM",0,2,0,0,,0,Logs in Tubes,1,Yes,,,-84.76,43.36,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,SagBay3,"11/30/2013, 7:00 PM",0,4,0,0,0,0,Logs in Tubes,1,Yes,,,-84,43.84,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito,0,,Alma11,"12/19/2013, 7:00 PM",0,11,0,0,0,0,Logs in Tubes,1,Yes,,,-84.74,43.35,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,Charlot3,"11/30/2011, 7:00 PM",0,123,0,0,0,0,Logs in Tubes,1,Yes,,,-84.84,42.52,T. planipennisi adult ID J. Lelito,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito,0,,Alma12,"12/9/2013, 7:00 PM",0,19,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-84.66,43.38,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,WhitmLk2,"10/31/2011, 8:00 PM",0,41,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.7,42.44,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,IsLake2,"12/4/2011, 7:00 PM",0,32,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.71,42.5,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,IsLake3,"12/4/2011, 7:00 PM",0,32,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.71,42.5,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito,0,,IsLake4,"11/28/2011, 7:00 PM",0,22,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.71,42.5,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,Bellevu2,"5/21/2012, 8:00 PM",0,70,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-85.01,42.51,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,Bright2,"9/5/2012, 8:00 PM",0,52,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.83,42.5,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,FarmH2,"9/26/2013, 8:00 PM",0,32,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-83.38,42.49,,juligould,,0
+Michigan,,Tetrastichus planipennisi adults identified by Jon Lelito.,0,,SagBay2,"12/3/2013, 7:00 PM",0,19,0,0,0,0,Logs in Tubes,1,Yes,,Jon Lelito,-84.02,43.76,,juligould,,0
+Minnesota,"1,817",9 clutches of Tets were recovered from green ash trees at this location. Site is part of study that branch samples 35 trees (2 branches)and debarks 2 whole trees.,0,Program,KV5,"11/3/2015, 7:00 PM",0,0,0,0,9,0,Tree Debarking,80,Yes,,,-91.38,43.93,Tetrastichus planipennisi,josthus,Great River Bluffs State Park 1,0
+Minnesota,,20 clutches of Tets were recovered from green ash trees at this location. Site is part of study that branch samples 35 trees (2 branches) and debarks 2 whole trees.,0,Program,631W.A,"11/3/2015, 7:00 PM",0,0,0,0,20,0,Tree Debarking,80,Yes,,,-91.41,43.95,Tetrastichus planipennisi,josthus,Great River Bluffs State Park 1,0
+Connecticut,"2,258",We did partial debarking of 4 trees. Tets were found in smallest tree. 2 broods and adults.,0,Program,CTM01,"10/5/2015, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,Yes,"11/29/2015, 7:00 PM",Dr. Juli Gould APHIS PPQ,-73.1,41.53,Confirmed Tetrastichus planipennisi. 2 Females 1 male.,crutledge,Wittemore Rd Middlebury,0
+Connecticut,"2,258","We partially debarked one larger tree, completely debarked tree in which we found tets. CC of tree was 2 lightly infested",0,Program,CTM02,"10/14/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,2,Yes,"11/29/2015, 7:00 PM",,-73.08,41.52,"Tetrastichus larvae found, no adults for ID.",crutledge,Wittemore Rd Middlebury,0
+Connecticut,,"Partly debarked a small 3 trunk tree. Saw and collected adults, saw and photographed larvae",0,,CTP03,"10/6/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,"11/29/2015, 7:00 PM",Dr. Juli Gould APHIS PPQ,-72.98,41.5,Tetrastichus planipennisi confirmed. 2 Female T. planipennisi.,crutledge,,0
+Connecticut,"2,256","Debarked upper branches of recently felled tree. Found brood with pupae, emerged in lab",0,Program,CTB01,"10/19/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,"11/29/2015, 7:00 PM",Dr. Juli Gould USDA APHIS,-73.01,41.45,Tetrastichus planipennisi confirmed. 3 Females 1 Male.,crutledge,straitsville prospect,0
+Michigan,,"30-min visual egg search per tree. Data for Tree #2, 12.8-cm DBH",0,Research,BFCV2,"4/15/2013, 8:00 PM",0,0,9,0,0,0,Egg Collection,33,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT_C,0
+Michigan,,"sample from Tree#3, 10.5-cm DBH",0,Research,BFCV3,"4/15/2013, 8:00 PM",0,0,2,0,0,0,Egg Collection,12,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT_C,0
+Michigan,,"samples from tree#4, 10.4-cm DBH",0,Research,BFCV4,"4/15/2013, 8:00 PM",0,0,5,0,0,0,Egg Collection,10,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT_C,0
+Michigan,,"eggs from tree#5, 15-cm DBH",0,,BFCV5,"4/15/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,3,Yes,,Leah Bauer,-84.6,42.35,,lsbauer,,0
+Michigan,,"Visual egg samples taken from Tree#4, 10.6-cm DBH",0,Research,BFRV4,"4/16/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,4,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT,0
+Michigan,,"sample from tree#5, 11.2-cm DBH",0,Research,BFRV5,"4/16/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,11,Yes,,Leah Bauer,-84.59,42.59,,lsbauer,BFPKLT,0
+Michigan,,"sample from tree#6, 16.8-cm DBH",0,Research,BFVR6,"4/16/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,5,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT,0
+Michigan,,sample from tree#10. 11.2-cm DBH,0,Research,BFRV10,"4/16/2013, 8:00 PM",0,0,3,0,0,0,Egg Collection,9,Yes,,Leah Bauer,-84.6,42.59,,lsbauer,BFPKLT,0
+Michigan,"1,769","sample tree#9, 11.4 cm DBH",0,,CPRV9,"4/16/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,4,Yes,,Leah Bauer,-84.42,42.73,,lsbauer,,0
+Michigan,25,"sample tree#5, 10.2 cm DBH",0,Research,GSWRV5,"4/23/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,20,Yes,,Leah Bauer,-84.27,43.14,,lsbauer,GSW,0
+Michigan,25,"sample tree#6, 8.8 cm DBH",0,Research,GSWRV6,"4/23/2013, 8:00 PM",0,0,2,0,0,0,Egg Collection,13,Yes,,Leah Bauer,-84.27,43.2,,lsbauer,GSW,0
+Michigan,25,"sample tree#7, 10.2 cm DBH",0,Research,GSWRV7,"4/23/2013, 8:00 PM",0,0,3,0,0,0,Egg Collection,11,Yes,,Leah Bauer,-84.27,43.14,,lsbauer,GSW,0
+Michigan,"1,770","sample tree#4 tag#1717, 20.5 cm DBH",0,Research,LPRV4,"4/8/2013, 8:00 PM",0,0,1,0,0,0,Egg Collection,1,Yes,,Leah Bauer,-84.38,42.7,Oobius ID confirmed by L.Bauer,lsbauer,LPRFLT,0
+Michigan,"1,770","sample tree#7 tag#1725, 14.0 cm DBH",0,Research,LPRV7,"4/8/2013, 8:00 PM",0,0,2,0,0,0,Egg Collection,4,Yes,,Leah Bauer,-84.38,42.7,Oobius ID confirmed by L.Bauer,lsbauer,LPRFLT,0
+Michigan,54,"sample tree#1, 13.6 cm DBH",0,,MRERV1,"4/21/2013, 8:00 PM",0,0,2,0,0,0,Egg Collection,5,Yes,,Leah Bauer,-84.54,43.14,,lsbauer,,0
+Michigan,,"EAB eggs from sieved/sorted bark sample 50x100cm, from 22.2 cm DBH ash tree",0,,RLCB9832,"6/11/2014, 8:00 PM",0,0,2,0,0,0,Bark Sifting,7,Yes,,Leah Bauer,-84.34,42.82,,lsbauer,,0
+Michigan,,"EAB eggs from sieved/sorted bark sample 50x100cm, 18.5 cm DBH tree",0,,LPRB9814,"5/27/2014, 8:00 PM",0,0,4,0,0,0,Bark Sifting,13,Yes,,Leah Bauer,-84.38,42.7,,lsbauer,,0
+Ohio,36,Logs reared in tubes,0,Research,vbr,"4/29/2010, 8:00 PM",0,0,3,0,0,0,Logs in Tubes,8,Yes,,Leah Bauer,-83.62,41.13,O. agrili confirmed (Juli Gould),lsbauer,vbr,0
+Michigan,22,logs reared in tubes,0,Research,SR,"5/12/2010, 8:00 PM",0,0,2,0,0,0,Logs in Tubes,1,Yes,,Leah Bauer,-84.11,43.34,Oobius adult IDs confirmed by L. Bauer,lsbauer,sr,0
+Michigan,,brood of 34 in L3; 9.9 cm DBH,0,,WMPS9,"2/4/2015, 7:00 PM",0,34,0,0,1,0,Tree Debarking,1,Yes,,Leah Bauer,-83.37,42.13,,lsbauer,,0
+Michigan,,"known brood sizes 20, 55, 24, 13, 32, 34, 7, 90, 30, 14; 10 cm DBH",0,,WMPS8,"2/4/2015, 7:00 PM",0,320,0,0,12,0,Tree Debarking,1,Yes,,Leah Bauer,-83.37,42.13,,lsbauer,,0
+Michigan,,brood size unk; 10.5 cm DBH,0,,WMPC4,"2/4/2015, 7:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,,Leah Bauer,-83.42,42.17,,lsbauer,,0
+Michigan,,12.5 cm DBH,0,,ION8,"11/13/2014, 7:00 PM",0,0,2,0,0,0,Egg Collection,1,Yes,,Leah Bauer,-85.17,42.96,,lsbauer,,0
+Michigan,,,0,,DFN4,"11/30/2014, 7:00 PM",0,0,1,0,0,0,Egg Collection,5,Yes,,Leah Bauer,-83.25,43.49,,lsbauer,,0
+Michigan,18,null,0,,TUSN,"11/19/2014, 7:00 PM",0,0,1,0,0,0,Egg Collection,3,Yes,,Leah Bauer,-83.37,43.44,null,lsbauer,,0
+Michigan,,,0,,VBR4,"11/17/2014, 7:00 PM",0,0,1,0,0,0,Egg Collection,1,Yes,,Leah Bauer,-83.62,43.13,,lsbauer,,0
+Michigan,,30 min visual search per tree,0,,DeShp6207,"10/21/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,5,Yes,,l,-86.56,45.81,Oobius ID confirmed by L.Bauer,lsbauer,,0
+Michigan,,,0,,DeFFF6646,"10/21/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,3,Yes,,Leah Bauer,-86.6,45.91,Oobius ID confirmed by L.Bauer,lsbauer,,0
+Michigan,,,0,,DePoL7235,"10/21/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,5,Yes,,Leah Bauer,-86.51,45.87,Oobius ID confirmed by L.Bauer,lsbauer,,0
+Michigan,,,0,,DeCon6644,"10/21/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,3,Yes,,Leah Bauer,-86.49,45.9,Oobius ID confirmed by L.Bauer,lsbauer,,0
+Michigan,,,0,,HoPit42,"10/14/2012, 8:00 PM",0,0,5,0,0,0,Egg Collection,16,Yes,,Leah Bauer,-88.49,47.18,Oobius ID L. Bauer,lsbauer,,0
+Michigan,,,0,,HoNElec81,"10/14/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,2,Yes,,Leah Bauer,-88.49,47.23,Oobius ID confirmed by L.Bauer,lsbauer,,0
+Michigan,,,0,,HoBenda82,"10/14/2012, 8:00 PM",0,0,9,0,0,0,Egg Collection,9,Yes,,Leah Bauer,-88.46,47.22,Oobius ID confirmed by L.Bauer,lsbauer,,0
+New York,,Edit needed,0,,UlsterL,"8/8/2015, 8:00 PM",0,99,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-73.96,41.97,null,lsbauer,,0
+New York,,,0,,LeggMills,"8/5/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli GOuld),lsbauer,,0
+New York,,edit needed,0,,Lehigh,"8/8/2015, 8:00 PM",0,99,9,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-73.92,42.15,,lsbauer,,0
+New York,,edit needed,0,,LaureTice,"8/8/2015, 8:00 PM",0,99,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-73.95,42.12,null,lsbauer,,0
+New York,,edit needed,0,,BristBch,"8/8/2015, 8:00 PM",9,99,0,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-73.93,42.11,null,lsbauer,,0
+New York,,edit needed,0,,BattCkNY,"8/8/2015, 8:00 PM",0,99,9,0,0,0,Yellow Pan Traps,0,Yes,,Juli Gould,-78.99,42.15,,lsbauer,,0
+Illinois,51,null,0,Program,FGG,"8/10/2011, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,9,No,,Juli Gould,-87.76,41.98,Juli Gould identified as S. agrili.,juligould,FGG,0
+Maryland,"1,836",Gaye Williams,0,Program,Temple H1,"7/5/2013, 8:00 PM",0,9,0,0,0,0,Logs in Tubes,1,Yes,,,-76.93,38.79,null,juligould,Temple Hill 1,0
+Maryland,"1,943",null,0,Program,W. Pike,"10/3/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,,,-78.24,39.7,null,juligould,Western Pike,0
+Michigan,"3,019",null,0,Research,Benda,"8/23/2012, 8:00 PM",1,0,1,0,0,0,Yellow Pan Traps,15,Yes,,,-88.45,47.22,S. agrili confirmed (Juli Gould),juligould,Benda,0
+Michigan,"3,019",,0,Research,Benda,"10/31/2012, 8:00 PM",0,0,8,0,0,0,Egg Collection,8,Yes,,A.Storer shipped to L.Bauer,-88.45,47.22,Oobius ID confirmed by L.Bauer,juligould,Benda,0
+Michigan,"1,773",,0,Research,BFPKLT,"8/5/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen.,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"8/12/2010, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adult identified by J. Hansen.,juligould,BFPKLT,0
+Michigan,"1,773",null,0,Research,BFPKLT,"8/19/2010, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,null,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"8/23/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"8/26/2010, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adult identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"8/30/2010, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adult identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"9/2/2010, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"9/6/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"9/9/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",null,0,Research,BFPKLT,"9/12/2010, 8:00 PM",1,9,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"9/16/2010, 8:00 PM",1,7,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"9/20/2010, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.6,42.59,Tetrastichus planipennisi adults identified by J. Hansen,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"5/22/2012, 8:00 PM",0,0,8,0,0,0,Bark in Tubes,11,Yes,,Kris Abell,-84.6,42.59,Oobius confirmed by K. Abell,juligould,BFPKLT,0
+Michigan,"1,773",,0,Research,BFPKLT,"5/22/2012, 8:00 PM",0,0,102,0,0,0,Egg Collection,305,Yes,,Leah Bauer,-84.6,42.59,Oobius confirmed by L. Bauer,juligould,BFPKLT,0
+Michigan,"1,773",null,0,Research,BFPKLT,"5/13/2013, 8:00 PM",0,0,4,0,0,0,Bark in Tubes,20,Yes,,Kris Abell,-84.6,42.59,Oobius confirmed (Juli Gould),juligould,BFPKLT,0
+Michigan,"1,773",null,0,Research,BFPKLT,"5/12/2013, 8:00 PM",0,0,3,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.6,42.59,O. agrili confirmed (Juli Gould),juligould,BFPKLT,0
+Michigan,"1,798",,0,Research,BFPKLT_C,"5/22/2012, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,8,Yes,,Leah Bauer,-84.6,42.58,Oobius confirmed by L. Bauer,juligould,BFPKLT_C,0
+Michigan,"1,798",null,0,Research,BFPKLT_C,"5/13/2013, 8:00 PM",0,0,1,0,0,0,Bark in Tubes,10,Yes,,Leah Bauer,-84.6,42.58,Oobius confirmed (Juli Gould),juligould,BFPKLT_C,0
+Michigan,"1,798",null,0,Research,BFPKLT_C,"5/13/2013, 8:00 PM",0,0,3,0,0,0,Bark Sifting,10,Yes,,Leah Bauer,-84.6,42.58,O. agrili confirmed (Juli Gould),juligould,BFPKLT_C,0
+Michigan,"1,769",Unemerged Oobius from sentinel eggs (J. Duan egg cohort study),0,Research,CPNMLT,"7/29/2008, 8:00 PM",0,0,1,0,0,0,Sentinel Eggs,53,Yes,,Leah Bauer,-84.42,42.73,null,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"7/1/2010, 8:00 PM",1,3,0,0,0,0,Yellow Pan Traps,10,Yes,,Leah Bauer,-84.42,42.73,Tetrastichus planipennisi adults ID by J. Hansen,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"6/30/2011, 8:00 PM",0,0,23,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"7/7/2011, 8:00 PM",0,0,0,0,1,15,Sentinel Larvae,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"7/14/2011, 8:00 PM",0,0,23,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"7/24/2011, 8:00 PM",0,0,19,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"8/11/2011, 8:00 PM",0,0,133,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"8/25/2011, 8:00 PM",0,0,89,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"9/1/2011, 8:00 PM",0,0,0,0,1,8,Sentinel Larvae,6,Yes,,Kris Abell,-84.42,42.73,T. planipennisi ID by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"9/8/2011, 8:00 PM",0,0,80,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"9/21/2011, 8:00 PM",0,0,22,0,0,0,Sentinel Eggs,6,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"5/16/2012, 8:00 PM",0,0,5,0,0,0,Bark in Tubes,18,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"5/17/2012, 8:00 PM",0,0,53,0,0,0,Egg Collection,274,Yes,,Kris Abell,-84.42,42.73,Oobius ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,769",null,0,Research,CPNMLT,"5/7/2013, 8:00 PM",0,0,5,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.42,42.73,O. agrili confirmed (Juli Gould),juligould,CPNMLT,0
+Michigan,"1,769",,0,Research,CPNMLT,"6/3/2013, 8:00 PM",0,0,2,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.42,42.73,O. agrili ID confirmed by K. Abell,juligould,CPNMLT,0
+Michigan,"1,793",,0,Research,CPNMLT_C,"5/17/2012, 8:00 PM",0,0,2,0,0,0,Bark in Tubes,19,Yes,,Kris Abell,-84.42,42.74,Oobius ID confirmed by K. Abell,juligould,CPNMLT_C,0
+Michigan,"1,793",null,0,Research,CPNMLT_C,"5/8/2013, 8:00 PM",0,0,3,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.42,42.74,O. agrili confirmed (Juli Gould),juligould,CPNMLT_C,0
+Michigan,61,null,0,Research,Delta Co.,"8/26/2012, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-86.56,45.91,T. planipennisi (Juli Gould),juligould,Delta Co. Park Site,0
+Michigan,10,null,0,Research,dfg,"9/30/2012, 8:00 PM",0,0,0,0,1,19,Tree Debarking,4,Yes,,Juli Gould,-83.23,43.5,Juli Gould,juligould,dfg,0
+Michigan,"1,953",,0,Program,ForestFut,"10/31/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,6,Yes,,A.Storer shipped to L.Bauer,-86.6,45.91,Oobius ID confirmed by L.Bauer,juligould,Forest of the Future,0
+Michigan,"1,902",,0,Program,Gas Plant,"10/31/2012, 8:00 PM",0,0,6,0,0,0,Egg Collection,6,Yes,,Andrew Storer shipped to L.Bauer,-88.43,47.23,Oobius ID confirmed by L.Bauer,juligould,Gas Plant,0
+Michigan,26,,0,Research,GSW_C,"9/30/2012, 8:00 PM",0,0,1,0,2,0,Tree Debarking,4,Yes,,Jian Duan,-84.45,43.21,IDs confirmed J.Duan,juligould,GSW_C,0
+Michigan,25,Juli Gould,0,Research,GSW,"2/22/2010, 7:00 PM",52,7,0,8,1,0,Tree Debarking,4,Yes,,Juli Gould,-84.45,43.23,null,juligould,GSW,0
+Michigan,25,,0,Research,GSW,"2/22/2010, 7:00 PM",0,0,4,0,0,0,Bark in Tubes,0,Yes,,Leah Bauer,-84.45,43.23,Oobius ID confirmed by L. Bauer,juligould,GSW,0
+Michigan,25,,0,Research,GSW,"5/21/2012, 8:00 PM",0,0,3,0,0,0,Egg Collection,253,Yes,,Leah Bauer,-84.45,43.23,Oobius ID confirmed by L. Bauer,juligould,GSW,0
+Michigan,25,,0,Research,GSW,"5/21/2012, 8:00 PM",0,0,3,0,0,0,Bark in Tubes,11,Yes,,Kris Abell,-84.45,43.23,Oobius confirmed by K. Abell,juligould,GSW,0
+Michigan,25,,0,Research,GSW,"9/30/2012, 8:00 PM",0,0,16,0,4,77,Tree Debarking,4,Yes,,Juli Gould,-84.45,43.23,IDs confirmed J. Duan,juligould,GSW,0
+Michigan,25,,0,Research,GSW,"5/20/2013, 8:00 PM",0,0,2,0,0,0,Bark in Tubes,10,Yes,,Kris Abell,-84.45,43.23,Oobius confirmed (Juli Gould),juligould,GSW,0
+Michigan,25,,0,Research,GSW,"5/20/2013, 8:00 PM",0,0,16,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.45,43.23,O. agrili confirmed (Juli Gould),juligould,GSW,0
+Michigan,26,,0,Research,GSW_C,"5/21/2012, 8:00 PM",0,0,1,0,0,0,Bark Sifting,12,Yes,,Kris Abell,-84.45,43.21,Oobius confirmed by K. Abell,juligould,GSW_C,0
+Michigan,26,,0,Research,GSW_C,"5/20/2013, 8:00 PM",0,0,1,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.45,43.21,O. agrili confirmed (Juli Gould),juligould,GSW_C,0
+Michigan,58,,0,Research,Kronke,"8/22/2012, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-88.46,47.22,T. planipennisi confirmed (Juli Gould),juligould,Kronke Site,0
+Michigan,58,,0,Research,Kronke,"9/17/2012, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-88.46,47.22,No exotic EAB parasitoids found (Juli Gould),juligould,Kronke Site,0
+Michigan,"1,770",,0,Research,LPTFLT,"7/15/2010, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,S. agrili adults ID by J. Hansen,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"7/26/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,Tetrastichus planipennisi adults identified by J. Hansen,juligould,LPRFLT,0
+Indiana,,positive ID,0,,Doak1,"5/4/2016, 8:00 PM",0,225,0,0,8,0,Logs in Tubes,8,Yes,,Leah Bauer,-87.26,41.37,"Tet adults emerged in labe (2/13-5/17/16 from white ash trees. 193F+32M from ~8 broods @ 1 brood/60cm logs, diameters ranging from 11 to 16.5 cm",lsbauer,,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/3/2010, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hanson,-84.38,42.7,Tetrastichus planipennisi adults identified by J. Hansen,juligould,LPRFLT,0
+Michigan,"1,770",null,0,Research,LPRFLT,"8/5/2010, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hanson,-84.38,42.7,null,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/3/2010, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,Tetrastichus planipennisi adults identified by J. Hansen.,juligould,LPRFLT,0
+Michigan,33,null,0,Research,IOG,"8/28/2012, 8:00 PM",0,1,0,0,0,7,Yellow Pan Traps,12,Yes,,Juli Gould,-85.12,42.96,Atanycolus and T. planipennisi confirmed (Juli Gould),juligould,IOG,0
+Michigan,32,null,0,Research,ION,"8/26/2012, 8:00 PM",1,0,0,0,0,2,Yellow Pan Traps,12,Yes,,Juli Gould,-85.12,42.96,S. agrili and Atanycolus confirmed (Juli Gould),juligould,ION,0
+New Hampshire,"2,532",peeled bark on tree 5ft. from release tree. found 2 EAB galleries filled with T.p. larvae. second tree had 5 dead t.p adults that had failed to emerge.,0,Program,SPNHF1,"2/22/2016, 7:00 PM",0,0,0,0,2,0,Tree Debarking,2,Yes,,,-71.53,43.23,,MollyHeuss,SPNHF,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/5/2010, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/9/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,Tetrastichus planipennisi adults identified by J. Hansen.,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/12/2010, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"8/30/2010, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"9/6/2010, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,,-84.38,42.7,Tetrastichus planipennisi adult identified by J. Hansen,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"9/16/2010, 8:00 PM",1,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,Tetrastichus planipennisi adult identified by J. Hansen,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"9/23/2010, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Jason Hansen,-84.38,42.7,Tetrastichus planipennisi adults identified by J. Hansen,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"5/21/2012, 8:00 PM",0,0,10,0,0,0,Egg Collection,91,Yes,,Leah Bauer,-84.38,42.7,Oobius confirmed by L. Bauer,juligould,LPRFLT,0
+Michigan,"1,770",,0,Research,LPRFLT,"5/7/2013, 8:00 PM",0,,7,0,0,0,Bark in Tubes,10,Yes,,Kris Abel,-84.38,42.7,Oobius ID K.Abell,juligould,LPRFLT,0
+Michigan,28,,0,Research,MR2N,"9/3/2012, 8:00 PM",0,1,0,0,0,12,Yellow Pan Traps,12,Yes,,Juli Gould,-84.66,43.13,T. planipennisi and Atanycolus confirmed (Juli Gould),juligould,MR2N,0
+Michigan,"1,803",Oobius unemerged from sentinel eggs (J. Duan egg cohort study).,0,Program,MSUDR,"7/2/2008, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,27,Yes,,Leah Bauer,-84.41,42.7,,juligould,MSUDR,0
+Michigan,"1,803",,0,Program,MSUDR,"7/29/2008, 8:00 PM",0,0,1,0,0,0,Egg Collection,49,Yes,,Leah Bauer,-84.41,42.7,Oobius ID confirmed by L. Bauer,juligould,MSUDR,0
+Michigan,"3,014",,0,Research,N.ElecPk.,"10/31/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,1,Yes,,A.Storer shipped to L.Bauer,-88.47,47.22,Oobius ID confirmed by L.Bauer,juligould,North Electric Park,0
+Michigan,,,0,,MSUTRC2,"6/30/2010, 8:00 PM",0,0,0,0,8,0,Tree Debarking,86,Yes,,Deb Mcullough,-84.46,42.68,Tetrastichus planipennisi (individuals not counted). ID by D. McCullough,juligould,,0
+Michigan,,,0,,WhitmLk1,"10/31/2011, 8:00 PM",0,41,,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-83.7,42.44,T. planipennisi adult ID J. Lelito,juligould,,0
+Michigan,,,0,,IsLake1,"11/28/2011, 7:00 PM",0,22,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-83.72,42.5,T. planipennisi adult ID J. Lelito,juligould,,0
+Michigan,,,0,,Charlot1,"12/4/2011, 7:00 PM",0,32,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.84,42.52,T. planipennisi adult ID J. Lelito,juligould,,0
+Michigan,,,0,,Charlot2,"11/30/2011, 7:00 PM",0,123,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.84,42.52,T. planipennisi adult ID J. Lelito,juligould,,0
+Michigan,,,0,,Bellevu1,"5/21/2012, 8:00 PM",0,70,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-85.01,42.51,T. planipennisi adult ID by J. Lelito,juligould,,0
+Michigan,,,0,,Ionia1,"6/30/2012, 8:00 PM",0,0,0,0,6,0,Tree Debarking,15,Yes,,Deb McCullough,-85.12,42.96,T.planipennisi ID by D.McCullough,juligould,,0
+Michigan,,,0,,MapleR1,"6/30/2012, 8:00 PM",0,0,0,0,90,0,Tree Debarking,25,Yes,,Deb McCullough,-84.5,43.15,Tetrastichus planipennisi ID confirmed by D. McCullough,juligould,,0
+Michigan,,,0,,MapleR2,"6/30/2012, 8:00 PM",0,0,0,0,10,0,Tree Debarking,15,Yes,,Deb McCullough,-84.54,43.15,Tetrastichus planipennisi ID confirmed by D. McCullough,juligould,,0
+Michigan,,,0,,TRCMSU3,"6/30/2012, 8:00 PM",0,0,0,0,8,0,Tree Debarking,18,Yes,,Deb McCullough,-84.46,42.68,Tetrastichus planipennisi ID confirmed by D. McCullough,juligould,,0
+Michigan,,,0,,PortSGA,"6/30/2012, 8:00 PM",0,0,0,0,1,0,Tree Debarking,20,Yes,"6/30/2012, 8:00 PM",Deb McCullough,-84.93,42.81,Tetrastichus planipennisi ID confirmed by D. McCullough,juligould,,0
+Michigan,,,0,,Bright1,"9/5/2012, 8:00 PM",0,52,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-83.86,42.51,Tetrastichus planipennisi ID J. Lelito,juligould,,0
+Michigan,,,0,,DeltSch1,"10/31/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,16,Yes,,A.Storer shipped to L.Bauer,-86.49,45.9,Oobius ID confirmed by L.Bauer,juligould,,0
+Michigan,,,0,,Alma10,"2/14/2013, 7:00 PM",0,7,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,T.planipennisi ID J.Lelito,juligould,,0
+Michigan,,,0,,Alma09,"2/24/2013, 7:00 PM",0,24,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.74,43.36,T. planipennisi adult ID J.Lelito,juligould,,0
+Michigan,,,0,,Alma08,"3/5/2013, 7:00 PM",0,30,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.74,43.36,T. planipennisi ID J.Lelito,juligould,,0
+Michigan,,,0,,TRCMSU2,"6/30/2013, 8:00 PM",0,0,0,0,30,0,Tree Debarking,59,Yes,,Deb McCullough,-84.46,42.68,Deb McCullough confirmed ID of T. planipennisi,juligould,,0
+Michigan,,,0,,MRWEST2,"6/30/2013, 8:00 PM",0,,0,0,1,0,Tree Debarking,12,Yes,,Deb McCullough,-84.87,43.03,Deb McCullough confirmed ID of T.planipennisi,juligould,,0
+Michigan,,,0,,Alma07,"9/16/2013, 8:00 PM",0,25,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,T. planipennisi ID J.Lelito,juligould,,0
+Michigan,,,0,,Alma06,"9/17/2013, 8:00 PM",0,2,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,T. planipennisi ID J.Lelito,juligould,,0
+Michigan,,,0,,Alma05,"9/24/2013, 8:00 PM",0,5,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,Jon Lelito confirmed ID,juligould,,0
+Michigan,,,0,,Alma04,"9/26/2013, 8:00 PM",0,11,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,Jon Lelito confirmed ID,juligould,,0
+Michigan,,,0,,FarmHi1,"9/26/2013, 8:00 PM",0,32,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-83.38,42.49,Jon Lelito confirmed ID,juligould,,0
+Michigan,,,0,,Alma03,"10/1/2013, 8:00 PM",0,17,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.76,43.36,Jon Lelito cofirmed ID of T. planipennisi,juligould,,0
+Michigan,,,0,,SagBay2,"11/30/2013, 7:00 PM",0,4,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84,43.84,adult IDs confirmed by J. Lelito,juligould,,0
+Michigan,,,0,,SagBay1,"12/3/2013, 7:00 PM",0,19,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.02,43.76,adult IDs confirmed by J. Lelito,juligould,,0
+Michigan,,,0,,Alma02,"12/9/2013, 7:00 PM",0,19,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.66,43.38,adult IDs confirmed by J. Lelito,juligould,,0
+Michigan,,,0,,Alma01,"12/19/2013, 7:00 PM",0,11,0,0,0,0,Logs in Tubes,0,Yes,,Jon Lelito,-84.74,43.35,adult IDs confirmed by J. Lelito,juligould,,0
+Michigan,,,0,,JAAuSab2,"6/30/2014, 8:00 PM",0,0,0,0,1,0,Tree Debarking,22,Yes,,Deb McCullough,-84.56,43.54,Identified by Deb McCullough,juligould,,0
+Kentucky,,,0,,And 2.2,"2/12/2015, 7:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,,-84.96,38.01,,Lrieske,,0
+Kentucky,,,0,,And 3.3,"2/12/2015, 7:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,,-84.96,38.01,,Lrieske,,0
+Kentucky,,,0,,Hen 1.1,"3/1/2015, 7:00 PM",0,0,0,0,4,0,Tree Debarking,4,Yes,,,-84.84,38.57,,Lrieske,,0
+Kentucky,,,0,,Hen 2.3,"3/1/2015, 7:00 PM",0,0,0,0,4,0,Tree Debarking,4,Yes,,,-85.15,38.56,,Lrieske,,0
+Kentucky,,,0,,Hen 3.3,"3/1/2015, 7:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,,-85.15,38.56,,Lrieske,,0
+Kentucky,,,0,,She 1.4,"3/1/2015, 7:00 PM",0,0,0,0,2,0,Tree Debarking,4,Yes,,,-85.36,38.28,,Lrieske,,0
+Kentucky,,,0,,She 2.3,"3/1/2015, 7:00 PM",0,0,0,0,4,0,Tree Debarking,4,Yes,,,-85.36,38.28,,Lrieske,,0
+Kentucky,,,0,,She 3.4,"3/1/2015, 7:00 PM",0,0,0,0,4,0,Tree Debarking,4,Yes,,,-85.37,38.28,,Lrieske,,0
+Michigan,"1,895",,0,Program,North GMO,"8/22/2012, 8:00 PM",0,5,3,0,0,3,Yellow Pan Traps,15,Yes,,Juli Gould,-88.46,47.22,"T. planipennisi confirmed, O. agrili confirmed, Atanycolus confirmed (Juli Gould)",juligould,North GMO,0
+,"2,772",,0,Program,Wakefield,"10/21/2015, 8:00 PM",0,937,0,0,0,0,Logs in Tubes,86,Yes,"4/28/2016, 8:00 PM",J. Gould,-75.95,45.64,,gcjones,Wakefield,0
+,"2,733",,0,Program,Ottawa,"10/21/2015, 8:00 PM",0,42,0,0,0,0,Logs in Tubes,136,Yes,"4/28/2016, 8:00 PM",J. Gould,-75.61,45.34,,gcjones,Ottawa,0
+,"2,734",,0,Program,Middleton,"10/19/2015, 8:00 PM",0,26,0,0,0,0,Logs in Tubes,161,Yes,,,-80.62,42.81,,gcjones,Middleton McConkey Tract,0
+Michigan,"1,900",,0,Program,Pit,"10/31/2012, 8:00 PM",0,0,5,0,0,0,Egg Collection,5,Yes,,A.Storer shipped to L.Bauer,-88.49,47.18,Oobius ID confirmed by L.Bauer,juligould,Pit,0
+Michigan,55,,0,Research,RL,"5/29/2013, 8:00 PM",0,0,2,0,0,0,Bark Sifting,10,Yes,,Kris Abell,-84.35,42.82,O. agrili confirmed (Juli Gould),juligould,RL,0
+Michigan,"1,947",,0,Program,Sharp,"10/31/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,29,Yes,,A.Storer shipped to L.Bauer,-86.56,45.81,Oobius ID confirmed by L.Bauer,juligould,Sharp,0
+Michigan,"2,104",,0,Research,SL,"2/4/2008, 7:00 PM",87,,0,16,,0,Tree Debarking,4,Yes,,Juli Gould,-83.66,42.82,,juligould,SL,0
+Michigan,22,,0,Research,SR,"2/22/2010, 7:00 PM",26,0,,4,0,0,Tree Debarking,4,Yes,,Juli Gould,-84.11,43.34,,juligould,sr,0
+Michigan,22,,0,Research,SR,"2/22/2010, 7:00 PM",0,0,2,0,0,0,Bark in Tubes,16,Yes,,Leah Bauer,-84.11,43.34,Oobius ID confirmed by L. Bauer,juligould,sr,0
+Michigan,22,,0,Research,SR,"8/16/2011, 8:00 PM",1,0,0,0,0,8,Yellow Pan Traps,15,Yes,,Juli Gould,-84.11,43.34,S. agrili and Atanycolus confirmed (Juli Gould),juligould,sr,0
+Michigan,21,,0,Research,SR_C,"8/26/2012, 8:00 PM",1,0,0,0,0,6,Yellow Pan Traps,11,Yes,,Juli Gould,-84.07,43.36,Atanycolus and S. agrili confirmed (Juli Gould),juligould,sr_C,0
+Michigan,59,,0,Research,Tecumseh,"8/22/2012, 8:00 PM",0,2,8,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-88.46,47.22,T. planipennisi and O. agrili confirmed (Juli Gould),juligould,Tecumseh Site,0
+Michigan,59,,0,Research,Tecumseh,"9/16/2012, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-88.46,47.22,T. planipennisi confirmed (Juli Gould),juligould,Tecumseh Site,0
+Michigan,14,,0,Research,tung,"9/10/2012, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,12,Yes,,Juli Gould,-83.36,43.45,T. planipennisi confirmed (Juli Gould),juligould,tung,0
+Michigan,17,,0,Research,tusg,"9/30/2012, 8:00 PM",0,0,0,0,1,33,Tree Debarking,4,Yes,,Juli Gould,-83.36,43.43,,juligould,tusg,0
+Michigan,18,,0,Research,tusn,"9/30/2012, 8:00 PM",0,0,0,0,4,4,Tree Debarking,4,Yes,,Juli Gould,-83.37,43.44,,juligould,tusn,0
+New York,"1,745",,0,Research,Btl Creek,"9/17/2012, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-78.99,42.15,S. agrili confirmed (Juli Gould),juligould,Battle Creek,0
+New York,"1,745",,0,Research,Btl Creek,"4/7/2013, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,Juli Gould,-78.99,42.15,T. planipennisi and S. agrili confirmed (Juli Gould),juligould,Battle Creek,1
+New York,"1,739",,0,Research,BristBch,"9/3/2012, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.93,42.11,S. agrili confirmed (Juli Gould),juligould,Bristol Beach,0
+New York,"1,739",,0,Research,BristBch,"3/11/2013, 8:00 PM",0,0,0,1,0,0,Tree Debarking,4,Yes,,Juli Gould,-73.93,42.11,Spathius confirmed (Juli Gould),juligould,Bristol Beach,0
+New York,"2,398",,0,Research,Currey Av,"7/4/2013, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"7/11/2013, 8:00 PM",0,0,6,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,,,0,,Currey Av,"7/18/2013, 8:00 PM",0,0,10,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,Site ID: Currey Ave,juligould,,0
+New York,"2,398",,0,Research,Currey Av,"8/1/2013, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"8/8/2013, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,,,0,,Currey Av,"8/22/2013, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,Site ID: Currey Ave,juligould,,0
+New York,"2,398",,0,Research,Currey Av,"8/29/2013, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"9/4/2013, 8:00 PM",0,0,0,2,0,0,Sentinel Larvae,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,,,0,,Currey Av,"9/5/2013, 8:00 PM",1,8,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,Site ID: Currey Ave,juligould,,0
+New York,"2,398",,0,Research,Currey Av,"9/12/2013, 8:00 PM",2,17,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"9/12/2013, 8:00 PM",0,0,0,3,0,0,Sentinel Larvae,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"9/19/2013, 8:00 PM",2,16,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"2,398",,0,Research,Currey Av,"10/3/2013, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,,,0,,Currey Av,"10/10/2013, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,10,No,,Mike Parisio,-73.85,42.55,,juligould,,0
+New York,"2,398",,0,Research,Currey Av,"11/30/2013, 7:00 PM",0,0,0,4,53,0,Tree Debarking,10,Yes,,Mike Parisio,-73.85,42.55,,juligould,Currey Ave,0
+New York,"1,737",,0,Research,East Pky,"8/7/2012, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,S. agrili confirmed (Juli Gould),juligould,Eastern Parkway,0
+New York,"1,737",,0,Research,East Pky,"8/13/2012, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,S. agrili confirmed (Juli Gould),juligould,Eastern Parkway,0
+New York,"1,737",,0,Research,East Pky,"8/27/2012, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,S. agrili confirmed (Juli Gould),juligould,Eastern Parkway,0
+New York,,,0,,East Pky,"9/3/2012, 8:00 PM",1,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,T. planipennisi and S. agrili confirmed (juli gould),juligould,,0
+New York,,,0,,East Pky,"3/12/2013, 8:00 PM",10,0,0,1,0,0,Tree Debarking,4,Yes,,Juli Gould,-73.99,42,S. agrili confirmed (Juli Gould),juligould,,0
+New York,,,0,,East Pky,"3/13/2013, 8:00 PM",2,0,0,0,0,0,Logs in Tubes,1,Yes,,Juli Gould,-73.99,42,Site ID: Eastern Parkway,juligould,,0
+New York,"1,744",,0,Research,Watts Rd.,"9/3/2012, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi confirmed (Juli Gould),juligould,Watts Road,0
+New York,"2,099",,0,Program,W.YardRd.,"7/18/2013, 8:00 PM",0,0,7,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"7/25/2013, 8:00 PM",0,0,2,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"8/22/2013, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"8/29/2013, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/5/2013, 8:00 PM",7,1,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/5/2013, 8:00 PM",0,0,0,1,0,0,Sentinel Larvae,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/12/2013, 8:00 PM",2,5,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/12/2013, 8:00 PM",3,0,0,0,0,0,Sentinel Larvae,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/19/2013, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/19/2013, 8:00 PM",0,0,0,1,0,0,Sentinel Larvae,7,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"9/28/2013, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd.,"10/10/2013, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,10,Yes,,Mike Parisio,-73.86,42.57,,juligould,"West Yard Road, Selkirk, NY",0
+New York,,,0,,W.YardRd.,"11/30/2013, 7:00 PM",0,"1,488",11,6,66,0,Tree Debarking,10,Yes,,Mike Parisio,-73.86,42.57,Site ID: West Yard Road,juligould,,0
+Ohio,34,,0,Research,abr,"2/22/2010, 7:00 PM",0,4,0,0,0,0,Logs in Tubes,1,Yes,,Juli Gould,-84.3,41.49,,juligould,abr,0
+Tennessee,"2,047",,0,Program,Cactus C,"12/13/2012, 7:00 PM",0,0,0,1,0,0,Tree Debarking,3,Yes,,Greg Wiggins,-84.09,35.84,,juligould,Haven Hill/Cactus Cove,0
+Wisconsin,"1,480",,0,Program,R.E.N.C,"12/31/2012, 7:00 PM",0,35,0,0,0,0,Logs in Tubes,4,Yes,,Todd Johnson,-88.04,43.44,,juligould,River Edge Nature Center,0
+New York,"1,745",165 EAB larvae,0,Research,Btl Creek,"5/12/2014, 8:00 PM",0,3,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-78.99,42.15,T. planipennisi confirmed (Juli Gould),juligould,Battle Creek,0
+New York,"1,736",111 EAB Larvae,0,Research,Cementon,"5/9/2014, 8:00 PM",0,1,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-73.92,42.15,T. planipennisi confirmed (Juli GOuld),juligould,Cementon North,0
+New York,,1 EAB Larva,0,,Conewango,"5/14/2014, 8:00 PM",0,1,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"1,740",5 EAB Larvae,0,Research,Leggs Mil,"3/14/2016, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,No,,Juli Gould,-74,41.99,T. planipennisi (Juli Gould),juligould,Leggs Mills Road,0
+New York,"2,118",5 EAB Larvae,0,,Schoolhou,"5/13/2014, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,No,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,739",158 EAB Larvae,0,Research,BristBch,"3/9/2015, 8:00 PM",0,2,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-73.93,42.11,T. planipennisi confirmed (Juli Gould),juligould,Bristol Beach,0
+New York,"1,736",100 EAB Larvae,0,Research,Cementon,"3/9/2015, 8:00 PM",0,2,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-73.92,42.15,T. planipennisi confirmed (Juli Gould),juligould,Cementon North,0
+New York,"1,737",265 EAB Larvae,0,,East Pky,"3/8/2015, 8:00 PM",0,0,0,0,3,0,Tree Debarking,4,Yes,,Juli Gould,-73.99,42,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,145 EAB Larvae,0,,Ulster L.,"3/8/2015, 8:00 PM",0,11,0,0,1,0,Tree Debarking,4,Yes,,Juli Gould,-73.96,41.97,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,Dead Tet Larvae,0,,AirportNY,"5/10/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,Juli Gould,-79.03,42.16,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"2,117",,0,,AirportNY,"5/12/2016, 8:00 PM",0,0,0,0,4,0,Tree Debarking,4,Yes,,Juli Gould,-79.03,42.16,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"1,745",Tet Meconium in overwinter chamber,0,Research,Btl Creek,"5/11/2015, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,Yes,,Juli Gould,-78.99,42.15,Tet confirmed (Juli Gould),juligould,Battle Creek,0
+New York,"1,751",meconia,0,Research,Conewango,"5/11/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,Juli Gould,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"1,743","meconia, exit holes & EAB head capsule possibly from last year",0,,Ormond,"5/11/2015, 8:00 PM",0,0,0,0,3,0,Tree Debarking,4,Yes,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,,0
+New York,,Collected in Vial,0,,Ormond,"5/11/2014, 8:00 PM",0,1,0,0,0,0,Tree Debarking,4,Yes,,Juli Gould,-79.01,42.16,,juligould,,0
+New York,"2,118",,0,,Schoolhou,"5/11/2015, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,Yes,,Juli Gould,-79.02,42.15,Tetrastichus (Juli Gould),juligould,,0
+New York,"2,118",,0,,Schoolhou,"5/12/2016, 8:00 PM",0,0,0,0,2,4,Tree Debarking,4,Yes,,Juli Gould,-79.02,42.15,"Tetrastichus, Atanycolus individuals present (Juli Gould)",juligould,,0
+Wisconsin,"2,194",Twenty dead adults tentatively identified as Tetrastichus using photos. Representative specimens sent to Juli Gould.,0,Program,Tree1-BFB,"5/5/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,"5/31/2016, 8:00 PM",Juli Gould,-88.44,42.57,Five Female and 1 male T. planipennisi ID'd by Juli Gould.,billmcnee,Big Foot Beach State Park,0
+Wisconsin,"2,194",Five dead (presumed) Tetrastichus adults found in an EAB gallery.,0,Program,Tree5-BFB,"5/5/2016, 8:00 PM",0,,0,0,1,0,Tree Debarking,1,Yes,"5/31/2016, 8:00 PM",Juli Gould,-88.43,42.57,8 Female T. planipennisi. Mostly just abdomens and two thoraxes. Confirmed as T. planipennisi.,billmcnee,Big Foot Beach State Park,0
+Wisconsin,"2,193",Cluster of nine white pupae collected from an EAB gallery and reared to adults.,0,Program,Tree5-Ken,"5/10/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,"5/31/2016, 8:00 PM",Juli Gould,-87.88,42.58,3 female and 3 male T. planipennisi ID'd by Juli Gould,billmcnee,Nash Park Kenosha,0
+Wisconsin,"2,203",One cluster of 15 white pupae found in an EAB larval gallery. Reared to adults. Representative samples sent to Juli Gould.,0,Program,Caledonia,"5/18/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,"5/31/2016, 8:00 PM",Juli Gould,-87.91,42.84,3 Female T. planipennisi confirmed by Juli Gould.,billmcnee,Root River Parkway,0
+Wisconsin,"2,556",,0,Program,ScoutLake,"5/4/2017, 8:00 PM",0,26,0,0,4,3,Tree Debarking,4,Yes,,,-87.98,42.94,"Tetrastichus specimens (pupae and reared adults) identified by Bill McNee, Forest Health Specialist, WI DNR",billmcnee,Scout Lake Park,0
+New Hampshire,"2,534",null,0,Program,NH DP 13,"6/1/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"6/16/2016, 8:00 PM",Juli Gould,-71.52,43.2,1 female T. planipennisi confirmed by Juli Gould.,MollyHeuss,Dog Park,0
+New Hampshire,"2,532",null,0,Program,SPNHF 13,"6/1/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"6/16/2016, 8:00 PM",Juli Gould,-71.53,43.23,1 female T. planipennisi confirmed by Juli Gould.,MollyHeuss,SPNHF,0
+New York,"2,390",,0,Research,Greenway,"5/25/2016, 8:00 PM",0,50,0,0,0,0,Yellow Pan Traps,60,Yes,"5/25/2016, 8:00 PM",Juli Gould,-77.75,43.01,,juligould,Chili Dispersal 2,0
+New York,"2,390",null,0,Research,Greenway,"6/1/2016, 8:00 PM",0,46,0,0,0,0,Yellow Pan Traps,60,Yes,,Juli Gould,-77.75,43.01,T. planipennisi and S. galinae found in sample (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"6/8/2016, 8:00 PM",11,58,0,0,0,0,Yellow Pan Traps,60,Yes,,Juli Gould,-77.75,43.01,T. planipennisi and S. agrili in sample (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"6/15/2016, 8:00 PM",0,10,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"6/22/2016, 8:00 PM",0,21,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found in sample (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"6/29/2016, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"7/6/2016, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/9/2016, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,,juligould,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/14/2016, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,,juligould,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/23/2016, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,T. planipennisi found in sample (Juli Gould),juligould,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/30/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,T. planipennisi found in sample (Juli Gould),juligould,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/7/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,T. planipennisi found (Juli Gould),juligould,Syracuse IPM 2,0
+New York,"2,390",,0,Research,Greenway,"7/12/2016, 8:00 PM",0,7,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"7/19/2016, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"7/26/2016, 8:00 PM",0,2,2,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi and O. agrili found (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,390",,0,Research,Greenway,"8/2/2016, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,100,Yes,,Juli Gould,-77.75,43.01,T. planipennisi confirmed (Juli Gould),juligould,Chili Dispersal 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/14/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,T. planipennisi and S. galinae found (Juli Gould),juligould,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/28/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,45,Yes,,Juli Gould,-76.1,43.08,T. planipennisi found (Juli Gould),juligould,Syracuse IPM 2,0
+Michigan,,,0,,Munn 1,"6/29/2016, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,18,Yes,,,-84.52,42.69,"E.E.Morris: 18 egg sentinal pouches (10 eggs ea.)placed on individual trees. One pouch had 2 parasitized eggs, confirmed to be O. agrili (molecular ID).",eemorris,,0
+Michigan,,Leah Bauer,0,,MNF-GC1,"3/6/2016, 7:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,,-85.88,43.86,"Adult-Tet release site. Data collected by Ben Sorensen APHIS-CPHST Brighton, Tet-brood size data missing, DBH 9.9-cm @ 10-m",lsbauer,,0
+Michigan,,Leah Bauer,0,,MNF-JR1,"3/7/2016, 7:00 PM",0,42,0,0,1,0,Tree Debarking,4,Yes,,,-85.84,43.85,Adult-Tet release site. Data collected by Ben Sorensen APHIS-CPHST Brighton. DBH 7.0-cm @ 1-m,lsbauer,,0
+Michigan,,Leah Bauer,0,,MNF-OG1,"3/13/2016, 8:00 PM",0,15,0,0,1,0,Tree Debarking,4,Yes,,,-85.86,44.06,Adult-Tet release site. Data collected by Ben Sorensen APHIS-CPHST Brighton. DBH 6.8-cm @ 5-m,lsbauer,,0
+Michigan,,"Leah Bauer, EAB egg with oob emerged",0,,LKEMP1,"1/14/2015, 7:00 PM",0,0,1,0,0,0,Bark Sifting,10,Yes,,,-83.2,42.07,"Data collected by Ben Sorensen, APHIS CPHST Brighton.",lsbauer,,0
+Michigan,"2,656",sentinel egg pouch with 10 eggs. 2 parasitized eggs,0,,E29,"8/4/2016, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,10,Yes,,,-85.33,45.11,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,656",sentinel egg pouch with 10 eggs. 2 parasitized eggs,0,,E40,"8/4/2016, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,10,Yes,,,-85.33,45.11,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,656",sentinel egg pouch with 10 eggs. 4 parasitized eggs,0,,E5,"8/4/2016, 8:00 PM",0,0,4,0,0,0,Sentinel Eggs,10,Yes,,,-85.33,45.11,T. Petrice confirmed ID,tpetrice,,0
+Michigan,25,sentinel egg pouch with 10 eggs. 1 parasitized egg,0,,GSWR6016,"8/2/2016, 8:00 PM",0,0,1,0,0,0,Sentinel Eggs,10,Yes,,,-84.45,43.23,T. Petrice confirmed ID,tpetrice,,0
+Michigan,25,sentinel egg pouch with 10 eggs. 1 parasitized egg,0,,GSWR6018,"8/2/2016, 8:00 PM",0,0,1,0,0,0,Sentinel Eggs,10,Yes,,,-84.45,43.23,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"1,804",sentinel egg pouch with 10 eggs. 4 parasitized eggs,0,,LPC9934,"8/15/2016, 8:00 PM",0,0,4,0,0,0,Sentinel Eggs,10,Yes,,,-84.38,42.69,T. Petrice confirmed ID,tpetrice,,0
+Michigan,,sentinel egg pouch with 10 eggs. 1 parasitized egg,0,,LPC9902,"7/17/2016, 8:00 PM",0,0,1,0,0,0,Sentinel Eggs,10,Yes,,,-84.38,42.69,T. Petrice confirmed ID,tpetrice,,0
+Michigan,,sentinel egg pouch with 10 eggs. 3 parasitized eggs,0,,LPR5037,"8/14/2016, 8:00 PM",0,0,3,0,0,0,Sentinel Eggs,10,Yes,,,-84.38,42.7,T. Petrice confirmed ID,tpetrice,,0
+Michigan,,sentinel egg pouch with 10 eggs. 2 parasitized eggs,0,,LPR5004,"8/14/2016, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,10,Yes,,,-84.38,42.7,T. Petrice confirmed ID,tpetrice,,0
+Michigan,,sentinel egg pouch with 10 eggs. 2 parasitized eggs,0,,E32,"8/18/2016, 8:00 PM",0,0,2,0,0,0,Sentinel Eggs,10,Yes,,,-85.33,45.11,T. Petrice confirmed ID,tpetrice,,0
+Michigan,25,sentinel egg pouch with 10 eggs. 3 parasitized eggs,0,,GSWR6017,"8/15/2016, 8:00 PM",0,0,3,0,0,0,Sentinel Eggs,10,Yes,,,-84.45,43.23,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,656",sentinel egg pouch with 10 eggs. 3 parasitized eggs,0,,E36,"8/31/2016, 8:00 PM",0,0,3,0,0,0,Sentinel Eggs,10,Yes,,,-85.33,45.11,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,845",2 EAB eggs with Oobius exit holes found in 1 of 10 bark samples,0,,Colby521,"5/8/2016, 8:00 PM",0,0,2,0,0,0,Bark Sifting,1,Yes,,,-85.08,43.27,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,842",1 EAB egg with Oobius exit hole found in 1 of 10 bark samples,0,,Tree67,"3/21/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,1,Yes,,,-84.98,43.28,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,842",2 EAB eggs with Oobius exit holes found in 1 of 10 bark samples,0,,Tree69,"3/21/2016, 8:00 PM",0,0,2,0,0,0,Bark Sifting,1,Yes,,,-84.98,43.28,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,832",1 EAB egg with Oobius exit holes found in 1 of 10 bark samples,0,,Tree226,"4/21/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,1,Yes,,,-85.07,43.42,T. Petrice confirmed ID,tpetrice,,0
+Michigan,"2,833",1 EAB egg with Oobius exit holes found in 1 of 10 bark samples,0,,Tree326,"4/21/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,1,Yes,,,-85.09,43.43,T. Petrice confirmed ID,tpetrice,,0
+New York,,,0,,Btl Creek,"7/28/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-78.99,42.15,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,No Date,0,,Btl Creek,"8/30/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-78.99,42.15,,juligould,,0
+New York,,,0,,Brist Bch,"8/4/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.93,42.11,T. planipennisi confimred (Juli Gould),juligould,,0
+New York,"1,751",,0,Research,Conewango,"8/19/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"1,743",,0,Research,DOT,"8/24/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-79,42.16,T. planipennisi found (Juli Gould),juligould,DOT North,0
+New York,"1,743",,0,Research,DOT,"9/14/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-79,42.16,T. planipennisi confirmed (Juli Gould),juligould,DOT North,0
+New York,"1,743",,0,Research,DOT,"8/19/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,12,Yes,,Juli Gould,-79,42.16,T. planipennisi confirmed (Juli Gould),juligould,DOT North,0
+New York,"1,743",,0,Research,DOT,"9/21/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-79,42.16,T. planipennisi found (Juli Gould),juligould,DOT North,0
+New York,"1,743",No Date,0,Research,DOT,"8/30/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-79,42.16,,juligould,DOT North,0
+New York,,,0,,East Pky,"7/20/2014, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,5,Yes,,Juli Gould,-73.99,42,Oobius and T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"1,737",,0,Research,East Pky,"9/1/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,12,Yes,,Juli Gould,-73.99,42,T. planipennisi (Juli Gould),juligould,Eastern Parkway,0
+New York,,,0,,East Pky,"8/17/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-73.99,42,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,Lauren Tice,0,,Lauren T,"9/14/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.95,42.12,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,Lauren Tice,0,,Lauren T,"9/1/2014, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.95,42.12,T. planipennisi found (Juli Gould),juligould,,0
+New York,,Lauren Tice,0,,Lauren T,"7/20/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.95,42.12,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,Lauren Tice,0,,Lauren T,"8/4/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,11,Yes,,Juli Gould,-73.95,42.12,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,Lauren Tice,0,,Lauren T,"9/7/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.95,42.12,T. planipennisi found (Juli Gould),juligould,,0
+New York,"1,740",,0,Research,Leggs Mil,"9/14/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli GOuld),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"9/21/2014, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"8/25/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"9/1/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"8/10/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,12,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"8/17/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"9/7/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,12,Yes,,Juli Gould,-74,41.99,T. planipennisi (Juli Gould),juligould,Leggs Mills Road,0
+New York,,,0,,Lehigh,"9/1/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.92,42.15,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,,,0,,Lehigh,"9/22/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-73.92,42.15,T. planipennisi male (Juli Gould),juligould,,0
+New York,,Schoolhouse rd,0,,Schoolhou,"8/19/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,No,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,Ulster Landing,0,,Ulster L,"7/27/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"9/14/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"8/4/2004, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,11,Yes,,Juli Gould,-73.96,41.97,,juligould,,0
+New York,,,0,,Ulster L,"7/20/2014, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,11,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"8/10/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"8/17/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,14,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,No Date,0,,Watts,"8/30/2014, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,,Juli Gould,-79.01,42.16,,juligould,,0
+New York,"2,417",Lauren Tice,0,,Lauren T,"6/23/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.95,42.12,6 EAB. T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"1,744",,0,Research,Watts,"6/21/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,2 Female Tets 1 Male Tet 1 EAB (Juli Gould),juligould,Watts Road,0
+New York,"2,118",,0,,Schoolhou,"6/21/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,737",,0,Research,East Pky,"6/23/2015, 8:00 PM",0,14,2,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,"2 EAB 13 F Tet, 1 Male Tet (Juli Gould)",juligould,Eastern Parkway,0
+New York,,,0,,Ulster L,"6/23/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,"2 EAB, T. planipennisi (Juli Gould)",juligould,,0
+New York,"2,122",,0,,Holcim,"6/23/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.91,42.18,T. planipennisi found (Juli Gould),juligould,,0
+New York,"1,740",,0,Research,Leggs Mil,"6/28/2015, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,15,No,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,737",,0,Research,East Pky,"6/28/2015, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,1 EAB. 4 T. planipennisi found (Juli Gould),juligould,Eastern Parkway,0
+New York,,,0,,Ulster L,"6/28/2015, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,745",,0,Research,Btl Creek,"6/28/2015, 8:00 PM",0,0,2,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-78.99,42.15,2 EAB. Oobius agrili confirmed (Juli Gould),juligould,Battle Creek,0
+New York,"1,740",,0,Research,Leggs Mil,"7/5/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,4 EAB. T. Planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,,,0,,Lehigh,"7/5/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,2 EAB. 1M 1F T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,East Pky,"7/5/2015, 8:00 PM",0,17,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,"1 EAB, T. planipennisi found (Juli Gould).",juligould,,0
+New York,"1,744",,0,Research,Watts,"7/5/2015, 8:00 PM",0,2,0,0,0,1,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi and Atanycolus (Juli Gould),juligould,Watts Road,0
+New York,"2,118",,0,,Schoolhou,"7/5/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,740",,0,Research,Leggs Mil,"7/12/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,1 EAB. T. Planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,,,0,,Lehigh,"7/14/2015, 8:00 PM",0,3,2,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,3F T. planipennisi. O. agrili found. (Jason Mottern),juligould,,0
+New York,"1,737",,0,Research,East Pky,"7/13/2015, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,T. planipennisi found (Juli Gould),juligould,Eastern Parkway,0
+New York,"1,744",,0,Research,Watts,"7/14/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,1 tet (Juli Gould),juligould,Watts Road,0
+New York,,,0,,Ulster L,"7/19/2015, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,737",,0,Research,East Pky,"7/19/2015, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,"O. agrili, T. planipennisi confirmed (Juli Gould)",juligould,Eastern Parkway,0
+New York,"1,740",,0,Research,Leggs Mil,"7/19/2015, 8:00 PM",0,0,7,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,2 EAB. O. Agrili confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,,,0,,Lehigh,"7/19/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,1 EAB. T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"7/26/2015, 8:00 PM",0,12,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,740",,0,Research,Leggs Mil,"7/26/2015, 8:00 PM",0,3,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,T. planipennisi and O. agrili confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"2,118",,0,,Schoolhou,"7/26/2015, 8:00 PM",0,1,0,0,0,1,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi and Atanycolus (Juli Gould),juligould,,0
+New York,"1,744",,0,Research,Watts,"8/2/2015, 8:00 PM",0,3,0,0,0,6,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi and Atanycolus (Juli Gould),juligould,Watts Road,0
+New York,"1,751",,0,Research,Conewango,"7/26/2015, 8:00 PM",0,2,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-78.97,42.17,T. planipennisi and O. agrili confirmed (Jason Mottern),juligould,Conewango Road,0
+New York,,,0,,Ulster L,"8/5/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,DOT,"8/2/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79,42.16,T. planipennisi found (Juli GOuld),juligould,,0
+New York,"1,744",,0,Research,Watts,"7/26/2015, 8:00 PM",0,3,0,0,0,6,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,Watts Road,0
+New York,,,0,,Leggs Mil,"8/9/2015, 8:00 PM",0,1,1,0,0,1,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,"T. planipennisi, O. agrili and atanycolus confirmed (Juli Gould)",juligould,,0
+New York,"1,744",,0,Research,Watts,"8/9/2015, 8:00 PM",0,4,0,0,0,5,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,Atanycolus and T. planipennisi (Juli Gould),juligould,Watts Road,0
+New York,"2,117",,0,,Airport,"8/9/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.03,42.16,T. planipennisi confirmed (Juli Gould),juligould,,0
+New York,"1,737",,0,Research,East Pky,"8/9/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.99,42,T. planipennisi found (Juli Gould),juligould,Eastern Parkway,0
+New York,"1,743",,0,Research,DOT,"8/9/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79,42.16,T. planipennisi found (Juli Gould),juligould,DOT North,0
+New York,"1,745",,0,Research,Btl Creek,"8/9/2015, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,15,No,,Juli Gould,-78.99,42.15,O. agrili and T. planipennisi confirmed (Juli Gould),juligould,Battle Creek,0
+New York,"1,751",,0,Research,Conewango,"8/9/2015, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"1,744",,0,Research,Watts,"9/7/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,No,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,Watts Road,0
+New York,"2,118",,0,,Schoolhou,"9/7/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,No,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Lehigh,"8/16/2015, 8:00 PM",0,1,0,0,0,1,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,T. planipennisi and Atanycolus (Juli Gould),juligould,,0
+New York,"1,751",,0,Research,Conewango,"8/16/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-78.97,42.17,1 Female Tet confirmed (Juli Gould),juligould,Conewango Road,0
+New York,,,0,,Ulster L,"8/16/2015, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,1 Female 1 Male (Juli Gould),juligould,,0
+New York,"1,740",,0,Research,Leggs Mil,"8/16/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,T. planipennisi confirmed (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,744",,0,Research,Watts,"8/16/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,1 Female T. (Juli Gould),juligould,Watts Road,0
+New York,"1,740",,0,Research,Leggs Mil,"8/23/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,Female T. planipennisi (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,744",,0,Research,Watts,"8/23/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,Female T. (Juli Gould),juligould,Watts Road,0
+New York,,,0,,Ulster L,"8/30/2015, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,744",,0,Research,Watts,"8/30/2015, 8:00 PM",0,2,0,0,0,5,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,2 Tets Female and Atanycolus (Juli Gould),juligould,Watts Road,0
+New York,"1,740",,0,Research,Leggs Mil,"9/7/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,3 Female Tets (Juli Gould),juligould,Leggs Mills Road,0
+New York,,,0,,Ulster L,"9/7/2015, 8:00 PM",0,10,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Selkirk 1,"9/13/2015, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,2 S. agrili are Female 21 EAB,juligould,,0
+New York,,,0,,Selkirk 1,"6/17/2015, 8:00 PM",0,2,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,10 EAB 2 Female Tets,juligould,,0
+New York,"2,933",,0,Research,Selkirk 2,"6/17/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,2 Female Tets 1 Male Tet,juligould,Selkirk 2 - 2398,0
+New York,"2,932",,0,Research,Selkirk 1,"7/9/2015, 8:00 PM",0,18,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,16 Female Tets 2 Male Tets 9 EAB,juligould,Selkirk 1 - 2398,0
+New York,"2,933",,0,Research,Selkirk 2,"7/9/2015, 8:00 PM",0,7,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,6 Female Tets 1 Male Tet 1 EAB,juligould,Selkirk 2 - 2398,0
+New York,"2,932",,0,Research,Selkirk 1,"7/19/2015, 8:00 PM",0,14,3,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,12 Female Tets 2 Male Tets 2 EAB,juligould,Selkirk 1 - 2398,0
+New York,"2,933",,0,Research,Selkirk 2,"7/19/2015, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,4 Male Tets,juligould,Selkirk 2 - 2398,0
+New York,"2,932",,0,Research,Selkirk 1,"8/16/2015, 8:00 PM",0,19,1,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,17 Female Tets 2 Male Tets,juligould,Selkirk 1 - 2398,0
+New York,"2,933",,0,Research,Selkirk 2,"8/6/2015, 8:00 PM",0,6,2,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,5 Female Tets 1 Male Tet,juligould,Selkirk 2 - 2398,0
+New York,"2,932",,0,Research,Selkirk 1,"8/11/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,3 Female Tets,juligould,Selkirk 1 - 2398,0
+New York,"2,933",,0,Research,Selkirk 2,"8/11/2015, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.79,42.52,4 Female Tets,juligould,Selkirk 2 - 2398,0
+New Hampshire,"2,774",about 30 Tetrastichus planipennisi larvae recovered from the trunk of a debarked tree about 1000' from NHTI release site,0,Program,NHTI1,"11/1/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,1,Yes,,,-71.53,43.22,Specimens confirmed from photograph. Expecting adults if any are reared.,MollyHeuss,NHTI,0
+Minnesota,"2,474","Exact Trap Location YPT03.061016 44.88574,-93.18683 YPT21.061016 44.88605,-93.18666",0,Program,YPTFS,"6/9/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,30,Yes,"11/29/2016, 7:00 PM",Juli Gould,-93.19,44.88,2 female T. planipennisi ID by Juli Gould,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474","exact trap locations YPT03.072916 44.88574,-93.18683 YPT05.072916 44.88543,-93.18724",0,Program,YPTFS,"7/28/2016, 8:00 PM",0,1,0,0,0,1,Yellow Pan Traps,30,Yes,"11/29/2016, 7:00 PM",Juli Gould,-93.19,44.88,Confirmed by Juli Gould,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474","exact location YPT03.082616 44.88574,-93.18683",0,Program,YPTFS,"8/25/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"11/29/2016, 7:00 PM",Juli Gould,-93.19,44.88,Female T. planipennisi confirmed by Juli Gould,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",exact location YPT12.090216 44.88451 -93.18786,0,Program,YPTFS,"9/1/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"11/29/2016, 7:00 PM",Juli Gould,-93.19,44.88,Female Tetrastichus confirmed by Juli Gould,cmallet,Fort Snelling Hillside Hwy 5,0
+New Hampshire,"2,532",14 eab eggs were reovered through sifting bark of a release tree. 7 of those eggs were parasitized by O. agrili.,0,Program,SPNHF 2,"11/6/2016, 7:00 PM",0,0,7,0,0,0,Bark Sifting,14,Yes,,,-71.53,43.23,null,MollyHeuss,SPNHF,0
+Minnesota,"2,474","One suspected parasitized EAB egg found. Sample was taken from 9.4"" DBH green ash. Sample ID = Snell-110216.4 10x50cm area of bark taken for each tree sampled.",0,Program,Snell1116,"11/1/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,6,Yes,"12/13/2016, 7:00 PM",Dr. Leah Bauer,-93.19,44.88,This EAB egg is confirmed Oobius parasitized (L.Bauer; 12/19/2016) & will be sent back to J.Osthus as a voucher specimen.,josthus,Fort Snelling Hillside Hwy 5,0
+Maryland,,,0,,SHill2016,"3/23/2016, 8:00 PM",0,0,1,0,0,0,Egg Collection,32,Yes,,,-77,38.71,"JDuan collected 32 EAB eggs from ash trees, one O. agrili adult was reared",lsbauer,,0
+Pennsylvania,"2,553",Oobius agrili - an adult inside one EAB egg with visible appendages.,0,Program,2553,"9/22/2016, 8:00 PM",0,0,1,0,0,0,Egg Collection,1,Yes,,,-76.66,41.81,,PArelease11,Mt. Pisgah State Park,0
+Michigan,"1,798",,0,Research,BFC6046,"9/7/2015, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,40,Yes,,,-84.6,42.59,"1 Male T. planipennisi, ID by E.E.Morris",eemorris,BFPKLT_C,0
+Michigan,"1,773",,0,Research,BFR6062,"8/14/2015, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,40,Yes,,,-84.59,42.59,"3 Female T. planipennisi, ID by E.E.Morris",eemorris,BFPKLT,0
+Michigan,"1,773",Delta trap with sticky paper equipped with a synthetic male T. planipennisi lure provided by A.Cosse,0,Research,BFR6065,"8/24/2015, 8:00 PM",0,1,1,0,0,0,Other,40,Yes,,,-84.6,42.59,"1 Female T. planipennisi, and 1 Female O. agrili ID by E.Erin Morris.",eemorris,BFPKLT,0
+Colorado,"2,690",Trap approx. 0.85 km from nearest release,0,Program,R-1,"7/24/2016, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,1,Yes,"9/12/2016, 8:00 PM",Juli Gould,-105.26,40,Oobius agrili confirmed by Jason Mottern,eabco,Boulder Creek,0
+,"2,735",,0,Research,Wildwood,"4/4/2016, 8:00 PM",0,53,1,0,0,0,Logs in Tubes,115,Yes,,,-81.06,43.25,,gcjones,Wildwood CA,0
+Michigan,,Date sample collected is an estimate and will be confirmed later by Ben Slager,0,,Wigwam1,"12/31/2015, 7:00 PM",0,15,0,0,1,0,Tree Debarking,1,Yes,,,-83.85,44,ID of T.planipennisi: Ben Slager,lsbauer,,0
+New York,"2,964",,0,Research,NY02 2015,"9/22/2015, 8:00 PM",0,45,0,0,2,3,Tree Debarking,3,Yes,,,-73.89,42.12,All identified by Dr. Jian Duan USDA-ARS,rcrandall,Site 6: Roundtop Rd. (DUBAC),0
+New York,"2,959",,0,Research,NY01 2015,"9/23/2015, 8:00 PM",0,118,0,0,9,1,Tree Debarking,3,Yes,,,-73.91,42,9 Phasgonophora sulcata (6 clutches) All identified by Dr. Jian Duan USDA-ARS,rcrandall,Site 1: Historic Hudson Valley (REDHOOK),0
+Connecticut,"2,968",,0,Research,CT01 2016,"10/9/2016, 8:00 PM",0,335,0,0,18,2,Tree Debarking,4,Yes,,,-73.02,41.66,* 6 of the Tetrastichus broods did not have individual larvae counts; 5 Spathius clutches totaling 36 individuals. 4 of the six cluthes (26 individuals) confirmed to be S. galinae by Juli Gould and Yunke Wu of USDA-APHIS; 3 Phasgonophora sulcata,rcrandall,Site 11: Town Hill Rd. (CT01),0
+Connecticut,"2,967",,0,Research,CT02 2016,"10/9/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,Yes,,,-73.02,41.66,No count given on Tetrastichus brood; 1 Phasgonophora sulcata; 1 Spathius brood with 3 individuals (No species ID),rcrandall,Site 9: Town Hill Rd. (CT02),0
+Connecticut,"2,872",,0,Program,CT03 2016,"10/10/2016, 8:00 PM",0,133,0,0,8,0,Tree Debarking,4,Yes,,,-72.66,41.59,1 Tetrastichus brood not counted; 1 Phasgonophora sulcata; 1 S. galinae brood with 7 individuals (S. galinae confirmed by Juli Gould and Yunke Wu of USDA-APHIS),rcrandall,Cromwell Meadows,0
+New York,"2,959",,0,Research,NY01 2016,"10/12/2016, 8:00 PM",0,84,0,0,3,1,Tree Debarking,4,Yes,,,-73.91,42,14 Spathius clutches with 66 individuals; 32 Clutches of Phasgonophora sulcata with 33 individuals; 8 of the clutches were confirmed to be S. galinae by Juli Gould and Yunke Wu of USDA-APHIS,rcrandall,Site 1: Historic Hudson Valley (REDHOOK),0
+New York,"2,964",,0,Research,NY02 2016,"10/11/2016, 8:00 PM",0,67,0,0,1,0,Tree Debarking,4,Yes,,,-73.89,42.12,2 Spathius broods (no species ID),rcrandall,Site 6: Roundtop Rd. (DUBAC),0
+Connecticut,"2,872","Identified by Ryan Crandall UMASS-Amherst, ID supported by Jian Duan of USDA-ARS. Black EAB egg with circular exit hole on top of the egg.",0,Program,2OobBS'16,"4/17/2017, 8:00 PM",0,0,1,0,0,0,Bark Sifting,5,Yes,,,-72.66,41.59,Black EAB egg with circular exit hole on top of the egg.,rcrandall,Cromwell Meadows,0
+Connecticut,"2,968","Identified by Ryan Crandall UMASS-Amherst, ID supported by Jian Duan of USDA-ARS. Black EAB egg with circular exit hole on top of the egg.",0,Research,1OobBS'16,"4/20/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,5,Yes,,,-73.02,41.66,Black EAB egg with circular exit hole on top of the egg.,rcrandall,Site 11: Town Hill Rd. (CT01),0
+Maryland,"1,872",null,0,Program,ChrisMar,"11/3/2010, 8:00 PM",0,,0,0,1,0,Tree Debarking,1,Yes,,Jian Duan,-76.9,38.77,Data provided by Jian Duan.,juligould,Mar,0
+Michigan,32,null,0,Research,Ionia1014,"11/9/2014, 7:00 PM",0,150,0,0,3,5,Tree Debarking,4,Yes,,Ben Sorenson,-85.11,42.96,1 tree had 2 broods; 1 tree had 1 brood. T. planipennisi and Atanycolus confirmed (Juli Gould),juligould,ION,0
+Ohio,36,,0,Research,VanBur14,"11/14/2014, 7:00 PM",0,68,0,0,1,0,Tree Debarking,4,Yes,,Ben Sorenson,-83.62,41.13,1 Tree 1 brood. Tetrastichus confirm¿¿ (Juli Gould),juligould,vbr,0
+Michigan,17,null,0,Research,tusg,"11/20/2014, 7:00 PM",0,38,0,0,1,3,Tree Debarking,4,Yes,,Ben Sorenson,-83.34,43.43,1 tree had 1 brood. Atanycolus + T. planipennisi confirmed (Juli Gould),juligould,tusg,0
+Michigan,"1,765",,0,Research,LKEMP,"1/13/2015, 7:00 PM",0,129,0,0,7,0,Tree Debarking,4,Yes,,Ben Sorenson,-83.2,42.08,1 tree 2 broods; 1 tree 5 broods; 1 tree 3 broods,juligould,LKEMP,0
+Michigan,"2,108",,0,Research,LKEMPC15,"2/5/2015, 7:00 PM",1,138,0,1,9,4,Tree Debarking,4,Yes,,Ben Sorenson,-83.21,42.07,1 tree 5 tet broods; 1 tree 2 tet broods and 1 spat brood. T. planipennisi and S. agrili confirmed (Juli Gould),juligould,LKEMP_C,1
+Michigan,"1,764",,0,Research,WMPKS15,"2/5/2015, 7:00 PM",0,355,0,0,13,1,Tree Debarking,4,Yes,,Ben Sorenson,-83.37,42.13,1 tree had 12 broods; 1 tree had 1 brood. T. planipennisi confirmed (Juli Gould),juligould,WMPKS,0
+Michigan,"2,110",Ben Sorenson,0,Research,PNKSLC16,"12/26/2016, 7:00 PM",0,311,0,0,8,0,Tree Debarking,4,Yes,,,-83.97,42.42,1 tree had 3 broods; 1 tree had 3 broods; 1 tree had 2 broods. T. planipennisi found (Juli Gould),juligould,PNKSL_C,0
+Michigan,"1,760",Ben Sorenson,0,Research,WLPLKR16,"12/22/2016, 7:00 PM",0,27,0,0,2,3,Tree Debarking,4,Yes,,,-84.24,42.33,1 tree had 2 broods. T. planipennisi found (Juli Gould),juligould,WLPLK,0
+Michigan,"2,109",,0,Research,WLPLKC16,"12/28/2016, 7:00 PM",0,154,0,0,5,2,Tree Debarking,4,Yes,,Ben Sorenson,-84.24,42.33,1 tree had 3 broods; 1 tree had 2 broods. T. planipennisi found (Juli Gould),juligould,WLPLK_C,0
+Maryland,"2,388",null,0,Research,Devil13,"4/16/2013, 8:00 PM",0,0,0,0,1,0,Tree Debarking,9,Yes,,Jian Duan,-78.43,39.6,null,juligould,Devil's Alley,0
+Maryland,,,0,,FloralPar,"10/10/2011, 8:00 PM",0,0,0,0,1,0,Logs in Tubes,1,Yes,,Jian Duan,-76.94,38.71,Rearing Barrel,juligould,,0
+Maryland,,null,0,,FloralPar,"3/7/2011, 7:00 PM",0,0,0,0,1,7,Tree Debarking,1,Yes,,Jian Duan,-76.94,38.71,null,juligould,,0
+Maryland,"1,484",13-Feb-13 22-Feb-13 26-Feb-13 28-Feb-13,0,Program,Gallahan,"2/12/2013, 7:00 PM",0,0,0,6,4,2,Tree Debarking,10,Yes,,Jian Duan,-76.97,38.71,,juligould,GALLAHAN,0
+Maryland,"1,484",24-Feb-14 25-Apr-14,0,Program,Gallahan,"2/23/2014, 7:00 PM",0,0,0,0,4,2,Tree Debarking,7,Yes,,Jian Duan,-76.97,38.71,,juligould,GALLAHAN,0
+Maryland,"1,484",,0,Program,Gallahan,"4/2/2015, 8:00 PM",0,0,0,0,7,7,Tree Debarking,4,Yes,,Jian Duan,-76.97,38.71,,juligould,GALLAHAN,0
+Maryland,"1,955",1-Mar-13 5-Mar-13,0,Program,Gardner,"2/28/2013, 7:00 PM",0,0,0,1,0,1,Tree Debarking,0,Yes,,Jian Duan,-76.95,38.69,,juligould,Gardner,0
+Maryland,"1,749",14-Mar-13 3-Apr-13 24-Apr-13,0,Program,Gridge,"3/13/2013, 8:00 PM",0,8,0,0,0,0,Tree Debarking,14,Yes,,,-78.49,39.62,,juligould,GR1,0
+Maryland,"1,749",9-Apr-14 24-Apr-14,0,Program,Gridge,"4/8/2014, 8:00 PM",0,0,0,0,1,0,Tree Debarking,6,Yes,,Jian Duan,-78.49,39.62,,juligould,GR1,0
+Maryland,"1,749",,0,Program,Gridge,"3/31/2015, 8:00 PM",0,0,0,0,11,2,Tree Debarking,5,Yes,,Jian Duan,-78.49,39.62,,juligould,GR1,0
+Maryland,"1,872",13-Aug-10 25-Aug-10 1-Sep-10 13-Sep-10 15-Sep-10 16-Sep-10 17-Sep-10 22-Sep-10 23-Sep-10 24-Sep-10 27-Sep-10 28-Sep-10 29-Sep-10 30-Sep-10 4-Oct-10 6-Oct-10 30-Nov-10 1-Dec-10 9-Dec-10,0,Program,Mardella,"8/12/2010, 8:00 PM",0,0,0,1,10,0,Tree Debarking,7,Yes,,Jian Duan,-76.9,38.78,,juligould,Mar,0
+Maryland,"1,872",20-Jan-11 24-Jan-11 28-Feb-11 25-May-11 26-May-11,0,Program,Mardella,"1/19/2011, 7:00 PM",0,0,0,2,6,2,Tree Debarking,4,Yes,,Jian Duan,-76.91,38.78,,juligould,Mar,0
+Maryland,"1,832",,0,Program,Oldtwnrln,"3/26/2013, 8:00 PM",0,0,0,2,0,0,Tree Debarking,10,Yes,,Jian Duan,-78.46,39.62,,juligould,GRSF3,0
+Maryland,"1,832",3-Apr-13 23-Apr-13 24-Apr-13,0,Program,Oldtwnrln,"4/2/2013, 8:00 PM",0,0,0,0,16,11,Tree Debarking,11,Yes,,Jian Duan,-78.47,39.59,,juligould,GRSF3,0
+Maryland,"1,836",,0,Program,PadCorner,"2/7/2012, 7:00 PM",0,0,0,0,2,0,Tree Debarking,2,Yes,,Jian Duan,-76.93,38.79,,juligould,Temple Hill 1,0
+Maryland,"2,239",,0,Program,Patuxent,"2/24/2014, 7:00 PM",0,0,0,0,1,0,Logs in Tubes,1,Yes,,Jian Duan,-76.96,38.52,,juligould,Patuxent Dr,0
+Maryland,,22-Jan-13 23-Jan-13,0,,PisParCTL,"1/21/2013, 7:00 PM",0,0,0,0,2,0,Logs in Tubes,1,Yes,,Jian Duan,-76.95,38.71,,juligould,,0
+Maryland,,7-Oct-14 29-Oct-14 18-Nov-14 9-Dec-14 11-Dec-14,0,,PisParCTL,"10/6/2014, 8:00 PM",0,0,0,0,5,0,Logs in Tubes,1,Yes,,Jian Duan,-76.95,38.71,,juligould,,0
+Maryland,,,0,,PiscRDCTL,"4/9/2014, 8:00 PM",0,0,0,0,2,0,Tree Debarking,5,Yes,,,-77,38.7,,juligould,,0
+Maryland,"1,956",,0,Program,Sharper,"3/20/2013, 8:00 PM",0,0,0,1,0,0,Tree Debarking,10,Yes,,Jian Duan,-76.97,38.66,,juligould,Sharperville,0
+Maryland,"1,956",,0,Program,Sharper,"4/9/2014, 8:00 PM",0,0,0,0,7,0,Tree Debarking,5,Yes,,Jian Duan,-76.97,38.66,,juligould,Sharperville,0
+Maryland,"1,840",25-May-10 10-Aug-10 11-Aug-10,0,Program,SouthHill,"5/24/2010, 8:00 PM",0,0,0,2,1,0,Tree Debarking,5,Yes,,Jian Duan,-76.9,38.71,,juligould,South Hill,0
+Maryland,"1,840",,0,Program,SouthHill,"2/6/2012, 7:00 PM",0,0,0,1,0,0,Tree Debarking,2,Yes,,Jian Duan,-76.9,38.7,,juligould,South Hill,0
+Maryland,"1,485",21-Feb-13 14-Mar-13 9-Apr-13,0,Program,TaylorC,"2/20/2013, 7:00 PM",0,0,0,0,4,0,Tree Debarking,14,Yes,,Jian Duan,-76.98,38.7,,juligould,TAYLOR,0
+Maryland,"1,485",,0,Program,TaylorC,"4/20/2015, 8:00 PM",0,0,0,0,1,0,Tree Debarking,6,Yes,,Jian Duan,-76.98,38.7,,juligould,TAYLOR,0
+Maryland,,,0,,TemhilCTL,"1/10/2012, 7:00 PM",0,0,0,0,1,0,Logs in Tubes,1,Yes,,Jian Duan,-76.92,38.77,,juligould,,0
+Maryland,"1,943",,0,Program,Wpike,"3/13/2013, 8:00 PM",0,0,0,0,1,0,Logs in Tubes,1,Yes,,Jian Duan,-78.24,39.7,,juligould,Western Pike,0
+Maryland,,8-Apr-14 18-Apr-14 24-Apr-14,0,,YonkBCTRL,"4/7/2014, 8:00 PM",0,0,0,0,5,1,Tree Debarking,6,Yes,,Jian Duan,-78.39,39.64,,juligould,,0
+Maryland,,,0,,YonkBCTRL,"5/6/2015, 8:00 PM",0,0,0,0,9,0,Tree Debarking,4,Yes,,Jian Duan,-78.39,39.64,,juligould,,0
+Missouri,"1,979",null,0,Program,Miltaryrd,"9/12/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,6,Yes,"10/31/2016, 8:00 PM",JULI GOULD,-90.46,37.12,2 Tetrastichus planipennisi confirmed by J. Gould,moeab,Military Rd,0
+New York,"2,099",,0,Program,W.YardRd,"6/29/2016, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,Yes,,Juli Gould,-73.86,42.57,4 females,juligould,"West Yard Road, Selkirk, NY",0
+Michigan,"2,107",,0,Research,WMPKNC,"2/6/2015, 7:00 PM",0,41,0,0,2,1,Tree Debarking,4,Yes,,Ben Sorenson,-83.42,42.17,Date Aprox.;1 tree with 1 brood; 1 tree with 1 brood. T. planipennisi confirmed (Juli Gould),juligould,WMPKN_C,0
+Michigan,"1,759",,0,Research,PNKSL,"12/25/2016, 7:00 PM",0,19,0,0,2,0,Tree Debarking,4,Yes,,Ben Sorenson,-83.97,42.42,Date Aprox.;1 tree had 2 broods. T. planipennisi found (Juli Gould),juligould,PNKSL,0
+New York,"2,099",,0,Program,W.YardRd,"6/8/2016, 8:00 PM",0,6,0,0,0,1,Yellow Pan Traps,12,Yes,,,-73.86,42.57,4 female and 2 male tets.,juligould,"West Yard Road, Selkirk, NY",0
+New York,"2,099",,0,Program,W.YardRd,"8/17/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,8,Yes,,Juli Gould,-73.86,42.57,1 female and 1 male tet; 3 phas,juligould,"West Yard Road, Selkirk, NY",0
+New York,"1,743",,0,Research,DOT,"9/3/2012, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79,42.16,T. planipennisi confirmed (Juli Gould),juligould,DOT North,0
+New York,"1,743",,0,Research,DOT,"4/8/2013, 8:00 PM",0,15,0,0,1,0,Tree Debarking,4,Yes,,,-79,42.16,T. Planipennisi confirmed (Juli Gould),juligould,DOT North,0
+New York,"1,740",,0,Research,Leggs Mil,"9/3/2012, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-74,41.99,T. planipennisi found (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740",,0,Research,Leggs Mil,"3/10/2013, 8:00 PM",21,0,0,4,0,0,Tree Debarking,4,Yes,,,-74,41.99,S. agrili confirmed (Juli Gould),juligould,Leggs Mills Road,0
+Maryland,,,0,,PiscPark,"10/17/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,,,-76.95,38.71,,juligould,,0
+Maryland,,,0,,PiscPark,"10/23/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,,,-76.95,38.71,,juligould,,0
+Maryland,,,0,,PiscPark,"10/24/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,,,-76.95,38.71,,juligould,,0
+Maryland,,,0,,PiscPark,"10/29/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,,,-76.95,38.71,,juligould,,0
+Maryland,,,0,,PiscPark,"10/31/2013, 8:00 PM",0,1,0,0,0,0,Logs in Tubes,1,Yes,"10/31/2013, 8:00 PM",,-76.95,38.71,,juligould,,0
+Tennessee,"2,047",null,0,Program,Cactus,"4/4/2013, 8:00 PM",1,0,0,0,0,0,Logs in Tubes,3,Yes,,Greg Wiggins,-84.09,35.84,null,juligould,Haven Hill/Cactus Cove,0
+Michigan,62,null,0,,power99,"10/31/2012, 8:00 PM",0,0,1,0,0,0,Egg Collection,12,Yes,,Andrew Storer,-86.51,45.87,O. agrili confirmed (Juli Gould),juligould,,0
+Ohio,36,null,0,Research,vbr,"2/22/2010, 7:00 PM",126,0,0,23,0,0,Tree Debarking,4,Yes,,Juli Gould,-83.62,41.13,null,juligould,vbr,0
+Ohio,36,,0,Research,vbr,"2/22/2010, 7:00 PM",0,0,3,0,0,0,Bark in Tubes,11,Yes,,Leah Bauer,-83.62,41.13,,juligould,vbr,0
+Ohio,36,,0,Research,vbr,"9/30/2012, 8:00 PM",0,0,2,0,3,0,Tree Debarking,4,Yes,,Juli Gould,-83.62,41.13,,juligould,vbr,0
+Ohio,38,,0,Research,vbrc,"9/30/2012, 8:00 PM",0,0,28,0,0,0,Tree Debarking,4,Yes,,,-83.63,41.13,,juligould,vbr_C,0
+New York,"1,739",,0,Research,Bristol,"7/24/2016, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,15,Yes,,Jason Mottern,-73.93,42.11,O. agrili confirmed (Jason Mottern),juligould,Bristol Beach,0
+New Hampshire,,"debarked trees were part of Joe Francese's study. Two galleries were found with parasitoids inside, I am not sure if they were from the same tree or not, but he will have that information.",0,,Silk Farm,"4/9/2017, 8:00 PM",0,0,0,0,2,0,Tree Debarking,12,Yes,"4/11/2017, 8:00 PM",Juli Gould,-71.57,43.18,,MollyHeuss,,0
+New York,"1,751",,0,Research,Conewango,"5/28/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"1,751",,0,Research,Conewango,"7/16/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-78.97,42.17,T. planipennisi confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"1,751",,0,Research,Conewango,"7/23/2016, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,15,Yes,,Jason Mottern,-78.97,42.17,O. agrili confirmed (Juli Gould),juligould,Conewango Road,0
+New York,"2,122",,0,Research,Holcim,"7/10/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.91,42.18,1 female Tet (Juli Gould),juligould,Cementon North_C,0
+New York,"2,417",,0,Research,LaurenTic,"7/5/2016, 8:00 PM",0,1,0,0,0,3,Yellow Pan Traps,15,Yes,,,-73.95,42.12,Atanycolus and T. planipennisi confirmed (Juli Gould),juligould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"7/17/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.95,42.12,"1 female Tet, 3 phas (Juli Gould)",juligould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"6/20/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,No,,,-73.95,42.12,T. planipennisi confirmed (Juli Gould),juligould,Bristol Beach Control,0
+New York,"1,740",1 female Tet,0,Research,LeggsMil,"7/11/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,T. planipennisi found (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740","2 female Tets, 2 Phas",0,Research,LeggsMil,"7/17/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-74,41.99,T. planipennisi found (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,740","1 female Tet, 1 S. floridanus and 1 Phasgonophora",0,Research,LeggsMil,"7/25/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-74,41.99,T. planipennisi found (Juli Gould),juligould,Leggs Mills Road,0
+New York,"1,736",1 Phasgonophora,0,Research,Lehigh,"6/26/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,T. planipennisi (Juli Gould),juligould,Cementon North,0
+New York,"1,736","O. agrili confirmed by Jason Mottern, 2 Phasgonophora",0,Research,Lehigh,"7/17/2016, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,15,Yes,,Jason Mottern,-73.92,42.15,O. agrili (Juli Gould),juligould,Cementon North,0
+New York,"1,736","1 male Tet, 1 Phasgonophora",0,Research,Lehigh,"7/24/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.92,42.15,T. planipennisi found (Juli Gould),juligould,Cementon North,0
+New York,,,0,,Ormond,"5/28/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,,0
+New York,,1 female Tet,0,,Schoolhou,"5/21/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Schoolhou,"5/28/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,2 female Tets,0,,Schoolhou,"6/11/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Schoolhou,"6/25/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,2 female Tets,0,,Schoolhou,"7/16/2016, 8:00 PM",0,2,0,0,0,8,Yellow Pan Traps,15,Yes,,,-79.02,42.15,T. planipennisi and Atanycolus (Juli Gould),juligould,,0
+New York,,,0,,Schoolhou,"9/3/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.02,42.15,T. planipennisi (Juli Gould),juligould,,0
+New York,,1 native Spathius as well.,0,,Ulster L,"6/27/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,2 female Tets,0,,Ulster L,"7/18/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,1 female tet,0,,Ulster L,"7/25/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,,,0,,Ulster L,"8/22/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,12,Yes,,juli gould,-73.96,41.97,T. planipennisi (Juli Gould),juligould,,0
+New York,"1,744",,0,Research,Watts,"5/28/2016, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,Watts Road,0
+New York,"1,744",1 female tet,0,Research,Watts,"7/23/2016, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,Juli Gould,-79.01,42.16,T. planipennisi (Juli Gould),juligould,Watts Road,0
+Wisconsin,"2,555","Tetrastichus specimens (pupae and reared adults) identified by Bill McNee, Forest Health Specialist, WI DNR",0,Program,West Bend,"5/16/2017, 8:00 PM",0,34,0,0,2,0,Tree Debarking,2,Yes,,,-88.17,43.41,null,billmcnee,Ziegler Park,0
+Wisconsin,"2,554",,0,Program,SaukCreek,"5/10/2017, 8:00 PM",0,39,0,0,2,0,Tree Debarking,1,Yes,,,-87.88,43.4,"Tetrastichus pupae and reared adults identified by Bill McNee, WI DNR forest health specialist",billmcnee,Sauk Creek Nature Preserve,0
+Virginia,"2,795","1 male tetrastichus from trap YDT005, also 3 EAB recovered",0,Program,DT-YPT,"5/8/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,6,Yes,"7/19/2017, 8:00 PM",Juli Gould,-77.55,38.84,1 male Tetrastichus planipennisi confirmed by Juli Gould.,tmcgonegal,Davis Tract,0
+New Hampshire,"3,123",,0,,NrthFld2,"6/14/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"6/14/2017, 8:00 PM",Juli Gould,-71.54,43.42,,GarnasLaboratory,,0
+New Hampshire,"3,316",,0,,Gofftown2,"6/14/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"6/14/2017, 8:00 PM",Juli Gould,-71.56,43.05,,GarnasLaboratory,,0
+New Hampshire,"3,317",,0,Research,KmblPond3,"6/21/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"6/21/2017, 8:00 PM",Juli Gould,-71.58,43.08,,GarnasLaboratory,Kimball Pond,0
+New Hampshire,"3,314",,0,Research,Cntrbury4,"6/28/2017, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,20,Yes,"6/28/2017, 8:00 PM",Juli Gould,-71.62,43.33,,GarnasLaboratory,Haggett Farm rd.,0
+New Hampshire,"3,317",,0,Research,KmblPnd5,"7/5/2017, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,15,Yes,"7/5/2017, 8:00 PM",Juli Gould,-71.58,43.08,,GarnasLaboratory,Kimball Pond,0
+New Hampshire,"3,316",,0,Research,Gofftown5,"7/5/2017, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,15,Yes,"7/5/2017, 8:00 PM",Juli Gould,-71.56,43.05,,GarnasLaboratory,Plimpton rd.,0
+New Hampshire,,,0,,CntrBury5,"7/5/2017, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,20,Yes,"7/5/2017, 8:00 PM",Juli Gould,-71.62,43.33,,GarnasLaboratory,,0
+New Hampshire,"3,315",,0,Research,MdwPnd6,"7/11/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,"7/11/2017, 8:00 PM",Juli Gould,-71.41,43.41,,GarnasLaboratory,Meadow Pond State Forest,0
+New Hampshire,"3,318",,0,Research,Cntrbry6,"7/11/2017, 8:00 PM",5,0,0,0,0,0,Yellow Pan Traps,20,Yes,"7/30/2017, 8:00 PM",Juli Gould,-71.62,43.33,2 EAB,GarnasLaboratory,Brookford Farm,0
+New Hampshire,"3,316",,0,Research,Gofftwn7,"7/18/2017, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,15,Yes,"7/26/2017, 8:00 PM",Juli Gould,-71.56,43.05,,GarnasLaboratory,Plimpton rd.,0
+New Hampshire,"3,318",,0,Research,Cntrbry7,"7/18/2017, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,20,Yes,"7/26/2017, 8:00 PM",Juli Gould,-71.62,43.33,1 EAB,GarnasLaboratory,Brookford Farm,0
+New Hampshire,"3,315",,0,Research,MdwPnd8,"7/25/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"8/7/2017, 8:00 PM",Juli Gould,-71.41,43.41,,GarnasLaboratory,Meadow Pond State Forest,0
+New Hampshire,"3,318",,0,Research,Cntrbry8,"7/25/2017, 8:00 PM",2,0,0,0,0,0,Yellow Pan Traps,20,Yes,"7/30/2017, 8:00 PM",Juli Gould,-71.62,43.33,,GarnasLaboratory,Brookford Farm,0
+Ohio,,"These T. planipennisi were recovered from green ash at Wright State University, Ohio. I had cut the trees for a different experiment and recovered them. I sent them to Brighton Rearing Facility.",0,,Ash log,"10/26/2017, 8:00 PM",0,0,0,0,2,0,Tree Debarking,2,Yes,"12/19/2017, 7:00 PM",Ben Slager,-84.06,39.78,,donaldson77,,0
+Colorado,"2,690",10 Tets and 9 others (Tet males or look-a-likes?),0,Program,R-03,"6/28/2017, 8:00 PM",0,17,0,0,0,0,Yellow Pan Traps,1,Yes,"8/29/2017, 8:00 PM",Juli Gould,-105.25,40,8 female and 9 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",17 Tets,0,,R-03,"7/2/2017, 8:00 PM",0,16,0,0,0,0,Yellow Pan Traps,1,Yes,"8/29/2017, 8:00 PM",Juli Gould,-105.25,40,16 female T. planipennisi confirmed by Juli Gould.,eabco,,0
+Colorado,"2,690",null,0,,R-03,"7/9/2017, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,1,Yes,"8/29/2017, 8:00 PM",Juli Gould,-105.25,40,8 female and 1 male T. planipennisi confirmed by Juli Gould.,eabco,,0
+Colorado,,null,0,Program,R-03,"8/13/2017, 8:00 PM",1,2,0,0,0,0,Yellow Pan Traps,1,Yes,"8/29/2017, 8:00 PM",Juli Gould,-105.25,40,1 S. agrili confirmed with DNA analysis and 2 T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,,R-01,"7/2/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40,1 female T. planipennisi confirmed by Juli Gould.,eabco,,0
+Colorado,"2,690",null,0,Program,R-25,"7/10/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,1 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-26,"7/10/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,2 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"7/16/2017, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,1 female and 3 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-32,"7/16/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,,null,0,Program,R-03,"7/23/2017, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,4 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-32,"7/23/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"7/30/2017, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,5 female T. planipennisi and one possible O. agrili sent for DNA analysis.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-01,"7/30/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-32,"7/30/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,2 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"8/6/2017, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,4 female and 1 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-32,"8/6/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-01,"7/9/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40,1 female T. planipennisi,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"8/20/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,2 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,C-16,"8/29/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,0,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.23,40,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"8/28/2017, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,6 female T. planipennisi.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-32,"9/4/2017, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,3 female and 2 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-01,"9/4/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-03,"9/12/2017, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,6 female and 2 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,C-57,"9/21/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.23,40.02,1 male T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-25,"9/21/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.26,40.01,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,"2,690",null,0,Program,R-21,"9/21/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40.01,1 female T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Colorado,,null,0,,R-03,"9/21/2017, 8:00 PM",0,23,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,7 female and 16 male T. planipennisi confirmed by Juli Gould.,eabco,,0
+Colorado,"2,690",null,0,Program,R-03,"7/2/2017, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,1,Yes,"12/4/2017, 7:00 PM",Juli Gould,-105.25,40,5 T. planipennisi confirmed by Juli Gould.,eabco,Boulder Creek,0
+Connecticut,,Dr. Gould was visiting and she confirmed the identity while here.,0,,YPT-6-SG,"6/17/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/19/2017, 7:00 PM",Juli Gould,-72.9,41.43,see above,crutledge,,0
+Connecticut,"2,594",Dr. Gould was visiting and confirmed the identity,0,Program,YPT-6-SG,"5/27/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,1,Yes,"12/19/2017, 7:00 PM",Juli Gould,-72.9,41.43,,crutledge,Sleeping Giant,0
+,"2,734",,0,Program,Middleton,"10/24/2016, 8:00 PM",0,20,4,0,0,0,Logs in Tubes,183,Yes,,,-80.62,42.81,,gcjones,Middleton McConkey Tract,0
+,"2,733",,0,Program,Ottawa,"10/27/2016, 8:00 PM",0,166,0,0,0,0,Logs in Tubes,141,Yes,,,-75.61,45.34,,gcjones,Ottawa,0
+,"2,735",,0,Research,Wildwood,"10/4/2016, 8:00 PM",0,430,10,0,0,0,Logs in Tubes,138,Yes,,,-81.06,43.25,,gcjones,Wildwood CA,0
+Minnesota,"2,474",About 95 tet larvae found in 5 clutches. Some larvae destroyed by sampling. Whole tree number 3 from 17 whole trees sampled. Green Ash. DBH=3.2,0,Program,FS03.2018,"2/26/2018, 7:00 PM",0,95,0,0,5,0,Tree Debarking,17,Yes,,,-93.19,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",43 tet larvae and 6 pupae recovered from 2 clutches. Some larvae destroyed by sampling. Whole tree number 4 from 17 whole trees sampled. Green ash. DBH = 2.7,0,Program,FS04.2018,"2/26/2018, 7:00 PM",0,49,0,0,2,0,Tree Debarking,17,Yes,,,-93.18,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",15 tet larvae recovered from 1 clutch. Whole tree number 12 from 17 whole trees sampled. Green ash. DBH = 3.4,0,Program,FS12.0218,"2/27/2018, 7:00 PM",0,15,0,0,1,0,Tree Debarking,17,Yes,,,-93.18,44.88,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"1,817",2 tet pupae in 1 clutch Whole tree number 6 from 10 whole trees sampled. Green ash. DBH = 3.2,0,Program,GRB6.2018,"1/23/2018, 7:00 PM",0,2,0,0,1,0,Tree Debarking,10,Yes,,,-91.41,43.95,,cmallet,Great River Bluffs State Park 1,0
+Minnesota,"1,817",6 clutches of tet larvae. 62 adults and 81 larvae. Some larvae destroyed during sampling. Whole tree number 4 of 10 whole trees sampled. Green ash. DBH = 3.3,0,Program,GR4.2018,"1/23/2018, 7:00 PM",0,143,0,0,6,0,Tree Debarking,10,Yes,,,-91.4,43.95,,cmallet,Great River Bluffs State Park 1,0
+Minnesota,"2,822",23 eggs collected from 8 trees 7.2 in dbh,0,Program,HF02.1117,"11/14/2017, 7:00 PM",0,0,1,0,0,0,Bark Sifting,23,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.19,44.91,1 oob exit,cmallet,Hidden Falls Park,0
+Minnesota,"2,712",93 eggs collected from 10 trees 13.3 in dbh tree,0,Program,SR04.1217,"12/17/2017, 7:00 PM",0,0,1,0,0,0,Bark Sifting,0,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.14,44.91,1 oob exit,cmallet,Shepards Rd,0
+Minnesota,"2,592",22 eggs collected from 6 trees. 5.4 in dbh tree,0,Program,LW04.0118,"1/8/2018, 7:00 PM",0,0,2,0,0,0,Bark Sifting,22,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-91.65,44.04,1 oob exit and 1 failed oob parasitism,cmallet,Lake Winona,0
+Minnesota,"2,592",22 eggs from 6 trees. 7.5 in dbh tree,0,Program,LW05.0118,"1/8/2018, 7:00 PM",0,0,1,0,0,0,Bark Sifting,22,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-91.65,44.04,1 dead oob larva in egg,cmallet,Lake Winona,0
+Minnesota,"2,472",109 eggs from 28 trees 8.6 in dbh tree,0,Program,GB05.0118,"1/23/2018, 7:00 PM",0,0,1,0,0,0,Bark Sifting,109,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-91.39,43.93,"1- oobius exit; 1 unceratin, but appears to be dead oob larva with meconium but egg was smashed",cmallet,Great River Bluffs State Park 1,0
+Minnesota,"2,472",109 eggs collected from 28 trees. 8.9 in dbh,0,Program,GB09.0118,"1/23/2018, 7:00 PM",0,0,2,0,0,0,Bark Sifting,109,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-91.39,43.93,2- Oob exits,cmallet,Great River Bluffs State Park 2,0
+Minnesota,"2,472",109 eggs collected from 28 trees. 6.7 in dbh tree,0,Program,GB10.0118,"4/8/2018, 8:00 PM",0,0,1,0,0,0,Bark Sifting,109,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-91.39,43.93,1-Oob exit,cmallet,Great River Bluffs State Park Site 3,0
+Minnesota,"2,474",297 eggs collected from 27 trees 5.4 in dbh tree,0,Program,FS07.0318,"3/1/2018, 7:00 PM",0,0,4,0,0,0,Bark Sifting,297,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.19,44.89,2 oob adults emerged from two eggs while in dish; 1 oob exit but egg damaged; 1 dead oob larva,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",297 eggs collected from 27 eggs. 7.8 in dbh tree,0,Program,FS12.0318,"3/1/2018, 7:00 PM",0,0,1,0,0,0,Bark Sifting,297,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.18,44.89,1 dead oob adult in egg,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",297 eggs collected from 27 trees 9.2 in dbh tree,0,Program,FS13.0318,"3/1/2018, 7:00 PM",0,0,1,0,0,0,Bark Sifting,297,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.18,44.89,Likely oob. Appears to be exit hole and meconium but not positive,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",297 eggs collected from 27 trees 9.1 in dbh tree,0,Program,FS15.0218,"3/1/2018, 7:00 PM",0,0,1,0,0,0,Bark Sifting,297,Yes,"4/8/2018, 8:00 PM",Leah Bauer,-93.18,44.89,1- oob exit,cmallet,Fort Snelling Hillside Hwy 5,0
+Michigan,"2,656",Tets emerged from logs reared in tubes. 15 logs collected from tree and Tets emerged from one log. Tree was a 13cm dbh white ash. Emerged from log that was 1m high along tree bole.,0,Program,Tree 25-1,"5/18/2017, 8:00 PM",0,0,0,0,2,0,Logs in Tubes,15,Yes,"6/4/2017, 8:00 PM",Bauer lab,-85.33,45.11,DNA extracted by Erin Morris,tpetrice,Eastport Haack,0
+Minnesota,"2,957",10.7 in dbh tree,0,Program,WP.07,"12/12/2017, 7:00 PM",0,0,1,0,0,0,Bark Sifting,8,Yes,,Leah Bauer,-93.11,44.99,1 oob exit,cmallet,Wheelock Pkwy,0
+Virginia,"2,795",NYDT-013: 1 Tetrastichus NYDT-008: 1 Atanycolus YDT-003: 1 Tetrastichus NYDT-001: 1 Tetrastichus,0,Program,DT-YPT,"5/9/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"9/4/2018, 8:00 PM",Juli Gould,-77.55,38.84,1 female T. planipennisi confirmed by J. Gould,tmcgonegal,Davis Tract,0
+Wisconsin,"2,794","ID by Bill McNee, WI DNR (bill.mcnee@wisconsin.gov)",0,Program,Racine,"10/17/2018, 8:00 PM",0,65,0,0,4,0,Tree Debarking,1,Yes,,,-87.82,42.74,,billmcnee,Colonial Park,0
+Wisconsin,"2,799","ID by Bill McNee, WI DNR (bill.mcnee@wisconsin.gov)",0,Program,NewBerlin,"10/15/2018, 8:00 PM",0,55,0,0,4,0,Tree Debarking,1,Yes,,,-88.1,43,,billmcnee,Lions Park,0
+New Hampshire,"3,032",91 eggs recovered from 2 trees 39 eggs parasitized,0,Program,hop1,"11/6/2018, 7:00 PM",0,0,17,0,0,0,Bark Sifting,2,Yes,,,-71.68,43.2,Oobius confirmed with DNA test (Juli Gould),MollyHeuss,Hopkinton,0
+Minnesota,"2,474",Vial label : YPT FS 8-22-18,0,Program,YPTFS,"8/21/2018, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS05 8-30-18,0,Program,YPTFS,"8/29/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS05 9-6-18,0,Program,YPTFS,"9/5/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS07 7-23-18,0,Program,YPTFS,"7/22/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS10 9-13-2018,0,Program,YPTFS,"9/12/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS13 6-11-18,0,Program,YPTFS,"6/10/2018, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS13 6-18-18,0,Program,YPTFS,"6/17/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.89,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",Vial label : FS17 7-9-18,0,Program,YPTFS,"7/8/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.18,44.88,T. planipennisi confirmed (Juli Gould),cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"1,818",Vial label : GRB02 8-14-18,0,Program,YPTGRB,"8/13/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB03 6-12-18,0,Program,YPTGRB,"6/11/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB08 7-10-18,0,Program,YPTGRB,"7/9/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.41,43.95,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB09 7-24-18,0,Program,YTPGRB,"7/23/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.41,43.95,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 6-19-18,0,Program,YPTGRB,"6/18/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial Label : GRB11 6-26-18,0,Program,YPTGRB,"6/25/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 7-17-18,0,Program,YPTGRB,"7/16/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 8-1-18,0,Program,YPTGRB,"7/31/2018, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 8-7-18,0,Program,YPTGRB,"8/6/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 8-14-18,0,Program,YPTGRB,"8/13/2018, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB11 9-4-18,0,Program,YPTGRB,"9/3/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 6-19-18,0,Program,YPTGRB,"6/8/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 7-10-18,0,Program,YPTGRB,"7/9/2018, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 7-24-18,0,Program,YPTGRB,"7/23/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 8-1-18,0,Program,YPTGRB,"7/31/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB 8-7-18,0,Program,YPTGRB,"8/6/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 8-28-18,0,Program,YPTGRB,"8/27/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB13 9-4-18,0,Program,YPTGRB,"9/3/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB14 7-5-18,0,Program,YPTGRB,"7/4/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB14 7-10-18,0,Program,YPTGRB,"7/9/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB14 8-7-18,0,Program,YPTGRB,"8/6/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Label Vial : GRB14 8-21-18,0,Program,YPTGRB,"8/20/2018, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB14 9-14-18,0,Program,YPTGRB,"9/13/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB15 6-5-18,0,Program,YPTGRB,"6/4/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.94,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB17 6-19-18,0,Program,YPTGRB,"6/18/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.95,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial label : GRB17 7-24-18,0,Program,YPTGRB,"7/23/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.95,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"1,818",Vial Label : GRB17 8-1-18,0,Program,YPTGRB,"7/31/2018, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,17,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.4,43.95,T. planipennisi confirmed (Juli Gould),cmallet,Great River Bluffs State Park 2,0
+Minnesota,"2,825",Vial label : PI 8-28-18,0,Program,YPTPI,"8/27/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-91.68,44.08,T. planipennisi confirmed (Juli Gould),cmallet,Prairie Island,0
+Minnesota,"2,957",Vial label : WP06 6-4-18,0,Program,YPTWP,"6/3/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.11,44.99,T. planipennisi confirmed (Juli Gould),cmallet,Wheelock Pkwy,0
+Minnesota,"2,957",Vial Label : WP26 7-12-18,0,Program,YPTWP,"7/11/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.12,44.98,T. planipennisi confirmed (Juli Gould),cmallet,Wheelock Pkwy,0
+Minnesota,"2,957",Vial Label WP27 7-6-18,0,Program,YPTWP,"7/5/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.12,44.98,T. planipennisi confirmed (Juli Gould),cmallet,Wheelock Pkwy,0
+Minnesota,"2,957",Vial label : WP30 8-16-18,0,Program,YPTWP,"8/15/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.12,44.98,T. planipennisi confirmed (Juli Gould),cmallet,Wheelock Pkwy,0
+Minnesota,"2,957",Vial label : WP 8-2-18,0,Program,YPTWP,"8/1/2018, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.12,44.98,T. planipennisi confirmed (Juli Gould),cmallet,Wheelock Pkwy,0
+Minnesota,"2,957",Vial label : WP30 9-10-18,0,Program,YPTWP,"9/9/2018, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,30,Yes,"12/2/2018, 7:00 PM",Juli Gould,-93.12,44.98,T. planipennisi found (Juli Gould),cmallet,Wheelock Pkwy,0
+Louisiana,"2,818",,0,Research,A1,"5/11/2018, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,10,Yes,,Juli Gould,-93.37,32.66,,Rodrigo,Site 2-NW Webster Parish,0
+,"2,874",,0,Program,B Liesse,"10/16/2017, 8:00 PM",0,56,1,0,0,0,Logs in Tubes,157,Yes,,,-73.76,45.51,,gcjones,Parc Nature Bois-de-Liesse,0
+,"2,956",,0,Program,B Summit,"10/16/2017, 8:00 PM",0,145,44,0,0,0,Logs in Tubes,131,Yes,,,-73.61,45.49,,gcjones,Boise Summit Woods,0
+,,,0,Program,Metro,"10/24/2018, 8:00 PM",0,1,4,0,0,0,Logs in Tubes,209,Yes,,,-79.4,44.31,,gcjones,Metro Road Tract,0
+,"2,734",,0,Program,Middleton,"5/4/2018, 8:00 PM",0,1,10,0,0,0,Bark in Tubes,5,Yes,,,-80.62,42.81,,gcjones,Middleton McConkey Tract,0
+,"2,735",,0,Research,Wildwood,"5/3/2018, 8:00 PM",0,0,2,0,0,0,Bark in Tubes,5,Yes,,,-81.06,43.25,,gcjones,Wildwood CA,0
+,"2,733",,0,Program,Ottawa,"5/8/2018, 8:00 PM",0,0,8,0,0,0,Bark in Tubes,5,Yes,,,-75.61,45.34,,gcjones,Ottawa,0
+,"2,772",,0,Program,Wakefield,"5/8/2018, 8:00 PM",0,0,4,0,0,0,Bark in Tubes,5,Yes,,,-75.95,45.64,,gcjones,Wakefield,0
+,,,0,,Barrie,"10/22/2018, 8:00 PM",0,20,0,0,0,0,Other,2,Yes,,,-79.71,44.35,pupae No releases conducted in this city,gcjones,,0
+,,,0,,Barrie,"10/22/2018, 8:00 PM",0,12,0,0,0,0,Other,2,Yes,,,-79.71,44.35,larvae No releases conducted in this city,gcjones,,0
+,,,0,,Barrie,"10/22/2018, 8:00 PM",0,41,0,0,0,0,Other,2,Yes,,,-79.71,44.35,larvae No releases conducted in this city,gcjones,,0
+,,,0,,Barrie,"10/23/2018, 8:00 PM",0,9,0,0,0,0,Other,2,Yes,,,-79.69,44.42,larvae No releases conducted in this city,gcjones,,0
+Minnesota,"3,119",,0,Program,WW01,"2/20/2019, 7:00 PM",0,29,0,0,2,0,Tree Debarking,10,Yes,,,-92.01,44.15,27 pupae and 2 larvae recovered,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WW02,"2/20/2019, 7:00 PM",0,29,0,,2,0,Tree Debarking,10,Yes,,,-92.01,44.16,29 pupae recovered,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WW03,"2/20/2019, 7:00 PM",0,59,0,,2,0,Tree Debarking,10,Yes,,,-92,44.17,,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WW04,"2/20/2019, 7:00 PM",0,26,0,0,1,0,Tree Debarking,10,Yes,,,-92,44.17,,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WW07,"2/21/2019, 7:00 PM",0,173,0,0,7,0,Tree Debarking,10,Yes,,,-91.99,44.18,,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WW08,"2/27/2019, 7:00 PM",0,4,0,0,1,0,Tree Debarking,10,Yes,,,-91.99,44.19,,cmallet,White Water WMA,0
+Minnesota,"3,119",,0,Program,WWSP29,"3/11/2019, 8:00 PM",0,29,0,0,2,0,Tree Debarking,0,Yes,,,-92.05,44.06,Infested ash trees cut down in campground of state park by Conservation Corps Crew conducting chain saw training. Sampled 31 pieces of wood from the pile,cmallet,White Water WMA,0
+Minnesota,"2,474",,0,Program,FS01,"3/10/2019, 8:00 PM",0,0,0,0,1,0,Tree Debarking,15,Yes,,,-93.18,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",,0,Program,FS02,"3/10/2019, 8:00 PM",0,231,0,0,8,0,Tree Debarking,15,Yes,,,-93.18,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",,0,Program,FS05,"3/14/2019, 8:00 PM",0,16,0,0,1,0,Tree Debarking,15,Yes,,,-93.18,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",,0,Program,FS08,"3/20/2019, 8:00 PM",0,7,0,0,2,0,Tree Debarking,15,Yes,,,-93.18,44.88,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",,0,Program,FS11,"3/20/2019, 8:00 PM",0,406,0,0,17,0,Tree Debarking,15,Yes,,,-93.19,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Michigan,"3,141",,0,Program,PAT2018,"3/18/2018, 8:00 PM",0,0,0,0,2,0,Tree Debarking,7,Yes,,,-76.79,39.29,,kabell,Pataspco State Park,0
+Maryland,"3,140",,0,Program,GUN2018,"3/7/2018, 7:00 PM",0,6,0,0,0,4,Tree Debarking,9,Yes,,,-76.39,39.46,,kabell,Gunpowder State Park,0
+Maryland,,,0,,CHA2018,"2/26/2019, 7:00 PM",0,54,0,0,1,2,Tree Debarking,4,Yes,,,-76.92,38.49,,kabell,,0
+Maryland,"1,484",,0,Program,GAL2018,"2/12/2018, 7:00 PM",0,29,0,0,3,0,Tree Debarking,4,Yes,,,-76.97,38.71,,kabell,GALLAHAN,0
+Maryland,"2,388",,0,Research,GRR2018,"3/12/2018, 8:00 PM",0,20,0,0,2,6,Tree Debarking,4,Yes,,,-78.49,39.62,,kabell,Devil's Alley,0
+Michigan,"1,840",Trees and saplings were debarked,0,Program,SOU2018,"2/21/2018, 7:00 PM",0,15,0,0,2,0,Tree Debarking,14,Yes,,,-76.9,38.71,,kabell,South Hill,0
+Maryland,"1,485",,0,Program,TAY2018,"2/13/2018, 7:00 PM",0,31,0,0,2,0,Tree Debarking,4,Yes,,,-76.98,38.7,,kabell,TAYLOR,0
+Maryland,"2,649",,0,Research,LEO2018,"2/19/2018, 7:00 PM",0,16,0,0,1,0,Tree Debarking,10,Yes,,,-76.85,38.56,,kabell,Leonardtown Road,0
+Maryland,"2,389",,0,Research,PEN2018,"2/20/2018, 7:00 PM",0,20,0,0,2,0,Tree Debarking,10,Yes,,,-77.12,38.59,,kabell,Pennies Road,0
+Maryland,"2,388",,0,Research,YOB2018,"3/14/2018, 8:00 PM",0,0,0,0,4,0,Tree Debarking,0,Yes,,,-78.39,39.64,,kabell,Devil's Alley,0
+Maryland,"2,650",,0,Research,CHA2017,"3/22/2017, 8:00 PM",0,112,0,0,2,0,Tree Debarking,6,Yes,,,-76.92,38.49,,kabell,Charles Street,1
+Maryland,"2,388",,0,Research,DEV2017,"3/28/2017, 8:00 PM",0,60,0,0,2,0,Tree Debarking,6,Yes,,,-78.43,39.61,,kabell,Devil's Alley,0
+Michigan,"1,484",,0,Program,GAL2017,"3/8/2017, 7:00 PM",0,0,0,0,0,0,Tree Debarking,6,Yes,,,-76.97,38.71,Species confirmed with DNA analysis by Juli Gould,kabell,GALLAHAN,1
+Michigan,"1,749",trees and saplings,0,Program,GRR2017,"3/28/2017, 8:00 PM",0,125,0,0,6,0,Tree Debarking,7,Yes,,,-78.49,39.62,,kabell,GR1,0
+Michigan,"2,649",trees and saplings,0,Research,LEO2017,"3/22/2017, 8:00 PM",0,208,0,0,9,1,Tree Debarking,4,Yes,,,-76.85,38.56,,kabell,Leonardtown Road,0
+Michigan,"1,840",,0,Program,SOU2017,"3/16/2017, 8:00 PM",28,25,0,6,5,1,Tree Debarking,12,Yes,,,-76.82,38.71,,kabell,South Hill,0
+Michigan,"2,388",trees and saplings,0,Research,YOB2017,"3/29/2017, 8:00 PM",0,186,0,0,6,0,Tree Debarking,14,Yes,,,-78.39,39.64,,kabell,Devil's Alley,0
+Maryland,"1,485",saplings,0,Program,TAY2017,"3/16/2017, 8:00 PM",0,70,0,0,2,0,Tree Debarking,10,Yes,,,-76.98,38.7,,kabell,TAYLOR,0
+Michigan,"3,116",,0,Program,CYL2019,"3/24/2019, 8:00 PM",0,23,0,0,1,0,Tree Debarking,3,Yes,,,-76.65,39.35,,kabell,Cylburn Arboretum,0
+Maryland,"3,141",,0,Program,PAT2019,"4/3/2019, 8:00 PM",0,65,0,0,5,0,Tree Debarking,3,Yes,,,-76.79,39.3,,kabell,Pataspco State Park,0
+Maryland,"3,140",,0,Program,GUN2019,"4/8/2019, 8:00 PM",0,11,0,0,2,0,Tree Debarking,3,Yes,,,-76.39,39.46,,kabell,Gunpowder State Park,0
+Maryland,"3,141",,0,Program,PAT2019,"7/16/2019, 8:00 PM",1,0,0,0,0,0,Yellow Pan Traps,3,Yes,,,-76.78,39.3,,kabell,Pataspco State Park,0
+Michigan,,,0,,BDR2016,"3/15/2016, 8:00 PM",0,20,0,0,1,0,Logs in Tubes,18,Yes,,,-76.84,39.25,,kabell,,0
+Maryland,,,0,,BLK2016,"11/2/2016, 8:00 PM",0,5,0,0,2,0,Logs in Tubes,9,Yes,,,-77.27,39.24,,kabell,,0
+Michigan,,,0,,JB2017,"1/30/2017, 7:00 PM",0,16,0,0,2,0,Logs in Tubes,6,Yes,,,-76.7,38.81,,kabell,,0
+Maryland,"3,155",,0,Research,MRP2016,"11/9/2016, 7:00 PM",0,22,0,0,2,0,Logs in Tubes,15,Yes,,,-77.15,39.16,,kabell,Muncaster Recreational Park,0
+Maryland,"3,155",,0,Research,MRP2017,"12/11/2017, 7:00 PM",0,138,0,0,3,0,Logs in Tubes,17,Yes,,,-77.15,39.16,,kabell,Muncaster Recreational Park,0
+Maryland,,,0,,BB2016,"11/2/2016, 8:00 PM",0,3,0,0,1,0,Logs in Tubes,4,Yes,,,-77.19,39.28,,kabell,,0
+Maryland,,,0,,SHW2018,"1/17/2018, 7:00 PM",0,14,0,0,1,0,Logs in Tubes,18,Yes,,,-77.18,39.28,,kabell,,0
+Maryland,,,0,,RV2018,"1/18/2018, 7:00 PM",0,52,0,0,3,0,Logs in Tubes,15,Yes,,,-77.19,39.09,,kabell,,0
+Maryland,,,0,,OX2018,"1/15/2018, 7:00 PM",0,32,0,0,2,0,Logs in Tubes,12,Yes,,,-76.84,38.93,,kabell,,0
+Maryland,,,0,,TCR2018,"12/17/2018, 7:00 PM",0,30,0,0,4,0,Logs in Tubes,23,Yes,,,-77.31,39.16,,kabell,,0
+Maryland,,,0,,CF2019,"2/25/2019, 7:00 PM",0,1,0,0,1,0,Logs in Tubes,12,Yes,,,-77.46,39.63,,kabell,,0
+Maryland,"2,650",,0,Research,CHA2018,"2/26/2018, 7:00 PM",2,0,0,1,0,0,Tree Debarking,14,Yes,,,-76.92,38.49,,saker,Charles Street,0
+Maryland,"2,389",,0,Research,PEN2018,"2/20/2018, 7:00 PM",2,0,0,1,0,0,Tree Debarking,17,Yes,,,-77.12,38.59,,saker,Pennies Road,0
+Maryland,"2,649",,0,Research,LEO2018,"2/19/2018, 7:00 PM",2,0,0,1,0,0,Tree Debarking,15,Yes,,,-76.85,38.56,,saker,Leonardtown Road,0
+Maryland,"3,155",,0,Research,MRP2017,"12/11/2017, 7:00 PM",1,0,0,1,0,0,Logs in Tubes,17,Yes,,,-77.15,39.16,,saker,Muncaster Recreational Park,0
+Missouri,"3,258","2 sample vials YPTs 2,13",0,Program,3258,"6/5/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-94.85,39.8,T. planipennisi found (Juli Gould),vshoemaker,Krug Park,0
+Missouri,"3,258","4 sample vials YPTs 2,3,7,8",0,Program,3258,"6/12/2019, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-94.85,39.8,T. planipennisi found (Juli Gould),vshoemaker,Krug Park,0
+Missouri,"3,240","2 sample vials YPTs 13,14",0,Program,3240,"5/12/2019, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.03,37.56,T. planipennisi found (Juli Gould),vshoemaker,Slabtown,0
+Missouri,"3,240","5 sample vials YPTs 1,3,8,12,13",0,Program,3240,"5/21/2019, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.03,37.56,T. planipennisi found (Juli Gould),vshoemaker,Slabtown,0
+Missouri,"3,240","10 sample vials YPTs 1,3,5,6,7,8,9,11,13,15",0,Program,3240,"6/3/2019, 8:00 PM",0,4,8,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.03,37.56,T. planipennisi and O. agrili found (Juli Gould),vshoemaker,Slabtown,0
+Missouri,"3,240",1 sample vial YPT 10,0,Program,3240,"8/14/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.03,37.56,T. planipennisi found (Juli Gould),vshoemaker,Slabtown,0
+Missouri,"3,239","4 sample vials YPTs 6,7,8,10",0,Program,3239,"7/10/2019, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,15,Yes,"12/29/2019, 7:00 PM",Juli Gould,-91.32,36.79,Oobius confirmed (Juli Gould),vshoemaker,Greer,0
+Missouri,"3,232","7 sample vials YPTs 1,3,6,9,11,12,13",0,Program,3232,"6/2/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,13,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.18,37.67,1 tet. female (Juli Gould),vshoemaker,Ft. Leonard Wood,0
+Missouri,"3,232","8 sample vials YPTs 1,2,3,7,8,10,12,13",0,Program,3232,"7/1/2019, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,12,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.18,37.67,O. agrili confirmed (Juli Gould),vshoemaker,Ft. Leonard Wood,0
+Missouri,"3,232","5 sample vials YPTs 1,4,9,11,13",0,Program,3232,"7/7/2019, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,11,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.18,37.67,Oobius confirmed (Juli Gould),vshoemaker,Ft. Leonard Wood,0
+Missouri,"3,232","6 sample vials YPTs 1,2,4,6,11,12",0,Program,3232,"7/15/2019, 8:00 PM",0,0,3,0,0,0,Yellow Pan Traps,12,Yes,"12/29/2019, 7:00 PM",Juli Gould,-92.18,37.67,O. agrili found (Juli Gould),vshoemaker,Ft. Leonard Wood,0
+Maryland,,,0,,CF2019,"4/9/2019, 8:00 PM",0,97,0,0,3,0,Logs in Tubes,16,Yes,,,-77.46,39.63,,saker,,0
+Maryland,"3,155",,0,Research,MRP2018,"12/4/2018, 7:00 PM",1,7,0,1,2,0,Logs in Tubes,11,Yes,,,-77.16,39.16,,saker,Muncaster Recreational Park,0
+Maryland,,,0,,RV2019,"1/24/2019, 7:00 PM",0,22,0,0,2,0,Logs in Tubes,18,Yes,,,-77.19,39.09,,saker,,0
+Virginia,"3,182",,0,Program,3182,"6/20/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,4,Yes,"11/12/2019, 7:00 PM",Julie Gould,-77.47,38.9,T. planipennisi found (Juli Gould),fxarg,North Cub Run SV,0
+Virginia,"3,185",,0,Program,3185,"6/20/2019, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,4,Yes,"11/12/2019, 7:00 PM",Julie Gould,-77.43,38.89,Oobius confirmed (Juli Gould),fxarg,Flatlick SV,0
+Virginia,"3,185",,0,Program,3185,"7/2/2019, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,3,Yes,"11/12/2019, 7:00 PM",Julie Gould,-77.43,38.89,Oobius confirmed (Juli Gould),fxarg,Flatlick SV,0
+Minnesota,,"15 ypt set. Exact location of trap with t. planipennisi adult: 44.00264, -91.81041 . Adult confirmed by Juli Gould",0,,YPTFP,"8/5/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-91.81,44,T. planipennisi found (Juli Gould),cmallet,,0
+Minnesota,"3,143","15 ypt traps set. exact location of trap with adult T. planipennisi: 44.005956, -91.808588. insect confirmed by Juli Gould",0,Program,YPTFP,"8/12/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,,,-91.81,44.01,T. planipennisi found (Juli Gould),cmallet,farmers community park,0
+Maryland,,,0,,TCR2018,"12/9/2018, 7:00 PM",0,40,0,0,8,0,Logs in Tubes,22,Yes,,,-77.31,39.16,,saker,,0
+Maryland,"3,141",,0,Program,PAT2019,"10/21/2019, 8:00 PM",0,28,0,0,4,0,Tree Debarking,3,Yes,,,-76.78,39.3,"61/185 spathius confirmed S. galinae. Other broods were cocoons where adults had already emerged, ID was not possible . Exited cocoons awaiting molecular ID.",saker,Pataspco State Park,41
+Minnesota,"2,474",2 clutches of tets ID: MDA.20191122.FS.10.A 18 trees debarked,0,Program,FS10.1119,"11/21/2019, 7:00 PM",0,0,0,0,2,0,Tree Debarking,18,Yes,,,-93.18,44.88,,cmallet,Fort Snelling Hillside Hwy 5,0
+Minnesota,"2,474",1 clutch of tets ID: MDA.20191121.FS.08.C 18 trees debarked,0,Program,FS081119,"11/20/2019, 7:00 PM",0,0,0,0,1,0,Tree Debarking,18,Yes,,,-93.18,44.89,,cmallet,Fort Snelling Hillside Hwy 5,0
+Maryland,"3,140",ID confirmed by Jason Mottern Smithsonian,0,Program,GUN1,"7/9/2019, 8:00 PM",0,0,8,0,0,0,Yellow Pan Traps,3,Yes,,,-76.39,39.46,,saker,Gunpowder State Park,0
+Ohio,34,,0,Research,abr,"4/26/2010, 8:00 PM",0,0,0,0,1,0,,4,,,,-84.3,41.49,1 T. planipennisi confirmed (Juli Gould),Gould,abr,0
+Michigan,25,,0,Research,GSW,"3/23/2010, 8:00 PM",0,0,0,7,1,0,Tree Debarking,4,Yes,,,-84.45,43.23,T. planipennisi and S. Agrili confirmed (Juli Gould),Gould,GSW,0
+Michigan,22,,0,Research,SR,"3/23/2010, 8:00 PM",0,0,0,3,0,0,,4,,,,-84.11,43.34,S. agrili confirmed (Juli Gould),Gould,sr,0
+Ohio,36,,0,Research,vbr,"3/23/2010, 8:00 PM",0,0,0,15,0,0,,4,,,,-83.62,41.13,S. agrili confirmed (Juli Gould),Gould,vbr,0
+Pennsylvania,,Liu,0,,SGL 314,"3/4/2019, 7:00 PM",0,0,2,0,3,0,Logs in Tubes,10,Yes,,,-80.49,41.97,,PArelease11,,0
+Pennsylvania,,,0,,Medix Run,"3/4/2019, 7:00 PM",0,0,17,0,1,0,Logs in Tubes,13,Yes,,,-78.42,41.24,,PArelease11,,0
+Pennsylvania,,,0,,WCU,"3/4/2019, 7:00 PM",0,0,1,0,0,0,Logs in Tubes,10,Yes,,,-75.6,39.94,,PArelease11,,0
+Virginia,,,0,,3182_2,"3/26/2019, 8:00 PM",4,0,0,0,0,0,Tree Debarking,39,Yes,,Max Ragozzino,-77.47,38.9,,fxarg,,0
+New York,"1,736",,0,Research,Lehigh,"7/11/2017, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,46,Yes,,,-73.92,42.15,T. planipennisi confirmed (Juli Gould),Gould,Cementon North,0
+New York,"1,736",,0,Research,Lehigh,"7/19/2017, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,36,Yes,,,-73.92,42.15,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Cementon North,0
+New York,"1,736",,0,Research,Lehigh,"8/2/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,28,Yes,,,-73.92,42.15,T. planipennisi confirmed (Juli Gould),Gould,Cementon North,0
+New York,"1,736",,0,Research,Lehigh,"8/16/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,42,Yes,,,-73.92,42.15,T. planipennisi confirmed (Juli Gould),Gould,Cementon North,0
+New York,"1,736",,0,Research,Lehigh,"9/1/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,40,Yes,,,-73.92,42.15,T. planipennisi confirmed (Juli Gould),Gould,Cementon North,0
+New York,"2,122",,0,Research,Holcim,"7/11/2017, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,37,Yes,,,-73.91,42.18,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"7/19/2017, 8:00 PM",0,7,0,0,0,0,Yellow Pan Traps,46,Yes,,,-73.91,42.18,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"7/26/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,43,Yes,,,-73.91,42.18,O. agrili confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"8/2/2017, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,46,Yes,,,-73.91,42.18,T. planipennisi confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"8/9/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,43,Yes,,,-73.91,42.18,T. planipennisi confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"8/16/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,41,Yes,,,-73.91,42.18,T. planipennisi confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,122",,0,Research,Holcim,"9/1/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,43,Yes,,,-73.91,42.18,T. planipennisi confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,417",,0,Research,LaurenTic,"7/19/2017, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,34,Yes,,,-73.95,42.12,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"7/26/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,46,Yes,,,-73.95,42.12,T. planipennisi confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"8/2/2017, 8:00 PM",0,2,1,0,0,0,Yellow Pan Traps,42,Yes,,,-73.95,42.12,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"8/9/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,39,Yes,,,-73.95,42.12,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"1,744",,0,Research,Watts,"7/13/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,43,Yes,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts,"7/20/2017, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,56,Yes,,,-79.01,42.16,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts,"7/27/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,40,Yes,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts,"8/3/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,39,Yes,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts,"8/10/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,37,Yes,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts,"8/17/2017, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,42,Yes,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"2,117",,0,Research,Airport,"7/20/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,50,Yes,,,-79.03,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road_C,0
+New York,"2,117",,0,Research,Airport,"8/3/2017, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,37,Yes,,,-79.03,42.16,No exotic EAB parasitoids confirmed (Juli Gould),Gould,Watts Road_C,0
+New York,"2,117",,0,Research,Airport,"8/17/2017, 8:00 PM",0,7,0,0,0,0,Yellow Pan Traps,35,Yes,,,-79.03,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"7/13/2017, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,43,Yes,,,-79.03,42.16,T. planipennisi confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"7/20/2017, 8:00 PM",0,2,2,0,0,0,Yellow Pan Traps,40,Yes,,,-79.03,42.16,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"7/27/2017, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,6,Yes,,,-79.03,42.16,O. agrili confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"8/3/2017, 8:00 PM",0,4,7,0,0,0,Yellow Pan Traps,42,Yes,,,-79.03,42.16,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"8/10/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,42,Yes,,,-79.03,42.16,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"2,118",,0,Research,Schoolhou,"8/17/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,39,Yes,,,-79.03,42.16,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,Conewango Road_C,0
+New York,"4,228",,0,Program,Steege,"7/21/2017, 8:00 PM",0,1,7,0,0,0,Yellow Pan Traps,67,Yes,,,-76.95,42.11,Both T. planipennisi and O. agrili confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"7/27/2017, 8:00 PM",0,1,8,0,0,0,Yellow Pan Traps,74,Yes,,,-76.95,42.11,Both T. planipennisi and O. agrili confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"8/3/2017, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,78,Yes,,,-76.95,42.11,O. agrili confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"8/10/2017, 8:00 PM",0,1,3,0,0,0,Yellow Pan Traps,74,Yes,,,-76.95,42.11,Both T. planipennisi and O. agrili confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"8/24/2017, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,71,Yes,,,-76.95,42.11,T. planipennisi confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"9/2/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,68,Yes,,,-76.95,42.11,T. planipennisi confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,"4,228",,0,Program,Steege,"10/4/2017, 8:00 PM",0,10,0,0,0,0,Yellow Pan Traps,73,Yes,,,-76.95,42.11,T. planipennisi confirmed (Juli Gould),mlaita,Steege Hill Nature Preserve,0
+New York,,,0,,TaftRd,"7/27/2017, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,70,Yes,,,-76.07,42.14,O. agrili confirmed (Juli Gould),Gould,,0
+New York,,,0,,TaftRd,"8/20/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,74,Yes,,,-76.07,42.14,T. planipennisi confirmed (Juli Gould),Gould,,0
+New York,,,0,,TaftRd,"8/24/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,74,Yes,,,-76.07,42.14,T. planipennisi confirmed (Juli Gould),Gould,,0
+New York,,,0,,TaftRd,"10/5/2017, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,74,Yes,,,-76.07,42.14,T. planipennisi confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"7/21/2017, 8:00 PM",0,3,4,0,0,0,Yellow Pan Traps,69,Yes,,,-76.26,42.09,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"7/28/2017, 8:00 PM",0,0,2,0,0,0,Yellow Pan Traps,72,Yes,,,-76.26,42.09,O. agrili confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"8/2/2017, 8:00 PM",0,2,3,0,0,0,Yellow Pan Traps,71,Yes,,,-76.26,42.09,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"8/9/2017, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,72,Yes,,,-76.26,42.09,O. agrili confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"8/17/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,68,Yes,,,-76.26,42.09,T. planipennisi confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"8/24/2017, 8:00 PM",0,2,1,0,0,0,Yellow Pan Traps,52,Yes,,,-76.26,42.09,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"9/1/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,69,Yes,,,-76.26,42.09,T. planipennisi confirmed (Juli Gould),Gould,,0
+New York,"4,906",,0,,Montrose,"10/4/2017, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,72,Yes,,,-76.26,42.09,Both T. planipennisi and O. agrili confirmed (Juli Gould),Gould,,0
+New York,"1,751",,0,Research,Conewango,"5/14/2016, 8:00 PM",0,0,0,0,3,4,Tree Debarking,4,,,,-78.97,42.17,T. planipennisi confirmed (Juli Gould),Gould,Conewango Road,0
+New York,"1,745",,0,Research,Btl Creek,"5/14/2016, 8:00 PM",0,0,0,0,7,5,Tree Debarking,4,,,,-78.99,42.15,T. planipennisi confirmed (Juli Gould),Gould,Battle Creek,0
+New York,"1,744",,0,Research,Watts Rd.,"5/14/2016, 8:00 PM",0,0,0,0,3,15,Tree Debarking,4,,,,-79.01,42.16,No exotic EAB parasitoids confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,744",,0,Research,Watts Rd.,"4/18/2017, 8:00 PM",0,0,0,0,3,1,Tree Debarking,4,,,,-79.01,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road,0
+New York,"1,739",,0,Research,BristBch,"3/14/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,,,,-73.93,42.11,T. planipennisi confirmed (Juli Gould),Gould,Bristol Beach,0
+New York,"1,739",,0,Research,BristBch,"3/14/2017, 8:00 PM",0,0,0,0,4,0,Tree Debarking,4,,,,-73.93,42.11,T. planipennisi confirmed (Juli Gould),Gould,Bristol Beach,0
+New York,"1,736",,0,Research,Cementon,"3/14/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,,,,-73.92,42.15,T. planipennisi confirmed (Juli Gould),Gould,Cementon North,0
+New York,"2,122",,0,Research,Holcim,"3/14/2017, 8:00 PM",0,0,0,0,4,0,Tree Debarking,4,,,,-73.91,42.18,T. planipennisi confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"2,417",,0,Research,LaurenTic,"3/14/2016, 8:00 PM",0,0,0,0,1,0,Tree Debarking,4,,,,-73.95,42.12,T. planipennisi confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"2,417",,0,Research,LaurenTic,"3/14/2017, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,,,,-73.95,42.12,T. planipennisi confirmed (Juli Gould),Gould,Bristol Beach Control,0
+New York,"2,418",,0,Research,Ulster L.,"3/14/2017, 8:00 PM",0,0,0,0,4,0,Tree Debarking,4,,,,-73.96,41.97,T. planipennisi confirmed (Juli Gould),Gould,Leggs Mills Control,0
+New York,"1,740",,0,Research,Leggs Mil,"3/12/2017, 8:00 PM",0,0,0,0,5,0,Tree Debarking,4,,,,-74,41.99,T. planipennisi confirmed (Juli Gould),Gould,Leggs Mills Road,0
+New York,"2,117",,0,Research,AirportNY,"4/18/2017, 8:00 PM",0,0,0,0,2,0,Tree Debarking,4,,,,-79.03,42.16,T. planipennisi confirmed (Juli Gould),Gould,Watts Road_C,0
+Maryland,"2,650",Duan confirmed ID,0,Research,CHA2020,"4/28/2020, 8:00 PM",0,0,0,0,0,0,Tree Debarking,6,Yes,,Jian Duan,-76.92,38.49,,saker,Charles Street,7
+Maryland,"1,485",confirmed S. galinae by Duan,0,,TAY2020,"3/18/2020, 8:00 PM",0,10,0,0,1,0,Tree Debarking,14,Yes,,Jian Duan,-76.98,38.7,,saker,,5
+Michigan,25,,0,Research,GSW,"5/12/2010, 8:00 PM",0,0,4,0,0,0,Logs in Tubes,7,,,,-84.45,43.23,Oobius confirmed (Juli Gould),Bauer,GSW,0
+Michigan,22,,0,Research,sr,"5/12/2010, 8:00 PM",0,0,2,0,0,0,Logs in Tubes,19,,,,-84.11,43.34,Oobius confirmed (Juli Gould),Gould,sr,0
+Michigan,55,,0,Research,RL,"7/27/2010, 8:00 PM",0,0,1,0,0,0,Egg Collection,21,,,,-84.35,42.82,Oobius confirmed (Juli Gould),Bauer,RL,0
+Michigan,"1,773",,0,Research,BFPKLT,"7/18/2010, 8:00 PM",0,0,5,0,0,0,Egg Collection,32,,,,-84.6,42.59,Oobius confirmed (Juli Gould),Bauer,BFPKLT,0
+Michigan,25,,0,Research,GSW,"5/21/2012, 8:00 PM",0,0,3,0,0,0,Bark Sifting,10,,,,-84.45,43.23,Oobius confirmed (Juli Gould),Bauer,GSW,0
+Michigan,"1,770",,0,Research,LPRFLT,"5/11/2012, 8:00 PM",0,0,9,0,0,0,Bark Sifting,2,,,,-84.38,42.7,Oobius confirmed (Juli Gould),Gould,LPRFLT,0
+Michigan,"1,804",,0,Research,LPRFLT_C,"5/21/2012, 8:00 PM",0,0,1,0,0,0,Bark Sifting,4,,,,-84.38,42.7,Oobius confirmed (Juli Gould),Gould,LPRFLT_C,0
+Michigan,"1,769",,0,Research,CPNMLT,"5/16/2012, 8:00 PM",0,0,53,0,0,0,Bark Sifting,6,,,,-84.42,42.73,Oobius confirmed (Juli Gould),Bauer,CPNMLT,0
+Michigan,"1,798",,0,Research,BFPKLT_C,"5/23/2012, 8:00 PM",0,0,11,0,0,0,Bark Sifting,5,,,,-84.6,42.58,Oobius confirmed (Juli Gould),Bauer,BFPKLT_C,0
+Michigan,"1,773",,0,Research,BFPKLT,"5/22/2012, 8:00 PM",0,0,91,0,0,0,Bark Sifting,6,,,,-84.6,42.59,Oobius confirmed (Juli Gould),Bauer,BFPKLT,0
+Michigan,10,,0,Research,dfg,"2/27/2013, 7:00 PM",0,0,0,0,1,18,Tree Debarking,4,,,,-83.23,43.5,T. planipennisi confirmed (Juli Gould),Gould,dfg,0
+Michigan,25,,0,Research,GSW,"1/14/2013, 7:00 PM",0,0,13,0,2,11,Tree Debarking,4,,,,-84.45,43.23,T. planipennisi confirmed (Juli Gould),Bauer,GSW,0
+Michigan,26,,0,Research,GSW_C,"1/17/2013, 7:00 PM",0,0,1,0,0,0,Tree Debarking,4,,,,-84.45,43.21,Oobius confirmed (Juli Gould),Bauer,GSW_C,0
+Michigan,17,,0,Research,tusg,"7/7/2013, 8:00 PM",0,0,0,0,1,31,Tree Debarking,4,,,,-83.36,43.43,T. planipennisi confirmed (Juli Gould),Gould,tusg,0
+Michigan,18,,0,Research,tusn,"3/19/2013, 8:00 PM",0,0,0,0,4,4,Tree Debarking,4,,,,-83.37,43.44,T. planipennisi confirmed (Juli Gould),Gould,tusn,0
+Ohio,36,,0,Research,vbr,"11/20/2012, 7:00 PM",0,0,0,0,3,0,Tree Debarking,4,,,,-83.62,41.13,T. planipennisi confirmed (Juli Gould),Bauer,vbr,0
+Michigan,"1,770",,0,Research,LPRFLT,"5/8/2013, 8:00 PM",0,0,7,0,0,0,Bark Sifting,10,,,,-84.38,42.7,O. agrili confirmed (Juli Gould),Bauer,LPRFLT,0
+Colorado,,,0,,2017-R03,"7/9/2017, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,10,,,,-105.24,40.01,T. planipennisi confirmed (Juli Gould),Gould,2016-R03,0
+Michigan,37,,0,Research,IO_C,"11/9/2014, 7:00 PM",0,150,0,0,3,5,Tree Debarking,4,,,,-85.11,42.96,T. planipennisi confirmed (Juli Gould),Gould,IO_C,0
+New York,"1,751",,0,Research,Conewango,"5/10/2015, 8:00 PM",0,0,2,0,0,0,Bark Sifting,4,,,,-78.97,42.17,Oobius found (Juli Gould),Gould,Conewango Road,0
+New York,"2,417",,0,Research,LaurenTic,"3/9/2015, 8:00 PM",0,0,3,0,0,0,Bark Sifting,4,,,,-73.95,42.12,Oobius found (Juli Gould),Gould,Bristol Beach Control,0
+New York,"1,740",,0,Research,Leggs Mil,"6/23/2015, 8:00 PM",0,6,2,0,0,0,Yellow Pan Traps,10,,,,-74,41.99,Both T. planipennisi and Oobius found (Juli Gould),Gould,Leggs Mills Road,0
+New York,"1,739",,0,Research,BristBch,"3/14/2016, 8:00 PM",0,0,2,0,0,0,Bark Sifting,15,,,,-73.93,42.11,Oobius confirmed (Juli Gould),Gould,Bristol Beach,0
+New York,"2,122",,0,Research,Holcim,"3/14/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,15,,,,-73.91,42.18,Oobius confirmed (Juli Gould),Gould,Cementon North_C,0
+New York,"1,736",,0,Research,Cementon,"3/14/2016, 8:00 PM",0,0,1,0,0,0,Bark Sifting,14,,,,-73.92,42.15,Oobius confirmed (Juli Gould),Gould,Cementon North,0
+New York,"1,737",,0,Research,East pky,"3/14/2016, 8:00 PM",0,0,10,0,0,0,Bark Sifting,21,,,,-73.99,42,Oobius confirmed (Juli Gould),Gould,Eastern Parkway,0
+New York,"1,740",,0,Research,Leggs Mil,"3/14/2016, 8:00 PM",0,0,4,0,0,0,Bark Sifting,14,,,,-74,41.99,Oobius confirmed (Juli Gould),Gould,Leggs Mills Road,0
+Missouri,"3,238",YPT #4 1 possible Tet,0,Program,3238,"5/20/2020, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"5/28/2020, 8:00 PM",Juli Gould,-90.46,36.9,T. planipennisi female,vshoemaker,USFS Highway O,0
+Missouri,"3,239",YPT #1 possible Tet YPT #7 possible Tet,0,Program,3239,"5/12/2020, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,15,Yes,"5/28/2020, 8:00 PM",Juli Gould,-91.32,36.79,2 female T. planipennisi,vshoemaker,Greer,0
+Missouri,"3,239",YPT #1 possible Tet,0,Program,3239,"5/26/2020, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"5/28/2020, 8:00 PM",Juli Gould,-91.32,36.79,T. planipennisi female,vshoemaker,Greer,0
+Missouri,"3,241",YPT #7 possible Tet YPT #11 possible S.agrili,0,Program,3241,"5/18/2020, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"5/28/2020, 8:00 PM",Juli Gould,-90.2,37.72,1 female T. planipennisi. Native Spathius.,vshoemaker,Bidwell,0
+Missouri,"3,241",YPT #7 possible Tet YPT #13 possible S.agrili,0,Program,3241,"5/27/2020, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,15,Yes,"5/28/2020, 8:00 PM",Juli Gould,-90.2,37.72,1 female T. planipennisi. Native Spathius.,vshoemaker,Bidwell,0
+Maryland,,,0,,BWR2019,"11/17/2019, 7:00 PM",0,0,0,0,0,0,Logs in Tubes,5,Yes,,,-77.09,39.16,,saker,,1
+Illinois,"2,900",,0,Research,Nap IPM,"5/29/2017, 8:00 PM",0,11,0,0,0,0,Yellow Pan Traps,28,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"6/5/2017, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,26,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"6/15/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,6,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"6/28/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,20,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"7/6/2017, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,25,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"7/13/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,11,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"8/10/2017, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,16,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"7/11/2018, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,23,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"7/18/2018, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,7,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"8/2/2018, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,4,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"8/8/2018, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,15,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"9/6/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,8,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"9/12/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,5,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"9/19/2018, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,16,Yes,,,-88.08,41.74,Both S. galinae and T. planipennisi found (Juli Gould),Gould,Green Valley Forest Preserve,0
+Illinois,"2,900",,0,Research,Nap IPM,"9/26/2018, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,10,Yes,,,-88.08,41.74,T. planipennisi confirmed (Juli Gould),Gould,Green Valley Forest Preserve,0
+New York,"1,740",,0,Research,Leggs Mil,"6/23/2015, 8:00 PM",0,6,2,0,0,0,Yellow Pan Traps,10,,,,-74,41.99,Both T. planipennisi and Oobius found (Juli Gould),Gould,Leggs Mills Road,0
+Colorado,"3,121",,0,Program,CTQ,"6/18/2019, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,S. galinae and T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"6/25/2019, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"7/2/2019, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"7/9/2019, 8:00 PM",0,9,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,S. galinae and T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"7/17/2019, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"7/23/2019, 8:00 PM",0,7,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"7/31/2019, 8:00 PM",0,4,3,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"8/6/2019, 8:00 PM",0,12,9,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"8/13/2019, 8:00 PM",0,9,7,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"8/20/2019, 8:00 PM",0,9,3,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"8/27/2019, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"9/4/2019, 8:00 PM",0,9,7,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"9/11/2019, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"9/18/2019, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"9/24/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"3,121",,0,Program,CTQ,"10/7/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,,,,-105.28,40,T. planipennisi found (Juli Gould),APHIS/CDA,McClintock,0
+Colorado,"2,690",,0,Program,R,"6/16/2019, 8:00 PM",0,6,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"6/23/2019, 8:00 PM",0,5,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"6/30/2019, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"7/7/2019, 8:00 PM",0,7,1,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"7/15/2019, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"7/28/2019, 8:00 PM",0,3,3,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"8/4/2019, 8:00 PM",0,0,1,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,Oobius found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"8/11/2019, 8:00 PM",0,2,2,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,"Tet., Oobius, and S. galinae found (Juli Gould)",APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"8/18/2019, 8:00 PM",0,3,1,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"8/25/2019, 8:00 PM",0,1,1,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,Both T. planipennisi and Oobius found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"9/8/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"9/22/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"9/29/2019, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+Colorado,"2,690",,0,Program,R,"10/14/2019, 8:00 PM",0,2,0,0,0,0,Yellow Pan Traps,10,,,,-105.25,40.01,T. planipennisi found (Juli Gould),APHIS/CDA,Boulder Creek,0
+New York,"2,850",,0,Research,Syr IPM,"5/29/2019, 8:00 PM",0,3,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,T. planipennisi found (Juli Gould),Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/3/2019, 8:00 PM",0,16,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,T. planipennisi found (Juli Gould),Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/10/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/17/2019, 8:00 PM",0,11,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"6/24/2019, 8:00 PM",0,8,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/1/2019, 8:00 PM",0,15,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/9/2019, 8:00 PM",0,4,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/15/2019, 8:00 PM",0,0,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"7/22/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"8/5/2019, 8:00 PM",0,0,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"8/13/2019, 8:00 PM",0,0,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"8/25/2019, 8:00 PM",0,1,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0
+New York,"2,850",,0,Research,Syr IPM,"8/28/2019, 8:00 PM",0,0,0,0,0,0,Yellow Pan Traps,45,,,,-76.1,43.08,,Jones,Syracuse IPM 2,0

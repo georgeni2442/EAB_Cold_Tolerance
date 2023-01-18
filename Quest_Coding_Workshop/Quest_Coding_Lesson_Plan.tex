@@ -1,0 +1,2179 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={QuEST Coding Workshop},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{QuEST Coding Workshop}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+\hypertarget{intro-45-min}{%
+\subsubsection{Intro (45 min)}\label{intro-45-min}}
+
+Hello everyone, I hope you're doing well! My name's George Ni, I'm a 2nd
+year Phd Student in the Biology Department working with Nicholas
+Gotelli, and I'm going to be going over some of the basics of RStudio
+and R today. This workshop was created because one of the required
+courses for QuEST trainees, Foundations of Quantitative Reasoning, is
+unavailable this year. Instead, another course called Modeling Complex
+systems led by Professor Laurent will replace it, which is a little more
+advanced. Because of that, we want to make sure that you all have the
+tools necessary to succeed in that course and give you a crash course of
+sorts for what you would've covered in that original class. We've
+designed this workshop to last 3 days, with this first day covering the
+foundations of RStudio to make sure you're familiar with it, then the
+2nd day will be taking an in-depth look at some interesting packages
+called the Tidyverse, and then the last day will be covering the
+mathematical foundations needed for Laurent's class.
+
+So, to get started, we're going to go ahead and get RStudio and R
+downloaded-so who went and downloaded these? You should've gotten a link
+from Brendan in an email previously. Here are the links:
+\url{http://lib.stat.cmu.edu/R/CRAN/} and
+\url{https://rstudio.com/products/rstudio/download/\#download} . Then go
+ahead and install RMarkdown by opening up RStudio, hitting File
+-\textgreater{} New File -\textgreater{} RMarkdown. Alternatively, you
+can type install.packages(``rmarkdown'').
+
+We also want to install something called Latex, which is used to prepare
+documents for publication. Luckily, RStudio has access to a package that
+makes installation very simple. In your console, go ahead and type
+``install.packages(''tinytex``)'' and then press enter.
+
+Finally, depending on time, we may do a little bit of work with GitHub
+in developing a repository. Here's the link to the download: git-scm.com
+
+So, now that we've gone over the installations, let's go over some of
+the basics of RStudio. The first thing to note is the difference between
+R and RStudio. R is the programming language that we can use for
+statistical computing, while RStudio is how we can use the R language to
+develop statistical programs. Let's go ahead and open up RStudio and
+take a look at what we're dealing with. So when you open up RStudio, you
+should be able to see something similar to what's on my screen. There
+are basically 4 panels that we'll be working with, with some options to
+customize if you'd like.
+
+Starting with the top left panel, This panel is where you will create
+script and document files. These files consist of lines of computer
+code. These are instructions to R to carry out calculations and report
+the results. Think of this window as an old-fashioned typewriter. You
+will enter plain text here, save the files to disk, and then execute
+them to carry out your R code. As you will see later, you can also use
+the Source window as a very powerful word-processor (much easier to use
+than Word).
+
+For the lower left panel, we have the console. Here's where you'll
+basically communicate directly with R. You can write commands and send
+them, and it'll complete them immediately. The \textgreater{} (chevron)
+at the console is a prompt and means that R is waiting for instructions
+from you to do something. Working in the console, you have to enter
+commands one line at a time, sort of like a calculator. When R generates
+output from its calculations, the output also appears in the console
+window. And, when you have made a mistake in your code, R will tell you
+about the problem in this location.
+
+At the upper right panel, we have our Workspace. This is where we'll
+have the environment, history,and various other tabs. The environment
+tab will let us know what sort of variables and objects we've created
+and exist. The history tab will give us some records of the lines of
+code that have actually been employed/run. These all have important
+information but won't necessarily be useful at this stage. In order to
+clear your environment (which you'll often have to do), you can either
+hit the broom icon at the top right of your panel, or type in
+``rm(list=ls())'' to your console.
+
+Finally we have the Plot panel, where the files, plots, packages, and
+help tabs are. The Files options will have a condensed look at your file
+locations and what readable files you have, and is also a good place to
+set and find your working directory (which we'll talk about in just a
+little bit). Plots will be where your graphics and plots show up, and
+whenever you're confused/curious about a particular function or package
+you can use the help function to take a closer look at the documentation
+for it.
+
+So now, I just want to go over a few customization options that are
+available to you that are just quality-of-life changes. The first being
+going to Tools-\textgreater Global
+options-\textgreater Code-\textgreater Soft-wrap text. That way your
+lines won't just keep travelling to the right and still be readable for
+yourself. You can also hit ``Appearance'', and edit your font, text
+size, etc. But, ultimately, these are aesthetic, and you can do what you
+want.
+
+For now, let's kind of go through the motions of starting a new
+assignment, or project, or whatever it may be. One of the most important
+things to keep in mind while coding is making sure that you're
+generating reproducible results and work. That means that you have
+things neat and organized, and that a random researcher/editor could
+take a look at your code quickly without needing you to explain
+anything. The first thing you'd want to do then is making sure you have
+an organized working directory. This means that your workspaces are
+compartmentalized and distinct from each other.
+
+So, let's say you have a particular project with multiple files and
+documents related to it. The smart thing to do would be to have all of
+those things in the same spot so you can access them at once. That's
+what setting your work directory is going to do. So the commands to do
+this are ``getwd()'' and ``setwd()''. getwd() is going to tell you what
+your current working directory is, and the exact file path that it's
+using. Setwd() is how you actually change it and set it manually.
+Alternatively, you can use the Files tab in the bottom right panel to
+root around in your files and try to find the best working directory.
+
+So, for example, let's look through my files for this project I've been
+working on about Emerald Ash Borer. So I have all of my related files
+here in this folder, so I've made this my working directory, since I can
+just pull all of those files easily from here, and then I've also made
+my R Project and placed it here just to make it easier to find.
+
+So what's a project and R script? An R Script file is basically a record
+or paper trail of the commands that we want issued to the console as
+well as the results that they'll produce. But first, we will tell
+RStudio to set up a ``project'' for us. The project is just a file
+folder and associated documents that RStudio creates for organizing your
+work. Once you have created your project, R knows where to find
+everything, and you can pick up your work exactly where you left off,
+without having to reopen all sorts of files. In the RStudio ``File''
+menu select ``New project. . .'' and follow the prompts. Name the new
+directory something like ``myFirstProject'' and use the ``Browse''
+button to direct RStudio to create the project on your desktop (or
+wherever you want to store it). Now go ahead and quit RStudio from the
+``File'' menu. Find the new directory on your desk top and inside you
+will find a file called myFirstProject.Rproj. If you double-click this
+file, it will open up RStudio and automatically set everything up where
+you last left off. Remember you only have to create a new project at the
+start, and then you can re-open it and it will keep all of your work
+organized
+
+Now that we have everything organized, we have an RProject, as well as a
+good working directory, we can get started. So we open up a fresh script
+file, and we can get started. So when you're working in a script file,
+there are a few things to note. First, this is unlike a normal word
+processing document, in that every line is treated as a line of code
+that is supposed to be sent to R and create some output. Because of
+that, everything should have a structure and follow the conventional
+coding rules.
+
+If you want to actually include some lines of text, whether that's for
+you or for another reader, you can include comments by placing a \#
+before whatever you want to be a comment. So the building blocks of data
+types we'll be working with are numeric, character, integer, logical,
+and factor variables. It's important to be aware of what kind of data
+type you're working with at any one point, especially if you want your
+variables to interact somehow with other variables, in which case they
+often need to be of compatible types, or you'll run into errors. So
+we'll start working in our script file here and assign some variables.
+This is how we'll create objects in the environment that we can actually
+use. That's using the chevron (\textgreater) character in the script
+file, as seen here.
+
+\hypertarget{vectors-45-min}{%
+\subsubsection{Vectors (45 Min)}\label{vectors-45-min}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Vectors are a basic data structure in RStudio, and are just structures with data of the same type. In order to create a vector you just need to assign a variable with:}
+\NormalTok{a }\OtherTok{\textless{}{-}} \DecValTok{0}
+\NormalTok{a }\OtherTok{=} \DecValTok{0} \CommentTok{\#But we don\textquotesingle{}t really use the = sign, because it has multiple contextual uses}
+\NormalTok{a }\OtherTok{\textless{}{-}} \StringTok{"Character"} \CommentTok{\#We can also assign it to be any of the data types we had previously determined}
+\NormalTok{a }\OtherTok{\textless{}{-}} \DecValTok{8} \SpecialCharTok{\textgreater{}} \DecValTok{9} \CommentTok{\#Boolean/Logical Operator}
+\FunctionTok{class}\NormalTok{(a) }\CommentTok{\#At any point you can determine the class of your variable by typing in "class(a)"}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "logical"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{a }\OtherTok{\textless{}{-}} \FunctionTok{as.integer}\NormalTok{(}\DecValTok{0}\NormalTok{) }\CommentTok{\#Numeric data types mean that there are trailing zeros (0.000). If you require just integers, or any other data types, you can coerce it by using the command as.integer(x). Or, you can just add L to your integer value}
+\FunctionTok{class}\NormalTok{(a)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "integer"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Of course, this is just looking at vectors with single elements. If you want to create a vector with multiple elements we can use the c() function to do this. c() stands for concatenate, but you can also think of it as combine, as it\textquotesingle{}s doing something similar to that.}
+\NormalTok{b }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{4}\NormalTok{, }\DecValTok{5}\NormalTok{, }\DecValTok{6}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{22}\NormalTok{)}
+\CommentTok{\#You can also concatenate strings themselves using the paste() function}
+\NormalTok{a }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{4}\NormalTok{, }\DecValTok{4}\NormalTok{, }\DecValTok{6}\NormalTok{, }\DecValTok{1}\NormalTok{)}
+\FunctionTok{paste}\NormalTok{(a, }\StringTok{"then"}\NormalTok{, b)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "2 then 1"  "3 then 4"  "4 then 5"  "4 then 6"  "6 then 1"  "1 then 22"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#you\textquotesingle{}ll want an easier way to create a vector than just manually writing them up, so you can either use 1:N, or seq() functions.}
+\NormalTok{x }\OtherTok{\textless{}{-}} \DecValTok{1}\SpecialCharTok{:}\DecValTok{30}
+\NormalTok{b }\OtherTok{\textless{}{-}} \FunctionTok{seq}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{20}\NormalTok{)}
+\NormalTok{b }\OtherTok{\textless{}{-}} \FunctionTok{seq}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{20}\NormalTok{, }\AttributeTok{by =} \DecValTok{2}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{data-structures-45-min}{%
+\subsubsection{Data Structures (45 min)}\label{data-structures-45-min}}
+
+Alright, so now let's talk about data structures. These are ways in
+which those earlier data types that were in vectors can be oriented into
+multi-dimensional data structures. These will take the form of matrices,
+dataframes, and lists. Let's start with a matrix. So a vector is a
+single line of data that is of the exact same type. You can think of it
+as a 1 dimensional array. A matrix is a two-dimensional array as it
+holds rows and columns. We can make a matrix using the matrix()
+function.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{matrix}\NormalTok{(}\AttributeTok{ncol =} \DecValTok{4}\NormalTok{, }\AttributeTok{nrow =} \DecValTok{4}\NormalTok{) }\CommentTok{\#So we\textquotesingle{}ve created a matrix with 4 rows and 4 columns, but of course we haven\textquotesingle{}t given it any other information, so of course everything inside is empty, defaulting to NA\textquotesingle{}s. If we want to give it information, then we need to specify it, like so.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2] [,3] [,4]
+## [1,]   NA   NA   NA   NA
+## [2,]   NA   NA   NA   NA
+## [3,]   NA   NA   NA   NA
+## [4,]   NA   NA   NA   NA
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{matrix}\NormalTok{(}\AttributeTok{ncol =} \DecValTok{4}\NormalTok{,}
+       \AttributeTok{nrow =} \DecValTok{4}\NormalTok{,}
+       \AttributeTok{data =} \DecValTok{1}\SpecialCharTok{:}\DecValTok{16}\NormalTok{) }\CommentTok{\#By default, the data goes by the columns and not rows. You can switch that by using the byrow=TRUE argument.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2] [,3] [,4]
+## [1,]    1    5    9   13
+## [2,]    2    6   10   14
+## [3,]    3    7   11   15
+## [4,]    4    8   12   16
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{matrix}\NormalTok{(}\AttributeTok{ncol =} \DecValTok{4}\NormalTok{,}
+       \AttributeTok{nrow =} \DecValTok{4}\NormalTok{,}
+       \DecValTok{1}\SpecialCharTok{:}\DecValTok{16}\NormalTok{,}
+       \AttributeTok{byrow =} \ConstantTok{TRUE}\NormalTok{) }\CommentTok{\#You can also create a matrix by binding vectors. The commands for this are cbind() and rbind()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2] [,3] [,4]
+## [1,]    1    2    3    4
+## [2,]    5    6    7    8
+## [3,]    9   10   11   12
+## [4,]   13   14   15   16
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{a }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{)}
+\NormalTok{b }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{)}
+\NormalTok{m }\OtherTok{\textless{}{-}}
+  \FunctionTok{cbind}\NormalTok{(a, b) }\CommentTok{\#Warning, the number of rows is not a multiple of the vector. If you want it to match perfectly you can fill out the entire vector b, or you can just extend the a vector to match the number in b.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in cbind(a, b): number of rows of result is not a multiple of vector
+## length (arg 2)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      a b
+## [1,] 1 1
+## [2,] 2 2
+## [3,] 3 1
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#To rename matrix column names you should use colnames()}
+
+\CommentTok{\#LIST}
+\CommentTok{\#A list is a container for data, often used because of its flexibility. Elements within a list can be any type of data, so it can be a vector, dataframe, etc.}
+
+\NormalTok{x }\OtherTok{\textless{}{-}} \FunctionTok{list}\NormalTok{(}\StringTok{"here\textquotesingle{}s a list item"}\NormalTok{, }\FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{4}\NormalTok{, }\DecValTok{5}\NormalTok{))}
+\NormalTok{x}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [[1]]
+## [1] "here's a list item"
+## 
+## [[2]]
+## [1] 1 2 3 4 5
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Data.Frames}
+\CommentTok{\#Data frames are similar to how we think of spreadsheets{-}with rows and columns, and column variables able to have different data types. We can see an easy example of a data.frame by using the "read.csv" function on any particular excel spreadsheet we might have.}
+
+\FunctionTok{data}\NormalTok{(}\StringTok{"iris"}\NormalTok{)}
+\NormalTok{x }\OtherTok{\textless{}{-}}\NormalTok{ iris}
+\NormalTok{x }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\StringTok{"Test\_data.csv"}\NormalTok{)}
+\FunctionTok{class}\NormalTok{(x)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "data.frame"
+\end{verbatim}
+
+\hypertarget{indexing45-min}{%
+\subsubsection{Indexing(45 Min)}\label{indexing45-min}}
+
+So now that we've gone over the most common data structures, we can talk
+about how exactly we interact with these things. Often we won't actually
+work with the full dataset,and we'll instead often work with subsets of
+the data in R. There're many different ways to actually subset data, so
+we'll go through some of them now.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Let\textquotesingle{}s first start with a vector to work with.}
+\NormalTok{x }\OtherTok{\textless{}{-}} \DecValTok{5}\SpecialCharTok{:}\DecValTok{20}
+\CommentTok{\#[] is a function that means "retrieve the nth element from this vector. This can be referred to as "slicing"}
+\NormalTok{x[}\DecValTok{4}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 8
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{x[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{4}\NormalTok{]}\CommentTok{\#You can ask for a sequence}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 5 6 7 8
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{x[}\FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{1}\NormalTok{)] }\CommentTok{\#or the same thing multiple times. Remember, when indexing, the first element of a vector has an index of 1.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 5 6 5
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#We can remove elements by using the {-} sign}
+\NormalTok{x[}\SpecialCharTok{{-}}\DecValTok{2}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1]  5  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{x[}\FunctionTok{c}\NormalTok{(}\SpecialCharTok{{-}}\DecValTok{1}\NormalTok{, }\SpecialCharTok{{-}}\DecValTok{5}\NormalTok{)]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1]  6  7  8 10 11 12 13 14 15 16 17 18 19 20
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{x[}\SpecialCharTok{{-}}\FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{5}\NormalTok{)]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1]  6  7  8 10 11 12 13 14 15 16 17 18 19 20
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#We can subset by name}
+\NormalTok{x }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\AttributeTok{a =} \DecValTok{1}\NormalTok{, }\AttributeTok{b =} \DecValTok{2}\NormalTok{, }\AttributeTok{c =} \DecValTok{3}\NormalTok{)}
+\NormalTok{x[}\FunctionTok{c}\NormalTok{(}\StringTok{"a"}\NormalTok{, }\StringTok{"b"}\NormalTok{)]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## a b 
+## 1 2
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Or by logical operators to turn elements "on" or "off"}
+\NormalTok{x[}\FunctionTok{c}\NormalTok{(}\ConstantTok{TRUE}\NormalTok{, }\ConstantTok{FALSE}\NormalTok{, }\ConstantTok{FALSE}\NormalTok{)]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## a 
+## 1
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#More conditionals}
+\CommentTok{\# \& represents the "and" operator}
+\CommentTok{\# | represents the "or" operator}
+\CommentTok{\# ! represents the "not" operator}
+
+\DecValTok{1}\SpecialCharTok{:}\DecValTok{10} \SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{3}\NormalTok{, }\DecValTok{5}\NormalTok{, }\DecValTok{9}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1]  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE FALSE  TRUE FALSE
+\end{verbatim}
+
+\hypertarget{subsetting-matrices}{%
+\subsubsection{Subsetting Matrices}\label{subsetting-matrices}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# The [] function also applies to matrices. You must specify both the rows and columns, in that order. }
+\NormalTok{vec }\OtherTok{\textless{}{-}} \DecValTok{1}\SpecialCharTok{:}\DecValTok{12}
+\NormalTok{m }\OtherTok{\textless{}{-}} \FunctionTok{matrix}\NormalTok{(}\AttributeTok{data =}\NormalTok{ vec, }\AttributeTok{nrow =} \DecValTok{4}\NormalTok{)}
+\NormalTok{m}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2] [,3]
+## [1,]    1    5    9
+## [2,]    2    6   10
+## [3,]    3    7   11
+## [4,]    4    8   12
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m[}\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 10
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Getting multiple values}
+\NormalTok{m[}\DecValTok{2}\SpecialCharTok{:}\DecValTok{3}\NormalTok{, }\DecValTok{2}\SpecialCharTok{:}\DecValTok{3}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2]
+## [1,]    6   10
+## [2,]    7   11
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m[}\DecValTok{2}\NormalTok{, ] }\CommentTok{\#Leaving it blank means you want the entire row or entire column}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1]  2  6 10
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m[, }\DecValTok{2}\NormalTok{, drop }\OtherTok{=} \ConstantTok{FALSE}\NormalTok{]  }\CommentTok{\#don\textquotesingle{}t include drop=FALSE if you want it to be a vector}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1]
+## [1,]    5
+## [2,]    6
+## [3,]    7
+## [4,]    8
+\end{verbatim}
+
+\hypertarget{subsetting-dataframes}{%
+\subsubsection{Subsetting Dataframes}\label{subsetting-dataframes}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{varX }\OtherTok{\textless{}{-}} \DecValTok{1}\SpecialCharTok{:}\DecValTok{12}
+\NormalTok{varY }\OtherTok{\textless{}{-}} \FunctionTok{rep}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\StringTok{"Low"}\NormalTok{, }\StringTok{"Med"}\NormalTok{, }\StringTok{"High"}\NormalTok{), }\AttributeTok{each =} \DecValTok{4}\NormalTok{)}
+\NormalTok{varZ }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(}\DecValTok{12}\NormalTok{)}
+\NormalTok{df }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(varX, varY, varZ, }\AttributeTok{stringsAsFactors =} \ConstantTok{FALSE}\NormalTok{)}
+\FunctionTok{str}\NormalTok{(df)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 'data.frame':    12 obs. of  3 variables:
+##  $ varX: int  1 2 3 4 5 6 7 8 9 10 ...
+##  $ varY: chr  "Low" "Low" "Low" "Low" ...
+##  $ varZ: num  0.36 0.174 0.759 0.16 0.124 ...
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Let\textquotesingle{}s say we have another df that we\textquotesingle{}re concerned with and want to append a row}
+\NormalTok{rand }\OtherTok{\textless{}{-}} \FunctionTok{list}\NormalTok{(}\AttributeTok{varX =} \DecValTok{22}\NormalTok{, }\AttributeTok{varY =} \StringTok{"Low"}\NormalTok{, }\AttributeTok{varZ =} \FloatTok{0.223}\NormalTok{)}
+\FunctionTok{print}\NormalTok{(rand)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## $varX
+## [1] 22
+## 
+## $varY
+## [1] "Low"
+## 
+## $varZ
+## [1] 0.223
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newframe }\OtherTok{\textless{}{-}} \FunctionTok{rbind}\NormalTok{(df, rand)}
+
+\CommentTok{\#Now we can also add a new column}
+\NormalTok{varA }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(}\DecValTok{13}\NormalTok{) }\CommentTok{\#Make sure that you have enough elements}
+\NormalTok{newframe }\OtherTok{\textless{}{-}} \FunctionTok{cbind}\NormalTok{(newframe, varA) }\CommentTok{\#rbind for "row", cbind for "column"}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{subsetting-lists}{%
+\subsubsection{Subsetting Lists}\label{subsetting-lists}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist }\OtherTok{\textless{}{-}}
+  \FunctionTok{list}\NormalTok{(}\DecValTok{1}\SpecialCharTok{:}\DecValTok{10}\NormalTok{, }\FunctionTok{matrix}\NormalTok{(}\AttributeTok{nrow =} \DecValTok{4}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\DecValTok{8}\NormalTok{, }\AttributeTok{byrow =} \ConstantTok{TRUE}\NormalTok{), letters[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{3}\NormalTok{], pi)}
+\FunctionTok{print}\NormalTok{(newlist)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [[1]]
+##  [1]  1  2  3  4  5  6  7  8  9 10
+## 
+## [[2]]
+##      [,1] [,2]
+## [1,]    1    2
+## [2,]    3    4
+## [3,]    5    6
+## [4,]    7    8
+## 
+## [[3]]
+## [1] "a" "b" "c"
+## 
+## [[4]]
+## [1] 3.141593
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist[}\DecValTok{2}\NormalTok{]}\CommentTok{\#Single brackets subsets refer only to the element, of type list.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [[1]]
+##      [,1] [,2]
+## [1,]    1    2
+## [2,]    3    4
+## [3,]    5    6
+## [4,]    7    8
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist[}\FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{)]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [[1]]
+##  [1]  1  2  3  4  5  6  7  8  9 10
+## 
+## [[2]]
+##      [,1] [,2]
+## [1,]    1    2
+## [2,]    3    4
+## [3,]    5    6
+## [4,]    7    8
+## 
+## [[3]]
+## [1] "a" "b" "c"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist[[}\DecValTok{2}\NormalTok{]] }\SpecialCharTok{{-}} \DecValTok{3}\CommentTok{\#Double brackets will actually be the contents within it, and we can apply things to it. Once you have called the double brackets, you can then access individual elements within that.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2]
+## [1,]   -2   -1
+## [2,]    0    1
+## [3,]    2    3
+## [4,]    4    5
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist[[}\DecValTok{2}\NormalTok{]][}\DecValTok{3}\NormalTok{, }\DecValTok{2}\NormalTok{] }\CommentTok{\#Right now, we\textquotesingle{}re referring to these based on positions within this list. But, it\textquotesingle{}ll be a lot easier for us if we can just name these and refer to them that way.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 6
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist }\OtherTok{\textless{}{-}}
+  \FunctionTok{list}\NormalTok{(}
+    \AttributeTok{val =} \DecValTok{1}\SpecialCharTok{:}\DecValTok{10}\NormalTok{,}
+    \AttributeTok{mat =} \FunctionTok{matrix}\NormalTok{(}\AttributeTok{nrow =} \DecValTok{4}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\DecValTok{8}\NormalTok{, }\AttributeTok{byrow =} \ConstantTok{TRUE}\NormalTok{),}
+    \AttributeTok{alph =}\NormalTok{ letters[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{3}\NormalTok{],}
+    \AttributeTok{pi =}\NormalTok{ pi}
+\NormalTok{  )}
+\NormalTok{newlist}\SpecialCharTok{$}\NormalTok{mat[}\DecValTok{3}\NormalTok{, }\DecValTok{2}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 6
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist}\SpecialCharTok{$}\NormalTok{mat}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      [,1] [,2]
+## [1,]    1    2
+## [2,]    3    4
+## [3,]    5    6
+## [4,]    7    8
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist}\SpecialCharTok{$}\NormalTok{mat[}\DecValTok{2}\NormalTok{, ]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3 4
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{newlist}\SpecialCharTok{$}\NormalTok{mat[}\DecValTok{2}\NormalTok{] }\CommentTok{\#Gives us 3(byrow=TRUE, which is why 2 as it\textquotesingle{}s counted normally is actually 3 in this case)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#If you were to want to unlist these things, unlist() does the trick}
+\NormalTok{unlisted }\OtherTok{\textless{}{-}} \FunctionTok{unlist}\NormalTok{(newlist)}
+\NormalTok{unlisted}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##               val1               val2               val3               val4 
+##                "1"                "2"                "3"                "4" 
+##               val5               val6               val7               val8 
+##                "5"                "6"                "7"                "8" 
+##               val9              val10               mat1               mat2 
+##                "9"               "10"                "1"                "3" 
+##               mat3               mat4               mat5               mat6 
+##                "5"                "7"                "2"                "4" 
+##               mat7               mat8              alph1              alph2 
+##                "6"                "8"                "a"                "b" 
+##              alph3                 pi 
+##                "c" "3.14159265358979"
+\end{verbatim}
+
+\hypertarget{cleaning-data}{%
+\subsubsection{Cleaning Data}\label{cleaning-data}}
+
+So now let's talk about how to clean data. You've got your dataset, you
+know how to do some basic manipulation, interact with it, take some
+elements out, things like that. Well, let's say you were looking through
+your dataset and noticed that some of your observations were
+missing-rather, there was missing data. You choose not to leave it in
+there, but how do you take it out? Well, thankfully R has a few options
+to make this a little easier. First, we can use the complete.cases()
+function so R can look over our dataset for us. So complete.cases is
+going to return a logical vector, so true/false, based on whether the
+cases are complete and have no missing values.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{DF }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(}\AttributeTok{x =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{, }\DecValTok{2}\NormalTok{, }\DecValTok{3}\NormalTok{), }\AttributeTok{y =} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{10}\NormalTok{, }\ConstantTok{NA}\NormalTok{))}
+\NormalTok{complete }\OtherTok{\textless{}{-}} \FunctionTok{complete.cases}\NormalTok{(DF}\SpecialCharTok{$}\NormalTok{y)}
+\NormalTok{clean }\OtherTok{\textless{}{-}}\NormalTok{ DF[}\FunctionTok{complete.cases}\NormalTok{(DF}\SpecialCharTok{$}\NormalTok{y), ]}
+\FunctionTok{which}\NormalTok{(}\SpecialCharTok{!}\FunctionTok{complete.cases}\NormalTok{(DF}\SpecialCharTok{$}\NormalTok{y))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#If your spreadsheet had different codes for NA\textquotesingle{}s, such as NaN, or 9999, etc, then you can recode them to be NA\textquotesingle{}s.}
+\NormalTok{DF}\SpecialCharTok{$}\NormalTok{x[DF}\SpecialCharTok{$}\NormalTok{y }\SpecialCharTok{==} \DecValTok{10}\NormalTok{] }\OtherTok{\textless{}{-}} \ConstantTok{NA}
+\CommentTok{\#You can also use the na.omit function to clean out the NA\textquotesingle{}s.}
+\FunctionTok{na.omit}\NormalTok{(DF)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   x y
+## 1 1 0
+\end{verbatim}
+
+\hypertarget{control-structures--if-for-and-while-loops-45}{%
+\subsubsection{Control Structures- if, For and While Loops
+(45)}\label{control-structures--if-for-and-while-loops-45}}
+
+So, often times we don't want to manually type out code and complete
+basic tasks repeatedly-that's the whole purpose of using a machine,
+right? So to make RStudio a little bit more practical, we have some
+really handy functions that can streamline processes for us. So I'm
+pretty sure most of you should be familiar with ifelse statements,
+correct? If you aren't, then it's one of the most basic ways of giving
+commands to a computer-given a certain condition, if it is true, then a
+command/function must be completed, else something else happens, usually
+the code stopping. if statements can also be standalone, with the
+structure of if(condition)\{action\}. Otherwise, the full statement is
+if(condition)\{action\}else\{some other action\}. So let's give that a
+try with a basic example
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Logical operators}
+\DecValTok{5} \SpecialCharTok{\textgreater{}} \DecValTok{3}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{\textless{}} \DecValTok{3}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] FALSE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{\textgreater{}=} \DecValTok{5}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{\textless{}=} \DecValTok{5}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{==} \DecValTok{3}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] FALSE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{!=} \DecValTok{3}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# use \& for AND}
+\ConstantTok{FALSE} \SpecialCharTok{\&} \ConstantTok{FALSE}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] FALSE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\ConstantTok{FALSE} \SpecialCharTok{\&} \ConstantTok{TRUE}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] FALSE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\ConstantTok{TRUE} \SpecialCharTok{\&} \ConstantTok{TRUE}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{5} \SpecialCharTok{\textgreater{}} \DecValTok{3} \SpecialCharTok{\&} \DecValTok{1} \SpecialCharTok{!=} \DecValTok{2}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\DecValTok{1} \SpecialCharTok{==} \DecValTok{2} \SpecialCharTok{\&} \DecValTok{1} \SpecialCharTok{!=} \DecValTok{2}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] FALSE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{lions }\OtherTok{\textless{}{-}} \DecValTok{20}
+\NormalTok{tigers }\OtherTok{\textless{}{-}} \DecValTok{15}
+
+\ControlFlowTok{if}\NormalTok{ (lions }\SpecialCharTok{\textgreater{}}\NormalTok{ tigers) \{}
+  \FunctionTok{print}\NormalTok{(}\StringTok{"Lions win!"}\NormalTok{)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "Lions win!"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{lions }\OtherTok{\textless{}{-}} \FunctionTok{sample}\NormalTok{(}\DecValTok{1}\SpecialCharTok{:}\DecValTok{100}\NormalTok{, }\DecValTok{1}\NormalTok{)}
+\NormalTok{tigers }\OtherTok{\textless{}{-}} \FunctionTok{sample}\NormalTok{(}\DecValTok{1}\SpecialCharTok{:}\DecValTok{100}\NormalTok{, }\DecValTok{1}\NormalTok{)}
+\ControlFlowTok{if}\NormalTok{ (lions }\SpecialCharTok{\textgreater{}}\NormalTok{ tigers) \{}
+  \FunctionTok{print}\NormalTok{(}\StringTok{"Lions win!"}\NormalTok{)}
+\NormalTok{\} }\ControlFlowTok{else}\NormalTok{\{}
+  \FunctionTok{print}\NormalTok{(}\StringTok{"Tigers win!"}\NormalTok{)}
+\NormalTok{\} }\CommentTok{\#You can also chain together multiple ifelse statements depending on what you\textquotesingle{}re working with. The ifelse statement can also be built{-}in using ifelse(), which has a similar function but in one single line.}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "Tigers win!"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Iteration}
+\CommentTok{\#for() loops are your friends}
+\CommentTok{\#The structure is for(x in y)\{action\}}
+\ControlFlowTok{for}\NormalTok{ (i }\ControlFlowTok{in} \DecValTok{1}\SpecialCharTok{:}\DecValTok{10}\NormalTok{) \{}
+  \FunctionTok{print}\NormalTok{(i)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 1
+## [1] 2
+## [1] 3
+## [1] 4
+## [1] 5
+## [1] 6
+## [1] 7
+## [1] 8
+## [1] 9
+## [1] 10
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Nested for loops}
+\ControlFlowTok{for}\NormalTok{ (i }\ControlFlowTok{in} \DecValTok{1}\SpecialCharTok{:}\DecValTok{10}\NormalTok{) \{}
+  \ControlFlowTok{for}\NormalTok{ (j }\ControlFlowTok{in}\NormalTok{ letters[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{5}\NormalTok{]) \{}
+    \FunctionTok{print}\NormalTok{(}\FunctionTok{paste}\NormalTok{(i, j))}
+\NormalTok{  \}}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "1 a"
+## [1] "1 b"
+## [1] "1 c"
+## [1] "1 d"
+## [1] "1 e"
+## [1] "2 a"
+## [1] "2 b"
+## [1] "2 c"
+## [1] "2 d"
+## [1] "2 e"
+## [1] "3 a"
+## [1] "3 b"
+## [1] "3 c"
+## [1] "3 d"
+## [1] "3 e"
+## [1] "4 a"
+## [1] "4 b"
+## [1] "4 c"
+## [1] "4 d"
+## [1] "4 e"
+## [1] "5 a"
+## [1] "5 b"
+## [1] "5 c"
+## [1] "5 d"
+## [1] "5 e"
+## [1] "6 a"
+## [1] "6 b"
+## [1] "6 c"
+## [1] "6 d"
+## [1] "6 e"
+## [1] "7 a"
+## [1] "7 b"
+## [1] "7 c"
+## [1] "7 d"
+## [1] "7 e"
+## [1] "8 a"
+## [1] "8 b"
+## [1] "8 c"
+## [1] "8 d"
+## [1] "8 e"
+## [1] "9 a"
+## [1] "9 b"
+## [1] "9 c"
+## [1] "9 d"
+## [1] "9 e"
+## [1] "10 a"
+## [1] "10 b"
+## [1] "10 c"
+## [1] "10 d"
+## [1] "10 e"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#While() loops}
+\CommentTok{\#While(conditional)\{action\}}
+\CommentTok{\#While loops aren\textquotesingle{}t the most useful, simply because you have to give it a conditional that will actually end{-}otherwise it\textquotesingle{}ll just be stuck in an infinite loop and you\textquotesingle{}ll have to stop the program yourself.}
+\NormalTok{z }\OtherTok{\textless{}{-}} \DecValTok{1}
+\ControlFlowTok{while}\NormalTok{ (z }\SpecialCharTok{\textgreater{}} \FloatTok{0.1}\NormalTok{) \{}
+\NormalTok{  z }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(}\DecValTok{1}\NormalTok{)}
+  \FunctionTok{cat}\NormalTok{(z, }\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 0.4864744 
+## 0.9633586 
+## 0.06970213
+\end{verbatim}
+
+\hypertarget{functions-45-min}{%
+\subsubsection{Functions (45 Min)}\label{functions-45-min}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{airTemp }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{32}\NormalTok{, }\DecValTok{34}\NormalTok{, }\DecValTok{35}\NormalTok{, }\DecValTok{37}\NormalTok{, }\DecValTok{39}\NormalTok{, }\DecValTok{40}\NormalTok{, }\DecValTok{32}\NormalTok{, }\DecValTok{36}\NormalTok{, }\DecValTok{41}\NormalTok{)}
+\NormalTok{eabAbundance }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{100}\NormalTok{, }\DecValTok{104}\NormalTok{, }\DecValTok{98}\NormalTok{, }\DecValTok{132}\NormalTok{, }\DecValTok{138}\NormalTok{, }\DecValTok{150}\NormalTok{, }\DecValTok{103}\NormalTok{, }\DecValTok{92}\NormalTok{, }\DecValTok{170}\NormalTok{)}
+\NormalTok{df }\OtherTok{\textless{}{-}} \FunctionTok{as.data.frame}\NormalTok{(}\FunctionTok{cbind}\NormalTok{(airTemp, eabAbundance))}
+
+\NormalTok{grab\_stats }\OtherTok{\textless{}{-}} \ControlFlowTok{function}\NormalTok{(df) \{}
+\NormalTok{  model }\OtherTok{\textless{}{-}} \FunctionTok{lm}\NormalTok{(df}\SpecialCharTok{$}\NormalTok{airTemp }\SpecialCharTok{\textasciitilde{}}\NormalTok{ df}\SpecialCharTok{$}\NormalTok{eabAbundance)}
+  \FunctionTok{summary}\NormalTok{(model)}
+\NormalTok{  u }\OtherTok{\textless{}{-}} \FunctionTok{unlist}\NormalTok{(}\FunctionTok{summary}\NormalTok{(model))}
+\NormalTok{  slope }\OtherTok{\textless{}{-}}\NormalTok{ u}\SpecialCharTok{$}\NormalTok{coefficients2}
+\NormalTok{  pval }\OtherTok{\textless{}{-}}\NormalTok{ u}\SpecialCharTok{$}\NormalTok{coefficients8}
+  \FunctionTok{print}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"slope="}\NormalTok{, slope))}
+  \FunctionTok{print}\NormalTok{(}\FunctionTok{paste}\NormalTok{(}\StringTok{"p{-}value="}\NormalTok{, pval))}
+\NormalTok{\}}
+
+\FunctionTok{grab\_stats}\NormalTok{(df)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "slope= 0.104754937820044"
+## [1] "p-value= 0.0021396056185668"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#It\textquotesingle{}s also a good idea to have these functions as a list running in a separate script file. That way, you can source the files whenever you\textquotesingle{}d like. You can use the command source(file path) to do this. }
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{plotting-fundamentals-45-min}{%
+\subsubsection{Plotting Fundamentals (45
+min)}\label{plotting-fundamentals-45-min}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{data}\NormalTok{(mtcars)}
+\CommentTok{\#scatter plot}
+\FunctionTok{plot}\NormalTok{(mtcars}\SpecialCharTok{$}\NormalTok{wt, mtcars}\SpecialCharTok{$}\NormalTok{mpg) }\CommentTok{\#basic plotting function}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{qplot}\NormalTok{(mtcars}\SpecialCharTok{$}\NormalTok{wt, mtcars}\SpecialCharTok{$}\NormalTok{mpg) }\CommentTok{\#qplot, or "quick" plot is a convenient way of throwing up a plot, but still doesn\textquotesingle{}t have all of the necessary information we might be looking for.}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-2.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot}\NormalTok{(}
+\NormalTok{  mtcars}\SpecialCharTok{$}\NormalTok{wt,}
+\NormalTok{  mtcars}\SpecialCharTok{$}\NormalTok{mpg,}
+  \AttributeTok{main =} \StringTok{"Relationship b/t Weight and MPG"}\NormalTok{,}
+  \AttributeTok{xlab =} \StringTok{"Weight"}\NormalTok{,}
+  \AttributeTok{ylab =} \StringTok{"MPG"}\NormalTok{,}
+  \AttributeTok{pch =} \DecValTok{16}
+\NormalTok{) }\SpecialCharTok{+} \FunctionTok{abline}\NormalTok{(}\FunctionTok{lm}\NormalTok{(mtcars}\SpecialCharTok{$}\NormalTok{mpg }\SpecialCharTok{\textasciitilde{}}\NormalTok{ mtcars}\SpecialCharTok{$}\NormalTok{wt)) }\CommentTok{\#pch=point type, abline includes a line, we used lm(y\textasciitilde{}x) to tell it how to actually draw the line}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-3.pdf}
+
+\begin{verbatim}
+## integer(0)
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#bar graph}
+\NormalTok{cars }\OtherTok{\textless{}{-}}\NormalTok{ mtcars[}\DecValTok{1}\SpecialCharTok{:}\DecValTok{6}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\DecValTok{5}\NormalTok{]}
+\FunctionTok{barplot}\NormalTok{(cars}\SpecialCharTok{$}\NormalTok{mpg,}
+        \AttributeTok{main =} \StringTok{"Cars"}\NormalTok{,}
+        \AttributeTok{xlab =} \StringTok{"Car Models"}\NormalTok{,}
+        \AttributeTok{ylab =} \StringTok{"mpg"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-4.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#histogram}
+\NormalTok{x }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(}\DecValTok{400}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{200}\NormalTok{)}
+\FunctionTok{hist}\NormalTok{(x) }\CommentTok{\#plotting the frequency}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-5.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{hist}\NormalTok{(x, }\AttributeTok{freq =} \ConstantTok{FALSE}\NormalTok{) }\CommentTok{\#plot the proportion. Also, there are similar levels of customization available to you as with the scatter plot and bar plot.}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-6.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{hist}\NormalTok{(x, }\AttributeTok{col =} \StringTok{"red"}\NormalTok{ , }\AttributeTok{xlab =} \StringTok{"Data Range"}\NormalTok{, }\AttributeTok{ylab =} \StringTok{"Frequency"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-7.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#box plot}
+\FunctionTok{boxplot}\NormalTok{(}
+\NormalTok{  mtcars}\SpecialCharTok{$}\NormalTok{mpg,}
+  \AttributeTok{col =} \StringTok{"lightblue"}\NormalTok{,}
+  \AttributeTok{ylab =} \StringTok{"mpg"}\NormalTok{,}
+  \AttributeTok{xlab =} \StringTok{"all vehicles"}\NormalTok{,}
+  \AttributeTok{main =} \StringTok{"Box Plot"}
+\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-8.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#qplot}
+\FunctionTok{qplot}\NormalTok{(mpg, wt, }\AttributeTok{data =}\NormalTok{ mtcars)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-9.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{qplot}\NormalTok{(mpg, wt, }\AttributeTok{data =}\NormalTok{ mtcars, }\AttributeTok{colour =}\NormalTok{ cyl)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-10.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{qplot}\NormalTok{(mpg, wt, }\AttributeTok{data =}\NormalTok{ mtcars, }\AttributeTok{size =}\NormalTok{ cyl)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-11.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{qplot}\NormalTok{(mpg, wt, }\AttributeTok{data =}\NormalTok{ mtcars, }\AttributeTok{facets =}\NormalTok{ vs }\SpecialCharTok{\textasciitilde{}}\NormalTok{ am)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-10-12.pdf}
+
+\hypertarget{fitting-models-45-min}{%
+\subsubsection{Fitting Models (45 min)}\label{fitting-models-45-min}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Regression Analysis}
+\NormalTok{n }\OtherTok{=} \DecValTok{50}  \CommentTok{\# number of observations (rows)}
+\NormalTok{varA }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(n) }\CommentTok{\# random uniform values (independent)}
+\NormalTok{varB }\OtherTok{\textless{}{-}} \FunctionTok{runif}\NormalTok{(n) }\CommentTok{\# a second random column (dependent)}
+\NormalTok{varC }\OtherTok{\textless{}{-}} \FloatTok{5.5} \SpecialCharTok{+}\NormalTok{ varA }\SpecialCharTok{*} \DecValTok{10} \CommentTok{\# a noisy linear relationship with varA}
+\NormalTok{ID }\OtherTok{\textless{}{-}} \FunctionTok{seq\_len}\NormalTok{(n) }\CommentTok{\# creates a sequence from 1:n (if n \textgreater{} 0!)}
+\NormalTok{regData }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(ID, varA, varB, varC)}
+\FunctionTok{head}\NormalTok{(regData)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   ID      varA      varB      varC
+## 1  1 0.8224381 0.1658055 13.724381
+## 2  2 0.7667031 0.1295725 13.167031
+## 3  3 0.8321032 0.2091744 13.821032
+## 4  4 0.7501671 0.5118268 13.001671
+## 5  5 0.7181849 0.6391799 12.681849
+## 6  6 0.1475181 0.4131409  6.975181
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{str}\NormalTok{(regData)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 'data.frame':    50 obs. of  4 variables:
+##  $ ID  : int  1 2 3 4 5 6 7 8 9 10 ...
+##  $ varA: num  0.822 0.767 0.832 0.75 0.718 ...
+##  $ varB: num  0.166 0.13 0.209 0.512 0.639 ...
+##  $ varC: num  13.7 13.2 13.8 13 12.7 ...
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# model}
+\NormalTok{regModel }\OtherTok{\textless{}{-}} \FunctionTok{lm}\NormalTok{(varB }\SpecialCharTok{\textasciitilde{}}\NormalTok{ varA, }\AttributeTok{data =}\NormalTok{ regData)}
+
+\CommentTok{\# model output}
+\NormalTok{regModel }\CommentTok{\# printed output is sparse}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Call:
+## lm(formula = varB ~ varA, data = regData)
+## 
+## Coefficients:
+## (Intercept)         varA  
+##      0.6282      -0.3437
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{str}\NormalTok{(regModel) }\CommentTok{\# complicated, but has "coefficients"}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## List of 12
+##  $ coefficients : Named num [1:2] 0.628 -0.344
+##   ..- attr(*, "names")= chr [1:2] "(Intercept)" "varA"
+##  $ residuals    : Named num [1:50] -0.18 -0.235 -0.133 0.141 0.258 ...
+##   ..- attr(*, "names")= chr [1:50] "1" "2" "3" "4" ...
+##  $ effects      : Named num [1:50] -3.2069 0.7427 -0.0853 0.1819 0.2954 ...
+##   ..- attr(*, "names")= chr [1:50] "(Intercept)" "varA" "" "" ...
+##  $ rank         : int 2
+##  $ fitted.values: Named num [1:50] 0.346 0.365 0.342 0.37 0.381 ...
+##   ..- attr(*, "names")= chr [1:50] "1" "2" "3" "4" ...
+##  $ assign       : int [1:2] 0 1
+##  $ qr           :List of 5
+##   ..$ qr   : num [1:50, 1:2] -7.071 0.141 0.141 0.141 0.141 ...
+##   .. ..- attr(*, "dimnames")=List of 2
+##   .. .. ..$ : chr [1:50] "1" "2" "3" "4" ...
+##   .. .. ..$ : chr [1:2] "(Intercept)" "varA"
+##   .. ..- attr(*, "assign")= int [1:2] 0 1
+##   ..$ qraux: num [1:2] 1.14 1.1
+##   ..$ pivot: int [1:2] 1 2
+##   ..$ tol  : num 1e-07
+##   ..$ rank : int 2
+##   ..- attr(*, "class")= chr "qr"
+##  $ df.residual  : int 48
+##  $ xlevels      : Named list()
+##  $ call         : language lm(formula = varB ~ varA, data = regData)
+##  $ terms        :Classes 'terms', 'formula'  language varB ~ varA
+##   .. ..- attr(*, "variables")= language list(varB, varA)
+##   .. ..- attr(*, "factors")= int [1:2, 1] 0 1
+##   .. .. ..- attr(*, "dimnames")=List of 2
+##   .. .. .. ..$ : chr [1:2] "varB" "varA"
+##   .. .. .. ..$ : chr "varA"
+##   .. ..- attr(*, "term.labels")= chr "varA"
+##   .. ..- attr(*, "order")= int 1
+##   .. ..- attr(*, "intercept")= int 1
+##   .. ..- attr(*, "response")= int 1
+##   .. ..- attr(*, ".Environment")=<environment: R_GlobalEnv> 
+##   .. ..- attr(*, "predvars")= language list(varB, varA)
+##   .. ..- attr(*, "dataClasses")= Named chr [1:2] "numeric" "numeric"
+##   .. .. ..- attr(*, "names")= chr [1:2] "varB" "varA"
+##  $ model        :'data.frame':   50 obs. of  2 variables:
+##   ..$ varB: num [1:50] 0.166 0.13 0.209 0.512 0.639 ...
+##   ..$ varA: num [1:50] 0.822 0.767 0.832 0.75 0.718 ...
+##   ..- attr(*, "terms")=Classes 'terms', 'formula'  language varB ~ varA
+##   .. .. ..- attr(*, "variables")= language list(varB, varA)
+##   .. .. ..- attr(*, "factors")= int [1:2, 1] 0 1
+##   .. .. .. ..- attr(*, "dimnames")=List of 2
+##   .. .. .. .. ..$ : chr [1:2] "varB" "varA"
+##   .. .. .. .. ..$ : chr "varA"
+##   .. .. ..- attr(*, "term.labels")= chr "varA"
+##   .. .. ..- attr(*, "order")= int 1
+##   .. .. ..- attr(*, "intercept")= int 1
+##   .. .. ..- attr(*, "response")= int 1
+##   .. .. ..- attr(*, ".Environment")=<environment: R_GlobalEnv> 
+##   .. .. ..- attr(*, "predvars")= language list(varB, varA)
+##   .. .. ..- attr(*, "dataClasses")= Named chr [1:2] "numeric" "numeric"
+##   .. .. .. ..- attr(*, "names")= chr [1:2] "varB" "varA"
+##  - attr(*, "class")= chr "lm"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{head}\NormalTok{(regModel}\SpecialCharTok{$}\NormalTok{residuals) }\CommentTok{\# contains residuals}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##          1          2          3          4          5          6 
+## -0.1797338 -0.2351252 -0.1330427  0.1414450  0.2578046 -0.1643954
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# \textquotesingle{}summary\textquotesingle{} of model has elements}
+\FunctionTok{summary}\NormalTok{(regModel) }\CommentTok{\#}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Call:
+## lm(formula = varB ~ varA, data = regData)
+## 
+## Residuals:
+##     Min      1Q  Median      3Q     Max 
+## -0.4805 -0.1759  0.0036  0.1650  0.4747 
+## 
+## Coefficients:
+##             Estimate Std. Error t value Pr(>|t|)    
+## (Intercept)  0.62824    0.06359   9.879 3.76e-13 ***
+## varA        -0.34374    0.10723  -3.206   0.0024 ** 
+## ---
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## 
+## Residual standard error: 0.2317 on 48 degrees of freedom
+## Multiple R-squared:  0.1763, Adjusted R-squared:  0.1592 
+## F-statistic: 10.28 on 1 and 48 DF,  p-value: 0.002398
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(regModel)}\SpecialCharTok{$}\NormalTok{coefficients}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##               Estimate Std. Error   t value     Pr(>|t|)
+## (Intercept)  0.6282442 0.06359257  9.879209 3.764815e-13
+## varA        -0.3437400 0.10722951 -3.205648 2.398154e-03
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{str}\NormalTok{(}\FunctionTok{summary}\NormalTok{(regModel))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## List of 11
+##  $ call         : language lm(formula = varB ~ varA, data = regData)
+##  $ terms        :Classes 'terms', 'formula'  language varB ~ varA
+##   .. ..- attr(*, "variables")= language list(varB, varA)
+##   .. ..- attr(*, "factors")= int [1:2, 1] 0 1
+##   .. .. ..- attr(*, "dimnames")=List of 2
+##   .. .. .. ..$ : chr [1:2] "varB" "varA"
+##   .. .. .. ..$ : chr "varA"
+##   .. ..- attr(*, "term.labels")= chr "varA"
+##   .. ..- attr(*, "order")= int 1
+##   .. ..- attr(*, "intercept")= int 1
+##   .. ..- attr(*, "response")= int 1
+##   .. ..- attr(*, ".Environment")=<environment: R_GlobalEnv> 
+##   .. ..- attr(*, "predvars")= language list(varB, varA)
+##   .. ..- attr(*, "dataClasses")= Named chr [1:2] "numeric" "numeric"
+##   .. .. ..- attr(*, "names")= chr [1:2] "varB" "varA"
+##  $ residuals    : Named num [1:50] -0.18 -0.235 -0.133 0.141 0.258 ...
+##   ..- attr(*, "names")= chr [1:50] "1" "2" "3" "4" ...
+##  $ coefficients : num [1:2, 1:4] 0.6282 -0.3437 0.0636 0.1072 9.8792 ...
+##   ..- attr(*, "dimnames")=List of 2
+##   .. ..$ : chr [1:2] "(Intercept)" "varA"
+##   .. ..$ : chr [1:4] "Estimate" "Std. Error" "t value" "Pr(>|t|)"
+##  $ aliased      : Named logi [1:2] FALSE FALSE
+##   ..- attr(*, "names")= chr [1:2] "(Intercept)" "varA"
+##  $ sigma        : num 0.232
+##  $ df           : int [1:3] 2 48 2
+##  $ r.squared    : num 0.176
+##  $ adj.r.squared: num 0.159
+##  $ fstatistic   : Named num [1:3] 10.3 1 48
+##   ..- attr(*, "names")= chr [1:3] "value" "numdf" "dendf"
+##  $ cov.unscaled : num [1:2, 1:2] 0.0753 -0.1089 -0.1089 0.2142
+##   ..- attr(*, "dimnames")=List of 2
+##   .. ..$ : chr [1:2] "(Intercept)" "varA"
+##   .. ..$ : chr [1:2] "(Intercept)" "varA"
+##  - attr(*, "class")= chr "summary.lm"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# best to examine entire matrix of coefficients:}
+\FunctionTok{summary}\NormalTok{(regModel)}\SpecialCharTok{$}\NormalTok{coefficients[] }\CommentTok{\#shows all}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##               Estimate Std. Error   t value     Pr(>|t|)
+## (Intercept)  0.6282442 0.06359257  9.879209 3.764815e-13
+## varA        -0.3437400 0.10722951 -3.205648 2.398154e-03
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# can pull results from this, but a little wordy}
+\FunctionTok{summary}\NormalTok{(regModel)}\SpecialCharTok{$}\NormalTok{coefficients[}\DecValTok{1}\NormalTok{, }\DecValTok{4}\NormalTok{]   }\CommentTok{\#p value for intercept}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3.764815e-13
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(regModel)}\SpecialCharTok{$}\NormalTok{coefficients[}\StringTok{"(Intercept)"}\NormalTok{, }\StringTok{"Pr(\textgreater{}|t|)"}\NormalTok{]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3.764815e-13
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# alternatively unfurl this into a 1D atomic vector with names}
+\NormalTok{z }\OtherTok{\textless{}{-}} \FunctionTok{unlist}\NormalTok{(}\FunctionTok{summary}\NormalTok{(regModel))}
+\FunctionTok{str}\NormalTok{(z)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## List of 75
+##  $ call               : language lm(formula = varB ~ varA, data = regData)
+##  $ terms              :Classes 'terms', 'formula'  language varB ~ varA
+##   .. ..- attr(*, "variables")= language list(varB, varA)
+##   .. ..- attr(*, "factors")= int [1:2, 1] 0 1
+##   .. .. ..- attr(*, "dimnames")=List of 2
+##   .. .. .. ..$ : chr [1:2] "varB" "varA"
+##   .. .. .. ..$ : chr "varA"
+##   .. ..- attr(*, "term.labels")= chr "varA"
+##   .. ..- attr(*, "order")= int 1
+##   .. ..- attr(*, "intercept")= int 1
+##   .. ..- attr(*, "response")= int 1
+##   .. ..- attr(*, ".Environment")=<environment: R_GlobalEnv> 
+##   .. ..- attr(*, "predvars")= language list(varB, varA)
+##   .. ..- attr(*, "dataClasses")= Named chr [1:2] "numeric" "numeric"
+##   .. .. ..- attr(*, "names")= chr [1:2] "varB" "varA"
+##  $ residuals.1        : num -0.18
+##  $ residuals.2        : num -0.235
+##  $ residuals.3        : num -0.133
+##  $ residuals.4        : num 0.141
+##  $ residuals.5        : num 0.258
+##  $ residuals.6        : num -0.164
+##  $ residuals.7        : num -0.0806
+##  $ residuals.8        : num 0.047
+##  $ residuals.9        : num -0.191
+##  $ residuals.10       : num 0.271
+##  $ residuals.11       : num -0.324
+##  $ residuals.12       : num -0.109
+##  $ residuals.13       : num -0.281
+##  $ residuals.14       : num 0.0791
+##  $ residuals.15       : num -0.0953
+##  $ residuals.16       : num 0.475
+##  $ residuals.17       : num 0.17
+##  $ residuals.18       : num 0.0897
+##  $ residuals.19       : num 0.13
+##  $ residuals.20       : num -0.0747
+##  $ residuals.21       : num 0.231
+##  $ residuals.22       : num 0.414
+##  $ residuals.23       : num -0.386
+##  $ residuals.24       : num -0.06
+##  $ residuals.25       : num 0.325
+##  $ residuals.26       : num 0.402
+##  $ residuals.27       : num -0.137
+##  $ residuals.28       : num -0.118
+##  $ residuals.29       : num -0.204
+##  $ residuals.30       : num -0.115
+##  $ residuals.31       : num -0.481
+##  $ residuals.32       : num -0.286
+##  $ residuals.33       : num 0.0865
+##  $ residuals.34       : num 0.15
+##  $ residuals.35       : num 0.124
+##  $ residuals.36       : num -0.345
+##  $ residuals.37       : num 0.222
+##  $ residuals.38       : num -0.196
+##  $ residuals.39       : num -0.273
+##  $ residuals.40       : num 0.263
+##  $ residuals.41       : num 0.143
+##  $ residuals.42       : num -0.0393
+##  $ residuals.43       : num 0.0747
+##  $ residuals.44       : num 0.241
+##  $ residuals.45       : num 0.176
+##  $ residuals.46       : num -0.12
+##  $ residuals.47       : num 0.0601
+##  $ residuals.48       : num 0.0465
+##  $ residuals.49       : num -0.282
+##  $ residuals.50       : num 0.293
+##  $ coefficients1      : num 0.628
+##  $ coefficients2      : num -0.344
+##  $ coefficients3      : num 0.0636
+##  $ coefficients4      : num 0.107
+##  $ coefficients5      : num 9.88
+##  $ coefficients6      : num -3.21
+##  $ coefficients7      : num 3.76e-13
+##  $ coefficients8      : num 0.0024
+##  $ aliased.(Intercept): logi FALSE
+##  $ aliased.varA       : logi FALSE
+##  $ sigma              : num 0.232
+##  $ df1                : int 2
+##  $ df2                : int 48
+##  $ df3                : int 2
+##  $ r.squared          : num 0.176
+##  $ adj.r.squared      : num 0.159
+##  $ fstatistic.value   : num 10.3
+##  $ fstatistic.numdf   : num 1
+##  $ fstatistic.dendf   : num 48
+##  $ cov.unscaled1      : num 0.0753
+##  $ cov.unscaled2      : num -0.109
+##  $ cov.unscaled3      : num -0.109
+##  $ cov.unscaled4      : num 0.214
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{z}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## $call
+## lm(formula = varB ~ varA, data = regData)
+## 
+## $terms
+## varB ~ varA
+## attr(,"variables")
+## list(varB, varA)
+## attr(,"factors")
+##      varA
+## varB    0
+## varA    1
+## attr(,"term.labels")
+## [1] "varA"
+## attr(,"order")
+## [1] 1
+## attr(,"intercept")
+## [1] 1
+## attr(,"response")
+## [1] 1
+## attr(,".Environment")
+## <environment: R_GlobalEnv>
+## attr(,"predvars")
+## list(varB, varA)
+## attr(,"dataClasses")
+##      varB      varA 
+## "numeric" "numeric" 
+## 
+## $residuals.1
+## [1] -0.1797338
+## 
+## $residuals.2
+## [1] -0.2351252
+## 
+## $residuals.3
+## [1] -0.1330427
+## 
+## $residuals.4
+## [1] 0.141445
+## 
+## $residuals.5
+## [1] 0.2578046
+## 
+## $residuals.6
+## [1] -0.1643954
+## 
+## $residuals.7
+## [1] -0.08057429
+## 
+## $residuals.8
+## [1] 0.04703224
+## 
+## $residuals.9
+## [1] -0.1909225
+## 
+## $residuals.10
+## [1] 0.2713926
+## 
+## $residuals.11
+## [1] -0.3237548
+## 
+## $residuals.12
+## [1] -0.1089657
+## 
+## $residuals.13
+## [1] -0.2812585
+## 
+## $residuals.14
+## [1] 0.07907078
+## 
+## $residuals.15
+## [1] -0.09526778
+## 
+## $residuals.16
+## [1] 0.4746908
+## 
+## $residuals.17
+## [1] 0.1700034
+## 
+## $residuals.18
+## [1] 0.08970047
+## 
+## $residuals.19
+## [1] 0.1295949
+## 
+## $residuals.20
+## [1] -0.07473346
+## 
+## $residuals.21
+## [1] 0.2306125
+## 
+## $residuals.22
+## [1] 0.4144692
+## 
+## $residuals.23
+## [1] -0.386392
+## 
+## $residuals.24
+## [1] -0.06004344
+## 
+## $residuals.25
+## [1] 0.3245793
+## 
+## $residuals.26
+## [1] 0.4023199
+## 
+## $residuals.27
+## [1] -0.1368031
+## 
+## $residuals.28
+## [1] -0.118173
+## 
+## $residuals.29
+## [1] -0.2044464
+## 
+## $residuals.30
+## [1] -0.114869
+## 
+## $residuals.31
+## [1] -0.4805032
+## 
+## $residuals.32
+## [1] -0.2863703
+## 
+## $residuals.33
+## [1] 0.0865225
+## 
+## $residuals.34
+## [1] 0.1497794
+## 
+## $residuals.35
+## [1] 0.1239552
+## 
+## $residuals.36
+## [1] -0.3448369
+## 
+## $residuals.37
+## [1] 0.2218663
+## 
+## $residuals.38
+## [1] -0.1955863
+## 
+## $residuals.39
+## [1] -0.27336
+## 
+## $residuals.40
+## [1] 0.2630762
+## 
+## $residuals.41
+## [1] 0.1427988
+## 
+## $residuals.42
+## [1] -0.03927048
+## 
+## $residuals.43
+## [1] 0.07465863
+## 
+## $residuals.44
+## [1] 0.24055
+## 
+## $residuals.45
+## [1] 0.1757657
+## 
+## $residuals.46
+## [1] -0.1200938
+## 
+## $residuals.47
+## [1] 0.06010963
+## 
+## $residuals.48
+## [1] 0.04646672
+## 
+## $residuals.49
+## [1] -0.2823784
+## 
+## $residuals.50
+## [1] 0.2926357
+## 
+## $coefficients1
+## [1] 0.6282442
+## 
+## $coefficients2
+## [1] -0.34374
+## 
+## $coefficients3
+## [1] 0.06359257
+## 
+## $coefficients4
+## [1] 0.1072295
+## 
+## $coefficients5
+## [1] 9.879209
+## 
+## $coefficients6
+## [1] -3.205648
+## 
+## $coefficients7
+## [1] 3.764815e-13
+## 
+## $coefficients8
+## [1] 0.002398154
+## 
+## $`aliased.(Intercept)`
+## [1] FALSE
+## 
+## $aliased.varA
+## [1] FALSE
+## 
+## $sigma
+## [1] 0.2316818
+## 
+## $df1
+## [1] 2
+## 
+## $df2
+## [1] 48
+## 
+## $df3
+## [1] 2
+## 
+## $r.squared
+## [1] 0.1763358
+## 
+## $adj.r.squared
+## [1] 0.1591762
+## 
+## $fstatistic.value
+## [1] 10.27618
+## 
+## $fstatistic.numdf
+## [1] 1
+## 
+## $fstatistic.dendf
+## [1] 48
+## 
+## $cov.unscaled1
+## [1] 0.07534056
+## 
+## $cov.unscaled2
+## [1] -0.108879
+## 
+## $cov.unscaled3
+## [1] -0.108879
+## 
+## $cov.unscaled4
+## [1] 0.2142125
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{z}\SpecialCharTok{$}\NormalTok{coefficients7}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 3.764815e-13
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# grab what we need and put into a tidy  list}
+
+\NormalTok{regSum }\OtherTok{\textless{}{-}} \FunctionTok{list}\NormalTok{(}
+  \AttributeTok{intercept =}\NormalTok{ z}\SpecialCharTok{$}\NormalTok{coefficients1,}
+  \AttributeTok{slope =}\NormalTok{ z}\SpecialCharTok{$}\NormalTok{coefficients2,}
+  \AttributeTok{interceptP =}\NormalTok{ z}\SpecialCharTok{$}\NormalTok{coefficients7,}
+  \AttributeTok{slopeP =}\NormalTok{ z}\SpecialCharTok{$}\NormalTok{coefficients8,}
+  \AttributeTok{r2 =}\NormalTok{ z}\SpecialCharTok{$}\NormalTok{r.squared}
+\NormalTok{)}
+
+\CommentTok{\# much easier to query and use}
+\FunctionTok{print}\NormalTok{(regSum)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## $intercept
+## [1] 0.6282442
+## 
+## $slope
+## [1] -0.34374
+## 
+## $interceptP
+## [1] 3.764815e-13
+## 
+## $slopeP
+## [1] 0.002398154
+## 
+## $r2
+## [1] 0.1763358
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{regSum}\SpecialCharTok{$}\NormalTok{r2}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.1763358
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{regSum[[}\DecValTok{5}\NormalTok{]]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.1763358
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{plot }\OtherTok{\textless{}{-}}
+  \FunctionTok{plot}\NormalTok{(}
+\NormalTok{    regData}\SpecialCharTok{$}\NormalTok{varA,}
+\NormalTok{    regData}\SpecialCharTok{$}\NormalTok{varB,}
+    \AttributeTok{pch =} \DecValTok{16}\NormalTok{,}
+    \AttributeTok{cex =} \FloatTok{0.8}\NormalTok{,}
+    \AttributeTok{main =} \StringTok{"Regression Analysis"}\NormalTok{,}
+    \AttributeTok{xlab =} \StringTok{"varA"}\NormalTok{,}
+    \AttributeTok{ylab =} \StringTok{"varB"}
+\NormalTok{  ) }\SpecialCharTok{+} \FunctionTok{abline}\NormalTok{(regModel}\SpecialCharTok{$}\NormalTok{coefficients[}\DecValTok{1}\NormalTok{], regModel}\SpecialCharTok{$}\NormalTok{coefficients[}\DecValTok{2}\NormalTok{])}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-11-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Logistic Regression Analysis}
+\NormalTok{bodysize }\OtherTok{\textless{}{-}} \FunctionTok{rnorm}\NormalTok{(}\DecValTok{20}\NormalTok{, }\DecValTok{30}\NormalTok{, }\DecValTok{2}\NormalTok{) }\CommentTok{\# generates 20 values, with mean of 30 \& s.d.=2}
+\NormalTok{bodysize }\OtherTok{\textless{}{-}} \FunctionTok{sort}\NormalTok{(bodysize) }\CommentTok{\# sorts these values in ascending order.}
+\NormalTok{survive }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{) }\CommentTok{\# assign \textquotesingle{}survival\textquotesingle{} to these 20 individuals non{-}randomly... most mortality occurs at smaller body size}
+
+\NormalTok{n}\OtherTok{\textless{}{-}}\DecValTok{20}
+\NormalTok{survive}\OtherTok{\textless{}{-}}\FunctionTok{sample}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\DecValTok{0}\NormalTok{,}\DecValTok{1}\NormalTok{), }\AttributeTok{replace=}\ConstantTok{TRUE}\NormalTok{, }\AttributeTok{size=}\NormalTok{n)}
+\NormalTok{dat }\OtherTok{=} \FunctionTok{as.data.frame}\NormalTok{(}\FunctionTok{cbind}\NormalTok{(bodysize, survive)) }\CommentTok{\# saves dataframe with two columns: body size \& survival}
+\NormalTok{dat }\CommentTok{\# j}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    bodysize survive
+## 1  25.49149       1
+## 2  26.71581       0
+## 3  26.90456       1
+## 4  27.98094       0
+## 5  28.28350       1
+## 6  28.47835       0
+## 7  28.60644       0
+## 8  29.06946       1
+## 9  29.15034       1
+## 10 29.23742       1
+## 11 29.60641       1
+## 12 29.68513       0
+## 13 29.85550       1
+## 14 30.07029       1
+## 15 30.90125       0
+## 16 30.99246       0
+## 17 31.35645       1
+## 18 32.13050       1
+## 19 32.51604       0
+## 20 33.03787       1
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{plot}\NormalTok{(bodysize, survive, }\AttributeTok{xlab =} \StringTok{"Body size"}\NormalTok{, }\AttributeTok{ylab =} \StringTok{"Probability of survival"}\NormalTok{)}\CommentTok{\# plot with body size on x{-}axis and survival (0 or 1) on y{-}axis}
+
+\NormalTok{g }\OtherTok{\textless{}{-}} \FunctionTok{glm}\NormalTok{(survive }\SpecialCharTok{\textasciitilde{}}\NormalTok{ bodysize, }\AttributeTok{family =}\NormalTok{ binomial, dat) }\CommentTok{\# run a logistic regression model (in this case, generalized linear model with logit link). see ?glm}
+
+\FunctionTok{curve}\NormalTok{(}\FunctionTok{predict}\NormalTok{(g, }\FunctionTok{data.frame}\NormalTok{(}\AttributeTok{bodysize =}\NormalTok{ x), }\AttributeTok{type =} \StringTok{"resp"}\NormalTok{), }\AttributeTok{add =} \ConstantTok{TRUE}\NormalTok{) }\CommentTok{\# draws a curve based on prediction from logistic regression model}
+
+\FunctionTok{points}\NormalTok{(bodysize, }\FunctionTok{fitted}\NormalTok{(g), }\AttributeTok{pch =} \DecValTok{20}\NormalTok{) }\CommentTok{\# optional: you could skip this draws an invisible set of points of body size survival based on a \textquotesingle{}fit\textquotesingle{} to glm model. pch= changes type of dots.}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-11-2.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\#Alternatively}
+
+\FunctionTok{library}\NormalTok{(popbio)}
+\FunctionTok{logi.hist.plot}\NormalTok{(bodysize,}
+\NormalTok{               survive,}
+               \AttributeTok{boxp =} \ConstantTok{FALSE}\NormalTok{,}
+               \AttributeTok{type =} \StringTok{"hist"}\NormalTok{,}
+               \AttributeTok{col =} \StringTok{"gray"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Quest_Coding_Lesson_Plan_files/figure-latex/unnamed-chunk-11-3.pdf}
+
+\hypertarget{rmarkdown-45-min}{%
+\subsubsection{RMarkdown (45 min)}\label{rmarkdown-45-min}}
+
+So now let's talk about RMarkdown. This is an efficient way to integrate
+both your code and word processing to create robust documents with your
+code. RMarkdown files behave differently from normal r script files,
+which we'll see in just a little bit. Files are .Rmd's. So let's go
+ahead and open up an RMarkdown file by going to file-\textgreater new
+file-\textgreater RMarkdown. So RMarkdown will always give you this
+default page with code already written inside so that you have a sense
+of how it's structured. The grey'ed out lines are code chunks, which are
+essentially just mini script files that we've placed inside here. So
+within these code chunks, everything that we've learned about coding
+applies, the assigning conventions, commands, things like that. What
+determines a code chunk are these backticks that you see here (hover
+over that) as well as including the curly brackets. These curly brackets
+basically determine what steps you want Markdown to initialize
+with-meaning, you have a lot of options to adjust this code chunk-like
+whether you want to display the code, or just the results of them, or
+the sizes of the plots/graphics that you created. There'll be a list of
+options you can set in the cheat sheet I'll send to you.
+
+Outside of these code chunks though, as you'll notice, you can write
+normally like how you would in Word. However, there are still formatting
+commands in this section that you should be aware of. So you'll be
+writing your report in plain text, but the specific markdown syntax will
+actually format your text.
+
+Plain Text
+
+\hypertarget{header-1}{%
+\section{Header 1}\label{header-1}}
+
+\hypertarget{header-2}{%
+\subsection{Header 2}\label{header-2}}
+
+\hypertarget{header-3}{%
+\subsubsection{Header 3}\label{header-3}}
+
+Italic **
+
+bold-face ****
+
+subscript \textasciitilde\textasciitilde{}
+
+superscript \^{}\^{}
+
+strikethrough
+\textasciitilde\textasciitilde\textasciitilde\textasciitilde{}
+
+quotations \textgreater\textless text with no closing mark
+
+``Hello''
+
+\begin{quote}
+Hello!
+\end{quote}
+
+\hypertarget{equations}{%
+\subsection{Equations}\label{equations}}
+
+\begin{itemize}
+\tightlist
+\item
+  in-line uses \$
+\item
+  centered uses \$\$
+\item
+  basic math and text is handled by Latex \[y = a + b\]
+\end{itemize}
+
+\hypertarget{subscripts}{%
+\section{Subscripts}\label{subscripts}}
+
+\begin{quote}
+H\_0 = Z\_\{a + b\}
+\end{quote}
+
+\(H_0 = Z_{a + b}\)
+
+\hypertarget{superscripts}{%
+\section{Superscripts}\label{superscripts}}
+
+\begin{quote}
+S = cA\^{}z
+\end{quote}
+
+\(S = cA^z\)
+
+\begin{quote}
+S=cA\^{}z\_1 + z\_\{2 + x\}
+\end{quote}
+
+\(S=cA^z_1 + z_{2 + x}\)
+
+\hypertarget{fractions-and-greek}{%
+\section{Fractions and Greek}\label{fractions-and-greek}}
+
+\(\mbox{\alpha = \frac{\beta}{\delta + \gamma_x}}\)
+
+\(\alpha = \frac{\beta}{\delta + \gamma_x}\)
+
+\hypertarget{summation}{%
+\section{Summation}\label{summation}}
+
+\begin{quote}
+z = \sum\_\{i=1\}\^{}X\{K\}
+\end{quote}
+
+\(z = \sum_{i=1}^X{K}\)
+
+\hypertarget{cheat-sheets}{%
+\subsubsection{Cheat Sheets}\label{cheat-sheets}}
+
+\end{document}

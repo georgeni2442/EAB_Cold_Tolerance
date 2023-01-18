@@ -1,0 +1,212 @@
+﻿STATE,SITE_ID,SITE_NAME,TREE_NUMBER,SPECIES,DBH_CM,CROWN_POSITION,COMMENTS,CROWN_CLASS_IF_ASH_TREE,EAB_SIGNS_EXIT_HOLE,EAB_SIGNS_EPICORMIC_SHOOTS,EAB_SIGNS_WOODPECKER_FEEDING_DAMAGE,EAB_SIGNS_BARK_SPLITS,GRID_ROW,GRID_COLUMN,OBSERVATION_DATE,ORIGIN,POINT_X,POINT_Y
+Michigan,28,MR2N,32,elm,6.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:10 AM",Research,-84.66,43.13
+Michigan,28,MR2N,31,hickory,4.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:09 AM",Research,-84.66,43.13
+Michigan,28,MR2N,30,black ash,4.2,Suppressed,,5,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 10:08 AM",Research,-84.66,43.13
+Michigan,28,MR2N,29,black ash,7.6,Intermediate,,2,No,No,No,No,E,4,"7/21/2011, 10:05 AM",Research,-84.66,43.13
+Michigan,28,MR2N,28,elm,8.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:04 AM",Research,-84.66,43.13
+Michigan,28,MR2N,27,elm,7.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:03 AM",Research,-84.66,43.13
+Michigan,28,MR2N,26,elm,10,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:03 AM",Research,-84.66,43.13
+Michigan,28,MR2N,25,white oak,7.2,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:02 AM",Research,-84.66,43.13
+Michigan,28,MR2N,24,elm,10.9,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:01 AM",Research,-84.66,43.13
+Michigan,28,MR2N,23,elm,9.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:01 AM",Research,-84.66,43.13
+Michigan,28,MR2N,22,elm,6.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 10:00 AM",Research,-84.66,43.13
+Michigan,28,MR2N,21,elm,5.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,20,elm,5.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,19,elm,4.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:56 AM",Research,-84.66,43.13
+Michigan,28,MR2N,18,elm,9.1,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:55 AM",Research,-84.66,43.13
+Michigan,28,MR2N,17,elm,4.5,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:55 AM",Research,-84.66,43.13
+Michigan,28,MR2N,16,elm,5.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:54 AM",Research,-84.66,43.13
+Michigan,28,MR2N,15,white oak,8.9,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:53 AM",Research,-84.66,43.13
+Michigan,28,MR2N,14,black ash,5.7,Suppressed,,1,No,No,No,No,E,4,"7/21/2011, 9:52 AM",Research,-84.66,43.13
+Michigan,28,MR2N,13,elm,4.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:50 AM",Research,-84.66,43.13
+Michigan,28,MR2N,11,white oak,10.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,4,"7/21/2011, 9:49 AM",Research,-84.66,43.13
+Michigan,28,MR2N,10,black ash,18.9,Dominant,,4,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:46 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,black ash,9.4,Co-dominant,,4,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,black ash,12.5,Dominant,,5,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:44 AM",Research,-84.66,43.13
+Michigan,28,MR2N,7,black ash,19.5,Dominant,,4,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:42 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,black ash,10,Intermediate,,4,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:41 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,black ash,11.1,Dominant,,5,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:40 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,black ash,10.7,Dominant,,5,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,black ash,8.2,Intermediate,,3,Yes,Yes,Yes,Yes,E,4,"7/21/2011, 9:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,black ash,11,Dominant,,3,No,Yes,Yes,No,E,4,"7/21/2011, 9:38 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,black ash,16.2,Dominant,,4,No,Yes,Yes,No,E,4,"7/21/2011, 9:35 AM",Research,-84.66,43.13
+Michigan,28,MR2N,32,white oak,34,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 8:02 AM",Research,-84.66,43.13
+Michigan,28,MR2N,31,white oak,22.8,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 8:01 AM",Research,-84.66,43.13
+Michigan,28,MR2N,30,white oak,13.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 8:00 AM",Research,-84.66,43.13
+Michigan,28,MR2N,29,elm,5.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:59 AM",Research,-84.66,43.13
+Michigan,28,MR2N,28,elm,10.3,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:58 AM",Research,-84.66,43.13
+Michigan,28,MR2N,27,elm,4.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,26,elm,14.5,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,25,elm,8.1,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:56 AM",Research,-84.66,43.13
+Michigan,28,MR2N,24,elm,12.5,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:55 AM",Research,-84.66,43.13
+Michigan,28,MR2N,23,elm,4.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:52 AM",Research,-84.66,43.13
+Michigan,28,MR2N,22,black ash,9.9,Suppressed,,5,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:50 AM",Research,-84.66,43.13
+Michigan,28,MR2N,21,black ash,8.1,Intermediate,,2,No,No,No,No,E,5,"7/21/2011, 7:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,20,black ash,19.9,Co-dominant,,2,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:44 AM",Research,-84.66,43.13
+Michigan,28,MR2N,19,black ash,15,Dominant,,3,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:42 AM",Research,-84.66,43.13
+Michigan,28,MR2N,18,black ash,6.4,Suppressed,,5,No,Yes,No,No,E,5,"7/21/2011, 7:40 AM",Research,-84.66,43.13
+Michigan,28,MR2N,17,black ash,5.3,Suppressed,,5,No,Yes,No,No,E,5,"7/21/2011, 7:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,16,black ash,18.8,Dominant,,4,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:36 AM",Research,-84.66,43.13
+Michigan,28,MR2N,15,black ash,21.7,Dominant,,3,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:33 AM",Research,-84.66,43.13
+Michigan,28,MR2N,14,black ash,21.8,Dominant,,4,Yes,Yes,Yes,Yes,E,5,"7/21/2011, 7:31 AM",Research,-84.66,43.13
+Michigan,28,MR2N,13,black ash,10,Suppressed,,4,No,Yes,Yes,No,E,5,"7/21/2011, 7:29 AM",Research,-84.66,43.13
+Michigan,28,MR2N,12,green ash,21.6,Dominant,,4,No,Yes,Yes,Yes,E,5,"7/21/2011, 7:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,11,black ash,18,Co-dominant,,4,Yes,Yes,Yes,Yes,E,5,"7/21/2011, 7:25 AM",Research,-84.66,43.13
+Michigan,28,MR2N,10,black ash,22.4,Dominant,,4,Yes,Yes,Yes,Yes,E,5,"7/21/2011, 7:23 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,black ash,11.3,Suppressed,,5,Yes,Yes,Yes,Yes,E,5,"7/21/2011, 7:21 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,green ash,20.7,Dominant,,2,No,No,No,No,E,5,"7/21/2011, 7:18 AM",Research,-84.66,43.13
+Michigan,28,MR2N,7,black ash,13.8,Intermediate,,2,No,Yes,No,Yes,E,5,"7/21/2011, 7:17 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,black ash,19.3,Dominant,,2,No,No,No,No,E,5,"7/21/2011, 7:15 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,black ash,6.9,Suppressed,,5,No,No,No,No,E,5,"7/21/2011, 7:13 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,black ash,10.1,Suppressed,,4,No,Yes,Yes,No,E,5,"7/21/2011, 7:10 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,white oak,15.9,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:07 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,basswood,6.6,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:05 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,other species,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,5,"7/21/2011, 7:03 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,white ash,5.6,Suppressed,,4,No,Yes,No,Yes,E,6,"7/20/2011, 11:33 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,hickory,5,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:30 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,hickory,11.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:29 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,hickory,11.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,hickory,4.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:24 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,cherry,14.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:22 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,cherry,14.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:20 AM",Research,-84.66,43.13
+Michigan,28,MR2N,27,white ash,13.3,Co-dominant,,1,No,No,No,No,F,6,"7/20/2011, 10:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,26,elm,6.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:44 AM",Research,-84.66,43.13
+Michigan,28,MR2N,25,basswood,13.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:43 AM",Research,-84.66,43.13
+Michigan,28,MR2N,24,elm,5.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:42 AM",Research,-84.66,43.13
+Michigan,28,MR2N,23,elm,14.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:41 AM",Research,-84.66,43.13
+Michigan,28,MR2N,22,white oak,9.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:40 AM",Research,-84.66,43.13
+Michigan,28,MR2N,21,white ash,19.2,Dominant,,1,No,No,No,No,F,6,"7/20/2011, 10:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,20,white ash,21.2,Dominant,,1,No,No,No,No,F,6,"7/20/2011, 10:37 AM",Research,-84.66,43.13
+Michigan,28,MR2N,19,elm,13.5,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:36 AM",Research,-84.66,43.13
+Michigan,28,MR2N,18,white oak,8.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:35 AM",Research,-84.66,43.13
+Michigan,28,MR2N,17,white oak,21.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:34 AM",Research,-84.66,43.13
+Michigan,28,MR2N,16,sugar maple,16,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:33 AM",Research,-84.66,43.13
+Michigan,28,MR2N,15,elm,4.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:31 AM",Research,-84.66,43.13
+Michigan,28,MR2N,14,white ash,11.6,Suppressed,,1,No,No,No,No,F,6,"7/20/2011, 10:30 AM",Research,-84.66,43.13
+Michigan,28,MR2N,13,white ash,6.3,Suppressed,,1,No,No,No,No,F,6,"7/20/2011, 10:29 AM",Research,-84.66,43.13
+Michigan,28,MR2N,12,elm,5.6,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,11,elm,10,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,10,elm,11.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:26 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,elm,11.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:24 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,elm,4.1,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:24 AM",Research,-84.66,43.13
+Michigan,28,MR2N,7,white ash,5.9,Suppressed,,1,No,No,No,No,F,6,"7/20/2011, 10:22 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,white oak,4.4,Suppressed,,1,No,No,No,No,F,6,"7/20/2011, 10:22 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,white ash,4.8,Suppressed,,1,No,No,No,No,F,6,"7/20/2011, 10:19 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,elm,12.1,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:17 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,elm,18.4,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:16 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,white ash,7.7,Intermediate,,1,No,No,No,No,F,6,"7/20/2011, 10:10 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,elm,4.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,6,"7/20/2011, 10:08 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,white oak,10.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,elm,7.1,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:26 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,basswood,23.5,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:25 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,basswood,13,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:23 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,other species,14,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:21 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,other oak,23.1,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:19 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,elm,5.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,5,"7/20/2011, 9:16 AM",Research,-84.66,43.13
+Michigan,28,MR2N,91,green ash,41.9,Dominant,,3,No,Yes,Yes,No,F,4,"7/20/2011, 7:52 AM",Research,-84.66,43.13
+Michigan,28,MR2N,21,sugar maple,6.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:51 AM",Research,-84.66,43.13
+Michigan,28,MR2N,20,sugar maple,6.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:51 AM",Research,-84.66,43.13
+Michigan,28,MR2N,19,sugar maple,6.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:49 AM",Research,-84.66,43.13
+Michigan,28,MR2N,18,sugar maple,4.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:48 AM",Research,-84.66,43.13
+Michigan,28,MR2N,17,sugar maple,6.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:47 AM",Research,-84.66,43.13
+Michigan,28,MR2N,16,elm,7.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,15,basswood,4.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:44 AM",Research,-84.66,43.13
+Michigan,28,MR2N,14,white oak,31.2,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:42 AM",Research,-84.66,43.13
+Michigan,28,MR2N,13,beech,12.5,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,12,basswood,19.2,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:38 AM",Research,-84.66,43.13
+Michigan,28,MR2N,11,sugar maple,10.3,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:36 AM",Research,-84.66,43.13
+Michigan,28,MR2N,10,basswood,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:35 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,sugar maple,6.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:33 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,basswood,29.8,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:31 AM",Research,-84.66,43.13
+Michigan,28,MR2N,7,sugar maple,14.8,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:29 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,sugar maple,8.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:28 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,sugar maple,5.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:27 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,white oak,9.4,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,4,"7/20/2011, 7:24 AM",Research,-84.66,43.13
+Michigan,29,MR2G,7,green ash,11.3,Intermediate,,4,Yes,Yes,Yes,Yes,D,5,"7/21/2011, 10:37 AM",Research,-84.7,43.12
+Michigan,29,MR2G,5,boxelder,30.1,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/21/2011, 10:35 AM",Research,-84.7,43.12
+Michigan,29,MR2G,4,boxelder,6.7,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/21/2011, 10:33 AM",Research,-84.7,43.12
+Michigan,29,MR2G,3,green ash,10.2,Intermediate,,5,Yes,Yes,Yes,Yes,D,5,"7/21/2011, 10:31 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,boxelder,17.5,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/21/2011, 10:28 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,green ash,15.5,Suppressed,,5,Yes,Yes,Yes,No,D,5,"7/21/2011, 10:25 AM",Research,-84.7,43.12
+Michigan,29,MR2G,3,elm,9.1,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/21/2011, 9:44 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,white oak,18.3,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/21/2011, 9:42 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,black ash,5.7,Intermediate,,3,No,Yes,No,No,D,4,"7/21/2011, 9:38 AM",Research,-84.7,43.12
+Michigan,29,MR2G,3,elm,6.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,3,"7/21/2011, 9:20 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,green ash,15,Co-dominant,,1,No,No,No,No,D,3,"7/21/2011, 9:19 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,sugar maple,33,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,3,"7/21/2011, 9:16 AM",Research,-84.7,43.12
+Michigan,29,MR2G,6,green ash,7.5,Intermediate,,4,Yes,Yes,Yes,Yes,C,4,"7/21/2011, 8:06 AM",Research,-84.7,43.12
+Michigan,29,MR2G,5,green ash,12.4,Intermediate,,4,No,Yes,Yes,No,C,4,"7/21/2011, 8:04 AM",Research,-84.7,43.12
+Michigan,29,MR2G,4,green ash,4.5,Suppressed,,4,No,No,Yes,Yes,C,4,"7/21/2011, 8:02 AM",Research,-84.7,43.12
+Michigan,29,MR2G,3,willow,4.1,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,4,"7/21/2011, 7:59 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,green ash,4.1,Dominant,,1,No,No,No,No,C,4,"7/21/2011, 7:56 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,green ash,5,Intermediate,,2,No,No,No,No,C,4,"7/21/2011, 7:54 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,boxelder,22.2,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,5,"7/21/2011, 7:31 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,boxelder,16.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,5,"7/21/2011, 7:28 AM",Research,-84.7,43.12
+Michigan,29,MR2G,4,unknown broadleaf,6.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/21/2011, 6:43 AM",Research,-84.7,43.12
+Michigan,29,MR2G,3,boxelder,25.5,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/21/2011, 6:38 AM",Research,-84.7,43.12
+Michigan,29,MR2G,2,boxelder,18.7,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/21/2011, 6:33 AM",Research,-84.7,43.12
+Michigan,29,MR2G,1,boxelder,21.4,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/21/2011, 6:30 AM",Research,-84.7,43.12
+Michigan,28,MR2N,7,white ash,9.8,Intermediate,,3,Yes,Yes,No,Yes,E,6,"7/20/2011, 11:21 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,hickory,5.4,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:20 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,hickory,6.3,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:18 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,white oak,17.8,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:16 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,green ash,12.4,Co-dominant,,1,No,No,No,No,E,6,"7/20/2011, 11:13 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,hickory,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:12 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,hickory,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,E,6,"7/20/2011, 11:10 AM",Research,-84.66,43.13
+Michigan,28,MR2N,17,hickory,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 11:00 AM",Research,-84.66,43.13
+Michigan,28,MR2N,15,green ash,9.2,Intermediate,,3,Yes,Yes,Yes,No,D,6,"7/20/2011, 10:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,13,elm,5.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 10:56 AM",Research,-84.66,43.13
+Michigan,28,MR2N,10,green ash,22.3,Co-dominant,,3,Yes,Yes,Yes,No,D,6,"7/20/2011, 10:54 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,green ash,7.3,Intermediate,,3,No,Yes,No,No,D,6,"7/20/2011, 10:51 AM",Research,-84.66,43.13
+Michigan,28,MR2N,9,green ash,19.8,Co-dominant,,3,Yes,Yes,Yes,Yes,D,6,"7/20/2011, 10:49 AM",Research,-84.66,43.13
+Michigan,28,MR2N,8,green ash,17.8,Co-dominant,,5,Yes,Yes,Yes,No,D,6,"7/20/2011, 10:47 AM",Research,-84.66,43.13
+Michigan,28,MR2N,7,white oak,6.2,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 10:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,hickory,11,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 10:43 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,green ash,15.5,Intermediate,,4,Yes,Yes,Yes,No,D,6,"7/20/2011, 10:40 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,elm,10.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 10:39 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,hickory,4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,6,"7/20/2011, 10:38 AM",Research,-84.66,43.13
+Michigan,28,MR2N,6,sugar maple,7.6,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:13 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,green ash,6.1,Suppressed,,1,No,No,No,No,D,5,"7/20/2011, 10:10 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,sugar maple,19,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:09 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,sugar maple,17.2,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:08 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,sugar maple,11.4,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:07 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,cherry,4.1,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:06 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,other maple,5.9,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,5,"7/20/2011, 10:05 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,other maple,5.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:50 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,other maple,4.7,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:49 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,other maple,4.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:48 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,other maple,19.4,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:46 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,red maple,4.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:45 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,red maple,12.1,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:42 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,red maple,12,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,4,"7/20/2011, 9:41 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,other maple,41.7,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,3,"7/20/2011, 9:32 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,elm,6.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,3,"7/20/2011, 9:31 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,elm,8.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,D,3,"7/20/2011, 9:29 AM",Research,-84.66,43.13
+Michigan,28,MR2N,5,cherry,7.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/20/2011, 7:57 AM",Research,-84.66,43.13
+Michigan,28,MR2N,4,elm,8.5,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/20/2011, 7:56 AM",Research,-84.66,43.13
+Michigan,28,MR2N,3,other species,7.7,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/20/2011, 7:54 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,elm,4.1,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/20/2011, 7:52 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,cherry,7.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,6,"7/20/2011, 7:50 AM",Research,-84.66,43.13
+Michigan,28,MR2N,2,other maple,31.8,Open grown,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,3,"7/20/2011, 6:43 AM",Research,-84.66,43.13
+Michigan,28,MR2N,1,black/red oak,8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,C,3,"7/20/2011, 6:40 AM",Research,-84.67,43.13
+Michigan,28,MR2N,20,elm,8.4,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:53 PM",Research,-84.66,43.13
+Michigan,28,MR2N,19,other species,4.5,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:52 PM",Research,-84.66,43.13
+Michigan,28,MR2N,18,cherry,6.8,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:50 PM",Research,-84.66,43.13
+Michigan,28,MR2N,17,aspen/poplar,7.7,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:49 PM",Research,-84.66,43.13
+Michigan,28,MR2N,16,elm,10.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:48 PM",Research,-84.66,43.13
+Michigan,28,MR2N,15,elm,10.6,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:46 PM",Research,-84.66,43.13
+Michigan,28,MR2N,14,elm,9.4,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:44 PM",Research,-84.66,43.13
+Michigan,28,MR2N,13,elm,5.2,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:43 PM",Research,-84.66,43.13
+Michigan,28,MR2N,12,elm,7.6,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:41 PM",Research,-84.67,43.13
+Michigan,28,MR2N,11,elm,11.2,Intermediate,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:38 PM",Research,-84.67,43.13
+Michigan,28,MR2N,10,elm,5.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:37 PM",Research,-84.66,43.13
+Michigan,28,MR2N,9,elm,6.3,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:33 PM",Research,-84.66,43.13
+Michigan,28,MR2N,8,cherry,4.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"7/18/2011, 11:27 PM",Research,-84.66,43.13
+Michigan,28,MR2N,7,cherry,12.2,Co-dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"7/18/2011, 11:25 PM",Research,-84.66,43.13
+Michigan,28,MR2N,6,black ash,8.2,Co-dominant,,3,Yes,Yes,Yes,Yes,F,3,"7/18/2011, 11:22 PM",Research,-84.67,43.13
+Michigan,28,MR2N,5,black/red oak,20.6,Dominant,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"7/18/2011, 11:20 PM",Research,-84.66,43.13
+Michigan,28,MR2N,4,elm,5.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"7/18/2011, 11:17 PM",Research,-84.66,43.13
+Michigan,28,MR2N,3,black ash,24.1,Dominant,,3,No,Yes,Yes,No,F,3,"7/18/2011, 11:09 PM",Research,-84.66,43.13
+Michigan,28,MR2N,2,cherry,3.8,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"1/1/2009, 10:04 PM",Research,-84.66,43.13
+Michigan,28,MR2N,1,other species,6,Suppressed,,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,F,3,"7/18/2011, 10:56 PM",Research,-84.66,43.13
+Michigan,"5,145",Claire test,15,alder,154,Open grown,,4,,,,,,,"8/25/2020, 8:00 PM",Program,-84.48,42.73

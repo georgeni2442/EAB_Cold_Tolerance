@@ -1,0 +1,1533 @@
+﻿STATE,SITE_ID,SITE_NAME,TREE_NUMBER,SPECIES,DBH_CM,COMMENTS,CROWN_CLASS,LOWER_HALF_EXIT_HOLES,LOWER_HALF_BARK_SPLITS,LOWER_HALF_WOODPECKER_FEEDING_DAMAGE,LOWER_HALF_EPICORMIC_SHOOTS,UPPER_HALF_EPICORMIC_SHOOTS,UPPER_HALF_WOODPECKER_FEEDING_DAMAGE,OBSERVATION_DATE,ORIGIN,POINT_X,POINT_Y
+Michigan,15,tunn_C,"1,236",black ash,18,tun cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.38,43.45
+Michigan,10,dfg,"1,244",black ash,12.8,df girdle species null now black ash,3,No,Yes,Yes,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,242",black ash,8.4,df girdle species null now black ash,4,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,240",black ash,6.2,df girdle species null now black ash,4,No,Yes,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,241",black ash,20.2,df girdle species null now black ash,4,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,243",black ash,22.2,df girdle species null now black ash,2,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,239",black ash,7.6,df girdle species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,248",black ash,19,df g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,253",black ash,13.2,df g ng species null now black ash,1,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,249",black ash,8.8,df g ng species null now black ash,1,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,17,tusg,"1,505",black ash,12.2,tus girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,18,tusn,"1,180",black ash,15.5,tus ngr species null now black ash,2,Yes,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,18,tusn,"1,175",black ash,14.7,tus ngr species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.44
+Michigan,16,tusn_C,"1,294",black ash,13.2,tus cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,14,tung,"1,216",black ash,8.7,tun girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,13,tunn,"1,185",black ash,12.5,tun ngr species null now black ash,1,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,10,dfg,"1,250",black ash,19.6,df g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,254",black ash,15.2,df g ng species null now black ash,1,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,251",black ash,11.4,df g ng species null now black ash,2,No,Yes,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,252",black ash,12,df g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,259",black ash,11.9,df g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,257",black ash,6.9,df g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,255",black ash,20.3,df species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,11,dfn,"1,271",black ash,5.6,df ngr species null now black ash,1,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,262",black ash,11,df ngr species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,264",black ash,10,df ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,265",black ash,12.3,df ngr species null now black ash,2,No,Yes,Yes,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,267",black ash,7.2,df ngr species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,266",black ash,9.9,df ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,269",black ash,8.4,df ngr species null now black ash,3,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,270",black ash,14.8,df ngr species null now black ash,1,No,Yes,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,12,dfn_C,"1,272",black ash,14.7,df control species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,33,IOG,"1,093",black ash,9,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,063",black ash,8,nongirdled io g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,068",black ash,8,nongirdled io g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,32,ION,"1,087",black ash,11,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,29,MR2G,"1,124",black ash,14,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,128",black ash,9,nongirdled mr2 g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,133",black ash,6,nongirdled mr2 g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,18,tusn,"1,182",black ash,17.4,tus ngr species null now black ash,4,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,32,ION,"1,077",black ash,7,nongirdled io2 ngr,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,079",black ash,6,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,080",black ash,11,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,084",black ash,11,nongirdled io2 ngr,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,082",black ash,17,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,081",black ash,7,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,083",black ash,9,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,29,MR2G,"1,114",black ash,11,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,115",black ash,16,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,116",black ash,7,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,118",black ash,11,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,119",black ash,13,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,120",black ash,10,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,121",black ash,14,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,122",black ash,7,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,136",black ash,12,nongirdled mr2 g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,10,dfg,"1,238",black ash,19.8,df girdle species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,11,dfn,"1,263",black ash,10.3,df ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,18,tusn,"1,173",black ash,11,tus ngr species null now black ash,2,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.44
+Michigan,14,tung,"1,214",black ash,12.1,tun girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,232",black ash,10.2,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,13,tunn,"1,184",black ash,8.4,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,10,dfg,"1,291",black ash,15.7,df girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,247",black ash,11.5,df girdle species null now black ash,4,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,237",black ash,12.5,df girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,17,tusg,"1,164",black ash,10.5,tus g ng species null now black ash,2,No,Yes,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,14,tung,"1,233",black ash,11.4,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,10,dfg,"1,256",black ash,7,df g ng species null now black ash,1,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,10,dfg,"1,258",black ash,15.9,df g ng species null now black ash,2,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,11,dfn,"1,260",black ash,12.2,df ngr species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,11,dfn,"1,268",black ash,14.3,df ngr species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,17,tusg,"1,506",black ash,11.5,tus girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,503",black ash,16,tus girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,163",black ash,12.6,tus g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,171",black ash,14.5,tus g ng species null now black ash,4,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,18,tusn,"1,179",black ash,16.4,tus ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,18,tusn,"1,172",black ash,14.4,tus ngr species null now black ash,1,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,16,tusn_C,598,black ash,14.3,tus cont species null now black ash,2,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,14,tung,"1,212",black ash,12.6,tun girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,219",black ash,10.3,tun girdle species null now black ash,3,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,225",black ash,17.6,tun g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,235",black ash,10.3,tun g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,230",black ash,13.1,tun g ng species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,13,tunn,"1,186",black ash,9,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,17,tusg,"1,167",black ash,13.8,tus g ng species null now black ash,1,No,Yes,Yes,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,11,dfn,"1,261",black ash,12,df ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.25,43.49
+Michigan,29,MR2G,"1,113",black ash,14,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,33,IOG,"1,064",black ash,7,nongirdled io g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,14,tung,"1,231",black ash,10,tun g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,29,MR2G,"1,117",black ash,9,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,28,MR2N,"1,146",black ash,16,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,147",black ash,9,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,147",black ash,11,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,142",black ash,8,nongirdled mr2 ngr,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,137",black ash,8,nongirdled mr2 ngr,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,148",black ash,16,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,143",black ash,14,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,144",black ash,10,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,141",black ash,12,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,140",black ash,10,nongirdled mr2 ngr,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,138",black ash,15,nongirdled mr2 ngr,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,28,MR2N,"1,139",black ash,9,nongirdled mr2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.66,43.13
+Michigan,33,IOG,"1,100",black ash,14,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,099",black ash,8,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,098",black ash,17,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,097",black ash,6,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,096",black ash,11,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,095",black ash,14,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,094",black ash,12,girdled io girdle,4,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,092",black ash,7,girdled io girdle,4,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,090",black ash,16,girdled io girdle,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,091",black ash,10,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,089",black ash,10,girdled io girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,062",black ash,7,nongirdled io g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,065",black ash,11,nongirdled io g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,066",black ash,13,nongirdled io g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,067",black ash,18,nongirdled io g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.13,42.96
+Michigan,33,IOG,"1,070",black ash,10,nongirdled io g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,33,IOG,"1,071",black ash,11,nongirdled io g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,088",black ash,11,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,086",black ash,10,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,085",black ash,13,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,32,ION,"1,078",black ash,11,nongirdled io2 ngr,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-85.12,42.96
+Michigan,29,MR2G,"1,123",black ash,10,girdled mr2 girdle,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,125",black ash,12,nongirdled mr2 g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,130",black ash,14,nongirdled mr2 g ng,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,131",black ash,13,nongirdled mr2 g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,126",black ash,14,nongirdled mr2 g ng,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,127",black ash,11,nongirdled mr2 g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,129",black ash,14,nongirdled mr2 g ng,1,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,132",black ash,13,nongirdled mr2 g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,29,MR2G,"1,135",black ash,6,nongirdled mr2 g ng,2,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,17,tusg,"1,501",black ash,10,tus girdle species null now black ash,3,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,502",black ash,12,tus girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,510",black ash,17.6,tus girdle species null now black ash,4,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,504",black ash,18.8,tus girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,512",black ash,11.5,tus girdle species null now black ash,4,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,508",black ash,16.6,tus girdle species null now black ash,4,No,Yes,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,511",black ash,8.2,tus girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,507",black ash,8.2,tus girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,075",black ash,14.2,tus g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,161",black ash,12.6,tus g ng species null now black ash,2,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,162",black ash,7.4,tus g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,169",black ash,7.9,tus g ng species null now black ash,3,No,Yes,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,29,MR2G,"1,134",black ash,6,nongirdled mr2 g ng,3,Yes,Yes,Yes,0,0,No,"12/31/1969, 7:00 PM",Research,-84.7,43.12
+Michigan,17,tusg,"1,166",black ash,6.6,tus g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,165",black ash,7.6,tus g ng species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,170",black ash,7.5,tus g ng species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,17,tusg,"1,168",black ash,15.2,tus g ng species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,18,tusn,"1,183",black ash,12,tus ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.37,43.44
+Michigan,18,tusn,"1,181",black ash,14,tus ngr species null now black ash,1,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,18,tusn,"1,178",black ash,8.6,tus ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,16,tusn_C,"1,060",black ash,11.4,tus cont species null now black ash,4,No,Yes,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,18,tusn,"1,176",black ash,16.3,tus ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.37,43.44
+Michigan,18,tusn,"1,174",black ash,8.6,tus ngr species null now black ash,4,Yes,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.43
+Michigan,17,tusg,"1,509",black ash,10.2,tus girdle species null now black ash,4,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.43
+Michigan,16,tusn_C,98,black ash,18.7,tus cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,18,tusn,"1,177",black ash,9.7,tus ngr species null now black ash,4,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.37,43.44
+Michigan,16,tusn_C,99,black ash,8.1,tus cont species null now black ash,4,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,97,black ash,15,tus cont species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,594,black ash,8.4,tus cont species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,597,black ash,11.5,tus cont species null now black ash,2,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,596,black ash,16.4,tus cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,595,black ash,13.8,tus cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,599,black ash,18.7,tus cont species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,16,tusn_C,"1,211",black ash,8,tus cont species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.34,43.43
+Michigan,14,tung,"1,213",black ash,10.9,tun girdle species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,225",black ash,24.4,tun girdle species null now black ash,3,No,No,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,217",black ash,14.1,tun girdle species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,218",black ash,8.2,tun girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,220",black ash,17.5,tun girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,222",black ash,19,tun girdle species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,223",black ash,9.5,tun girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,221",black ash,16.4,tun girdle species null now black ash,3,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,224",black ash,6.5,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,226",black ash,10.8,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,229",black ash,9.3,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,228",black ash,7.7,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,14,tung,"1,234",black ash,9.5,tun g ng species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,13,tunn,"1,188",black ash,8.8,tun ngr species null now black ash,1,No,No,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,189",black ash,9.3,tun ngr species null now black ash,3,No,Yes,Yes,,,Yes,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,191",black ash,9.5,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,192",black ash,8.9,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,187",black ash,9.7,tun ngr species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,194",black ash,15.7,tun ngr species null now black ash,1,No,Yes,No,,,Yes,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,195",black ash,15.7,tun ngr species null now black ash,1,No,Yes,Yes,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,13,tunn,"1,193",black ash,15.2,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,10,dfg,"1,246",black ash,14.5,df girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,14,tung,"1,227",black ash,13.6,tun g ng species null now black ash,2,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.36,43.45
+Michigan,13,tunn,"1,190",black ash,13.3,tun ngr species null now black ash,1,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.33,43.45
+Michigan,10,dfg,"1,245",black ash,20.9,df girdle species null now black ash,3,No,No,No,,,No,"12/31/1969, 7:00 PM",Research,-83.23,43.5
+Michigan,"1,742",gbl,"1,939",white ash,27,54 oobs and 126 tets,1,No,No,No,10-Jan,21+,No,"7/24/2011, 8:41 AM",Research,-83.57,44.65
+Michigan,"1,742",gbl,"1,938",white ash,43.2,,3,No,No,No,0,20-Nov,Yes,"7/24/2011, 8:00 AM",Research,-83.57,44.65
+Michigan,"1,742",gbl,"1,937",white ash,57.7,,2,No,No,Yes,0,0,Yes,"7/24/2011, 7:45 AM",Research,-83.57,44.65
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 9:35 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 9:26 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 9:23 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 9:21 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 9:13 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 8:55 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 8:50 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 8:47 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 8:43 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 8:41 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 8:36 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 8:30 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 8:21 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 8:17 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 8:12 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 8:05 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 8:00 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 7:54 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 7:50 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 7:44 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 7:40 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 7:35 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 7:31 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 7:26 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 7:22 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,plate,1,No,No,No,0,0,No,"8/10/2011, 7:18 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 7:15 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,fan,1,No,No,No,0,0,No,"8/10/2011, 7:08 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 7:02 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 6:51 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 6:39 AM",Research,-84.11,43.34
+Michigan,22,sr,1,green ash,1,pan,1,No,No,No,0,0,No,"8/10/2011, 6:33 AM",Research,-84.11,43.34
+Michigan,25,gswr,1,green ash,10,plate,3,No,No,No,0,0,No,"8/9/2011, 9:50 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,plate,3,No,No,No,0,0,No,"8/9/2011, 9:33 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,10,fan,3,No,No,No,0,0,No,"8/9/2011, 9:28 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,pan,3,No,No,No,0,0,No,"8/9/2011, 9:06 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,10,fan,3,No,No,No,0,0,No,"8/9/2011, 8:51 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,10,pan,3,No,No,No,0,0,No,"8/9/2011, 8:47 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,10,pan,3,No,No,No,0,0,No,"8/9/2011, 7:52 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,fan,3,No,No,No,0,0,No,"8/9/2011, 7:47 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,plate,3,No,No,No,0,0,No,"8/9/2011, 7:44 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,pan,3,No,No,No,0,0,No,"8/9/2011, 7:36 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,10,fan,3,No,No,No,0,0,No,"8/9/2011, 7:32 AM",Research,-84.45,43.23
+Michigan,25,gswr,2,green ash,12,plate,1,No,No,Yes,0,0,No,"8/9/2011, 7:28 AM",Research,-84.45,43.23
+Michigan,25,gswr,2,green ash,12,pan,1,No,No,Yes,0,0,No,"8/9/2011, 7:21 AM",Research,-84.45,43.23
+Michigan,25,gswr,2,green ash,12,plate,1,No,No,Yes,0,0,No,"8/9/2011, 7:18 AM",Research,-84.45,43.23
+Michigan,25,gswr,2,green ash,12,fan,1,No,No,Yes,0,0,No,"8/9/2011, 7:10 AM",Research,-84.45,43.23
+Michigan,25,gswr,2,green ash,12,plate,1,No,No,Yes,0,0,No,"8/9/2011, 7:02 AM",Research,-84.44,43.23
+Michigan,25,gswr,2,green ash,12,pan,1,No,No,Yes,0,0,No,"8/9/2011, 6:53 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,12,fan,1,No,No,Yes,0,0,No,"8/9/2011, 6:42 AM",Research,-84.44,43.23
+Michigan,25,gswr,1,green ash,8,,1,No,No,No,0,0,No,"8/22/2011, 7:38 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,8,,1,No,No,No,0,0,No,"8/22/2011, 7:33 AM",Research,-84.45,43.23
+Michigan,25,gswr,1,green ash,8,,1,No,No,No,0,0,No,"8/22/2011, 7:21 AM",Research,-84.45,43.23
+Michigan,"1,769",CPNMLT,10,green ash,12,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,8,green ash,14,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,1,green ash,14,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,7,green ash,10,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,5,green ash,18,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,4,green ash,12,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,3,green ash,16,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",3,No,No,No,10-Jan,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,9,green ash,12,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,6,green ash,11,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,2,green ash,15,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"7/28/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,12,green ash,10,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",3,No,No,Yes,20-Nov,0,Yes,"7/29/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,11,green ash,10,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",4,No,No,No,20-Nov,0,No,"7/29/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,801,green ash,10.5,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,802,green ash,15,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,803,green ash,16,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",3,No,No,No,10-Jan,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,804,green ash,12,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",3,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,805,green ash,18,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,806,green ash,11,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,807,green ash,10.5,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,808,green ash,14,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,809,green ash,13,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",1,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,810,green ash,12,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",2,No,No,No,0,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"8,101",green ash,26,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",4,Yes,No,No,21+,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"8,102",green ash,26,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",5,Yes,No,No,20-Nov,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"8,103",green ash,21,"Historic data, assumed this was a release tree based on site id (cprt), location (clustered around center) and the comments.",3,No,No,No,10-Jan,0,No,"8/20/2008, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,773",BFPKLT,201,green ash,10,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,10-Jan,0,No,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,213,green ash,14.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,Yes,20-Nov,0,Yes,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,215,green ash,18.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",5,No,No,Yes,21+,0,Yes,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,212,green ash,18.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",1,No,No,No,0,0,No,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,214,green ash,16.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",5,No,No,Yes,10-Jan,0,Yes,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,200,green ash,18.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",5,No,No,Yes,21+,0,Yes,"9/10/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,109",green ash,18.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,10-Jan,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,108",green ash,12,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,106",green ash,22,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,10-Jan,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,107",green ash,13,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,104",green ash,8.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,105",green ash,9,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",4,No,No,No,10-Jan,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,101",green ash,9.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,103",green ash,10,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,110",green ash,22,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,10-Jan,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"8,102",green ash,7.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,809,green ash,8.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,805,green ash,13.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,808,green ash,14.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,803,green ash,9,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,807,green ash,16.5,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,804,green ash,15,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",1,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,810,green ash,11,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.59,42.59
+Michigan,"1,773",BFPKLT,802,green ash,11,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,806,green ash,18,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",3,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,801,green ash,12,"Based of historic 2008 data, and a phone call with Leah 09_01_2011. TCP",2,No,No,No,0,0,No,"9/8/2008, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,770",LPRFLT,809,green ash,11,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,1,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,808,green ash,10.5,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,808,green ash,20,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,105",green ash,14.5,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,5,No,No,No,10-Jan,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,109",green ash,31,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,10-Jan,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,804,green ash,16,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,Yes,10-Jan,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,803,green ash,17,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,Yes,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,802,green ash,22.5,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,1,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,102",green ash,33,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,110",green ash,35,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,5,No,No,No,10-Jan,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"8,107",green ash,13,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,4,No,No,No,20-Nov,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"8,104",green ash,34,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,3,No,No,Yes,10-Jan,0,Yes,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,108",green ash,11,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,10-Jan,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,807,green ash,15,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,1,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"8,106",green ash,20,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,3,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,805,green ash,12,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,103",green ash,20,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,801,green ash,11,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,2,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"8,101",green ash,13,Based on historic 2008 data and a phone call with Leah on 09_01_2011. TCP,1,No,No,No,0,0,No,"8/13/2008, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,796",SLHSP,"2,008",white ash,11.1,,2,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/19/2011, 12:36 AM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,008",white ash,6,,1,Yes,Yes,Yes,10-Jan,0,Yes,"9/19/2011, 12:26 AM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,008",white ash,6.2,,2,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/19/2011, 12:16 AM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,008",white ash,7.5,,2,No,Yes,Yes,10-Jan,0,Yes,"9/19/2011, 12:08 AM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,008",white ash,10.5,,2,No,Yes,Yes,10-Jan,10-Jan,Yes,"9/18/2011, 11:59 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,007",white ash,10.3,,1,Yes,Yes,Yes,10-Jan,20-Nov,Yes,"9/18/2011, 11:36 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,005",white ash,10,,2,No,Yes,Yes,0,10-Jan,Yes,"9/18/2011, 11:23 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,005",white ash,11.3,,3,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"9/18/2011, 11:13 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,004",white ash,12.8,,3,Yes,Yes,Yes,21+,10-Jan,Yes,"9/18/2011, 11:01 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,003",white ash,12,,3,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"9/18/2011, 10:50 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,002",white ash,8.7,,3,Yes,Yes,Yes,10-Jan,0,Yes,"9/18/2011, 10:36 PM",Research,-84.41,42.95
+Michigan,"1,796",SLHSP,"2,001",white ash,12.4,100 spats 33 oobs,1,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/18/2011, 10:19 PM",Research,-84.41,42.94
+Michigan,"1,799",FPK,574,green ash,13.5,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,576,green ash,10,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,578,green ash,16.5,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,573,green ash,10,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,756",HNFBC,"1,607",white ash,31.2,40 adult oobius (FS mixed lab colony) + 122F & 96M adult Tetrastichus (APHIS colony) released,3,No,No,No,0,0,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,756",HNFBC,"1,608",white ash,57.8,60 adult Oobius (FS mixed lab colony) + 328F & 88M adults Tetrastichus (APHIS lab colony)released,3,No,No,No,0,0,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,756",HNFBC,"1,609",white ash,43.5,40 adult Oobius (FS mixed lab colony) + 164F & 123M adult Tetrastichus (APHIS lab colony) released,3,No,No,No,0,0,No,"7/23/2011, 8:00 PM",Research,-83.58,44.65
+Michigan,"1,756",HNFBC,"1,610",black ash,8.5,20 adult Oobius (FS mixed lab colony) + 122F & 70M adult Tetrastichus (APHIS colony) released,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,756",HNFBC,"1,611",black ash,17,20 adult Oobius (FS mixed lab colony) + 137F & 38M adult Tetrastichus (APHIS colony) released,1,No,No,Yes,10-Jan,10-Jan,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,756",HNFBC,"1,612",black ash,22,20 adult Oobius (FS mixed lab colony) + 124F & 13M adult Tetrastichus (APHIS colony) released,4,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,756",HNFBC,"1,613",black ash,17.3,20 adult Oobius (FS mixed lab colony) + 285F & 85M adult Tetrastichus (APHIS colony) released,2,No,No,No,0,10-Jan,Yes,"7/23/2011, 8:00 PM",Research,-83.57,44.65
+Michigan,"1,802",MSUTRC,570,green ash,47.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,No,No,Yes,21+,21+,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,567,green ash,31,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,4,No,No,Yes,21+,21+,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,561,green ash,24.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,4,No,No,Yes,20-Nov,0,Yes,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,562,green ash,15,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,1,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,572,green ash,10,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,Yes,No,Yes,21+,21+,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,568,green ash,13,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,1,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,564,green ash,34.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,1,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,565,green ash,17,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,No,Yes,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,566,green ash,35.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,1,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,569,green ash,9.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,1,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,563,green ash,34,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,No,No,No,0,0,Yes,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,452,green ash,14.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,2,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,455,green ash,13,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,2,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,572,green ash,54.5,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,Yes,Yes,Yes,21+,21+,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,559,green ash,33,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,5,No,No,No,21+,21+,No,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,453,green ash,17,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,2,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,571,green ash,42,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,4,Yes,No,Yes,21+,21+,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,560,green ash,36,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,4,Yes,No,Yes,10-Jan,0,Yes,"8/11/2008, 8:00 PM",Research,-84.47,42.67
+Michigan,"1,802",MSUTRC,456,green ash,15,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,No,No,No,10-Jan,0,Yes,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,802",MSUTRC,454,green ash,11,Based off historic 2008 tree data and a conversation with Leah 09_23_2011. TCP,3,No,No,No,0,0,No,"8/11/2008, 8:00 PM",Research,-84.48,42.67
+Michigan,"1,799",FPK,577,green ash,20.5,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,579,green ash,17.5,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,580,green ash,15,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,575,green ash,10.5,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,799",FPK,581,white ash,50,Based off historic 2008 data and a conversation with Leah on 09_23_2011. TCP,1,No,No,No,0,0,No,"9/23/2008, 8:00 PM",Research,-84.59,42.72
+Michigan,"1,803",MSUDR,4,green ash,13.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,4,No,No,Yes,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,7,green ash,34,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,3,No,No,No,0,0,No,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,9,green ash,31.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,4,Yes,No,Yes,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,5,green ash,27.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,4,Yes,No,Yes,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,3,green ash,72,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,3,Yes,No,No,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,1,green ash,31.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,2,Yes,No,Yes,10-Jan,0,No,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,8,green ash,32,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,4,Yes,No,Yes,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,2,green ash,40.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,2,No,No,No,0,0,No,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,10,green ash,36.5,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,3,No,No,Yes,10-Jan,0,Yes,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,803",MSUDR,6,green ash,17,Based off of historic 2008 data and a conversation with Leah on 09_23_2011. TCP,2,No,No,No,10-Jan,0,No,"7/7/2008, 8:00 PM",Research,-84.41,42.7
+Michigan,"1,758",ASWCR,"1,635",green ash,12,52 0OBS+100 TETS,2,No,No,Yes,10-Jan,10-Jan,Yes,"7/31/2011, 1:50 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,633",green ash,15,62 0OBS+100 TETS,2,No,No,Yes,10-Jan,10-Jan,Yes,"7/31/2011, 1:44 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,636",green ash,15,62 0OBS+100 TETS,2,No,No,Yes,10-Jan,10-Jan,Yes,"7/31/2011, 1:38 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,630",green ash,15,62 0OBS+100 SPATS,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/31/2011, 1:36 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,634",black ash,8,40 0OBS+100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 1:31 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,634",black ash,8,40 0OBS+100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 1:27 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,631",black ash,6,31 0OBS+100 TETS,1,No,No,No,0,0,No,"7/31/2011, 1:21 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,632",black ash,8,31 OOBS+100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 1:18 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,637",green ash,25,51 OOBS+100 SPATS,3,No,No,Yes,10-Jan,20-Nov,Yes,"7/31/2011, 1:16 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,627",black ash,5,20 OOBS+100 TETS,1,No,No,No,0,0,No,"7/31/2011, 12:38 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,626",black ash,6,40 OOBS+100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 12:32 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,628",green ash,8,20 OOBS+100 TETS,1,No,No,No,0,10-Jan,No,"7/31/2011, 12:27 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,629",black ash,16,40 OOBS+100 SPATS,3,No,No,No,0,20-Nov,Yes,"7/31/2011, 12:21 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,624",black ash,6,40 OOBS+100 SPATS,2,No,No,No,0,10-Jan,No,"7/31/2011, 12:15 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,623",black ash,6,37 OOBS+100 SPATS,1,No,No,No,0,0,No,"7/31/2011, 12:11 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,623",black ash,6,37 OOBS+100 SPATS,1,No,No,No,0,0,No,"7/31/2011, 12:06 PM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,616",black ash,10,20 OOB 100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 11:44 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,617",black ash,10,20 OOB 100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 11:43 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,618",black ash,6,20 OOB 100 TETS,2,No,No,No,0,10-Jan,No,"7/31/2011, 11:40 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,619",green ash,7,20OOB+100F TETS,1,No,No,No,0,0,No,"7/31/2011, 11:36 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,620",green ash,12,20OOB+100F SPATS,3,No,No,No,0,10-Jan,No,"7/31/2011, 11:34 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,627",green ash,10,20OOB+100F SPATS,3,No,No,No,0,10-Jan,No,"7/31/2011, 11:29 AM",Research,-84.79,44.21
+Michigan,"1,758",ASWCR,"1,622",black ash,8,TETS+OOBS__DBH TAPE LOST DATA NEEDED FOR THIS SITE AT AU SABLE SF WOLK CREEK =ASWF,2,Yes,No,No,0,10-Jan,No,"7/31/2011, 11:27 AM",Research,-84.79,44.21
+Michigan,58,Kronke Site,"1,576",green ash,10.3,,4,No,No,Yes,0,0,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,577",green ash,4.9,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,578",green ash,10.9,,4,No,Yes,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,579",green ash,4.2,,4,No,Yes,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,580",green ash,5.6,,3,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,581",green ash,6,,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,582",green ash,4,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,583",green ash,3.5,,3,No,Yes,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,584",green ash,3.5,,4,No,Yes,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,585",green ash,3.5,,3,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,586",green ash,3.5,,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,587",green ash,6.6,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.23
+Michigan,58,Kronke Site,"1,588",green ash,12,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,589",green ash,10.7,,4,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,590",green ash,7.3,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,591",green ash,8.8,,4,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,592",green ash,10.3,,4,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,593",green ash,12.2,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,594",green ash,9.4,,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,595",green ash,6.7,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,596",green ash,7.1,,4,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,597",green ash,7,,4,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,598",green ash,9.9,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,599",green ash,15.3,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,600",green ash,8.9,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,601",green ash,14.7,,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,602",green ash,6.2,,3,No,No,No,20-Nov,20-Nov,No,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,603",green ash,7,,3,No,No,No,20-Nov,20-Nov,No,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,58,Kronke Site,"1,604",green ash,10,,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/28/2011, 8:00 PM",Research,-88.46,47.22
+Michigan,60,N Electric Park,"1,575",green ash,15.9,,3,No,No,Yes,10-Jan,10-Jan,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,574",green ash,7.4,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,573",green ash,10.6,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,572",green ash,6.5,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,571",green ash,4,,3,No,No,Yes,10-Jan,10-Jan,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,570",green ash,6.6,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,569",green ash,6.5,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,568",green ash,3.8,,3,No,No,No,10-Jan,20-Nov,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,567",green ash,8.6,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,566",green ash,5,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,565",green ash,10.9,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,564",green ash,14,,3,No,No,No,20-Nov,20-Nov,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,563",green ash,6.8,,3,No,No,No,20-Nov,20-Nov,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,562",green ash,12.9,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,561",green ash,10,,3,No,No,No,20-Nov,20-Nov,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,560",green ash,6.4,,3,No,No,Yes,21+,21+,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,559",green ash,9.5,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,558",green ash,9.9,,3,No,No,No,10-Jan,21+,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,557",green ash,9.3,,3,No,No,No,10-Jan,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,556",green ash,7.3,,3,No,No,No,21+,21+,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,555",green ash,6.6,,3,No,No,Yes,10-Jan,10-Jan,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,554",green ash,10.8,,3,No,No,Yes,20-Nov,21+,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,553",green ash,14.7,,3,No,No,Yes,10-Jan,20-Nov,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,552",green ash,9.4,,3,No,No,Yes,10-Jan,21+,Yes,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,60,N Electric Park,"1,551",green ash,5.7,,3,No,No,No,21+,10-Jan,No,"9/20/2011, 8:00 PM",Research,-88.47,47.22
+Michigan,59,Tecumseh Site,"1,077",green ash,5.6,,5,No,No,Yes,21+,21+,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,080",green ash,5.8,,5,Yes,Yes,Yes,21+,21+,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,081",green ash,5.9,,4,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,082",green ash,8.6,,4,No,No,No,10-Jan,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,085",green ash,8.9,,5,No,No,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,087",green ash,4.5,,5,No,No,Yes,10-Jan,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,097",green ash,5.5,,4,No,No,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,100",green ash,6.9,,4,Yes,Yes,Yes,21+,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,105",green ash,4,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,112",green ash,5.2,,5,No,Yes,Yes,21+,21+,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,115",green ash,10.8,,5,No,Yes,Yes,21+,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,118",green ash,12,,5,No,Yes,No,21+,21+,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,119",green ash,9.3,,5,Yes,Yes,No,21+,21+,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,121",green ash,12.9,,5,No,Yes,Yes,21+,21+,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,125",green ash,9.1,,5,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,141",green ash,7.5,,5,No,Yes,Yes,20-Nov,20-Nov,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,142",green ash,7.3,,5,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,143",green ash,4,,5,No,No,Yes,20-Nov,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,144",green ash,5.1,,5,No,Yes,No,10-Jan,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,145",green ash,7.6,,4,No,No,No,10-Jan,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,147",green ash,6.7,,4,No,No,Yes,21+,10-Jan,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,148",green ash,10.3,,4,No,No,Yes,10-Jan,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,162",green ash,11.4,,4,No,No,No,20-Nov,10-Jan,No,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,165",green ash,9.2,,5,No,No,Yes,21+,20-Nov,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,59,Tecumseh Site,"1,166",green ash,10,,5,No,No,Yes,21+,20-Nov,Yes,"7/7/2010, 8:00 PM",Research,-88.46,47.22
+Michigan,"1,901",Turpeinen,"1,780",green ash,5.4,,3,No,No,No,10-Jan,21+,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,781",green ash,11.2,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,782",green ash,4,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,783",green ash,8.6,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,784",green ash,5,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,785",green ash,9,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,786",green ash,6.3,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,787",green ash,5.1,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,788",green ash,7.5,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,789",green ash,10.8,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,790",green ash,5,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,791",green ash,6.9,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,792",green ash,7.7,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,793",green ash,4,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,794",green ash,5,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,795",green ash,5.2,,3,No,No,No,20-Nov,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,796",green ash,5,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,797",green ash,4,,3,No,No,No,20-Nov,20-Nov,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,798",green ash,6,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,799",green ash,11.1,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.15
+Michigan,"1,901",Turpeinen,"1,800",green ash,6.3,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,801",green ash,5.7,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,802",green ash,6.6,,2,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.5,47.16
+Michigan,"1,901",Turpeinen,"1,803",green ash,16.2,,3,No,No,No,10-Jan,20-Nov,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,901",Turpeinen,"1,804",green ash,4.2,,3,No,No,No,10-Jan,10-Jan,No,"8/30/2011, 8:00 PM",Program,-88.49,47.16
+Michigan,"1,902",Gas Plant,"1,755",green ash,5,,3,No,No,No,20-Nov,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,756",green ash,6.3,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,757",green ash,9.2,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,758",green ash,6.1,,3,No,No,No,10-Jan,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,760",green ash,4.9,,3,No,No,No,20-Nov,21+,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,760",green ash,4.9,,3,No,No,No,20-Nov,21+,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,759",green ash,7.3,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,761",green ash,5.2,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,762",green ash,5.3,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,763",green ash,7.6,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,764",green ash,4.6,,3,No,No,No,20-Nov,21+,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,765",green ash,8.6,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,766",green ash,10.4,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,767",green ash,5.6,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,768",green ash,5.6,,3,No,No,No,10-Jan,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,769",green ash,5.8,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,770",green ash,7.5,,3,No,No,No,10-Jan,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,771",green ash,6.6,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,772",green ash,5.5,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,773",green ash,5.7,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,774",green ash,6.2,,3,No,No,No,10-Jan,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,775",green ash,8.7,,3,No,No,No,20-Nov,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,776",green ash,10,,3,No,No,No,10-Jan,20-Nov,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,777",green ash,5,,3,No,No,No,20-Nov,21+,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,778",green ash,5,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,902",Gas Plant,"1,779",green ash,6.8,,3,No,No,No,10-Jan,10-Jan,No,"8/25/2011, 8:00 PM",Program,-88.43,47.23
+Michigan,"1,898",South GMO,"1,730",green ash,12.7,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,731",green ash,9.6,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,732",green ash,8.1,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,733",green ash,10.9,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,734",green ash,11.8,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,735",green ash,10.7,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,736",green ash,8,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,737",green ash,10.4,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,738",green ash,15.5,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,739",green ash,11,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,740",green ash,11.3,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,741",green ash,10.1,,3,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,742",green ash,11,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,743",green ash,10.8,,3,No,No,No,20-Nov,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,744",green ash,8.2,,3,No,No,No,20-Nov,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,745",green ash,6.2,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,746",green ash,10.8,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,747",green ash,12.2,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,748",green ash,14.4,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,749",green ash,12.3,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,750",green ash,11,,3,No,No,No,20-Nov,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,751",green ash,11.6,,2,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,752",green ash,10.5,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,753",green ash,11.5,,3,No,No,No,0,20-Nov,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,898",South GMO,"1,754",green ash,9.2,,3,No,No,No,0,0,No,"8/7/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,896",Benda,"1,705",green ash,6.3,,3,No,No,No,0,21+,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,706",green ash,5.3,,3,No,No,No,20-Nov,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,707",green ash,4.9,,2,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,708",green ash,7.1,,2,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,709",green ash,5.1,,3,No,No,No,21+,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,710",green ash,4.5,,3,No,No,No,20-Nov,10-Jan,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,711",green ash,4.3,,3,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,712",green ash,7,,3,No,No,No,21+,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,713",green ash,7.8,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,714",green ash,8.1,,2,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,715",green ash,9.7,,3,No,No,Yes,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,716",green ash,4.4,,3,No,No,No,21+,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,896",Benda,"1,717",green ash,9.4,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,718",green ash,6.1,,2,No,No,No,20-Nov,10-Jan,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,719",green ash,5.2,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,720",green ash,4.8,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,721",green ash,4.3,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,722",green ash,4.6,,3,No,No,No,21+,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,723",green ash,4.3,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,724",green ash,4.7,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,725",green ash,8,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,726",green ash,4.2,,3,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,727",green ash,4.1,,3,No,No,No,0,0,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,728",green ash,8.4,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,896",Benda,"1,729",green ash,6.5,,3,No,No,No,20-Nov,20-Nov,No,"8/17/2011, 8:00 PM",Program,-88.44,47.22
+Michigan,"1,895",North GMO,"1,605",green ash,12.5,,3,No,No,Yes,21+,21+,Yes,"8/3/2011, 8:00 PM",Program,-88.46,47.22
+Michigan,"1,895",North GMO,"1,606",green ash,6.6,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.46,47.22
+Michigan,"1,895",North GMO,"1,607",green ash,5.6,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.46,47.22
+Michigan,"1,895",North GMO,"1,608",green ash,5.6,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.46,47.22
+Michigan,"1,895",North GMO,"1,609",green ash,8.4,,3,No,No,No,21+,20-Nov,Yes,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,610",green ash,5.5,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,611",green ash,5.4,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,612",green ash,5.9,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,613",green ash,6.6,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,614",green ash,8.2,,3,No,No,No,21+,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,615",green ash,7.2,,3,No,No,No,10-Jan,10-Jan,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,616",green ash,9.5,,3,No,No,No,21+,10-Jan,Yes,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,617",green ash,7,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,618",green ash,7.7,,3,No,No,No,20-Nov,10-Jan,Yes,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,619",green ash,7.6,,3,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,620",green ash,9.4,,2,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,621",green ash,6.2,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,622",green ash,8.5,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,623",green ash,8.2,,2,No,No,No,0,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,624",green ash,8.1,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,625",green ash,8,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,626",green ash,9.3,,3,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,627",green ash,9,,3,No,No,No,21+,20-Nov,Yes,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,628",green ash,7.3,,3,No,No,No,20-Nov,10-Jan,No,"8/3/2011, 8:00 PM",Program,-88.45,47.22
+Michigan,"1,895",North GMO,"1,629",green ash,10.5,,3,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.46,47.22
+Michigan,"1,899",Rastello,"1,680",green ash,8.5,,3,No,No,No,0,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,681",green ash,11.8,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,682",green ash,6.1,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,683",green ash,6.5,,3,No,No,No,20-Nov,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,684",green ash,5.9,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,685",green ash,11,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,686",green ash,7.3,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,687",green ash,5.6,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,688",green ash,13.5,,3,No,No,No,0,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,689",green ash,12.6,,3,No,No,No,0,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,690",green ash,7.4,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,691",green ash,6.6,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,692",green ash,11.7,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,693",green ash,5.2,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,694",green ash,7.6,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,695",green ash,7.4,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,696",green ash,7.4,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,697",green ash,6.2,,3,No,No,No,0,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,698",green ash,7.6,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,699",green ash,8.9,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,700",green ash,10.8,,3,No,No,No,20-Nov,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,701",green ash,8.2,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,702",green ash,6.6,,3,No,No,No,10-Jan,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,703",green ash,7,,3,No,No,No,10-Jan,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,899",Rastello,"1,704",green ash,6.7,,3,No,No,No,10-Jan,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.47,47.21
+Michigan,"1,897",Gale,"1,655",green ash,16.2,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,656",green ash,11.6,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,657",green ash,7.5,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,658",green ash,7.9,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,659",green ash,16.7,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,660",green ash,6.3,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,661",green ash,7.8,,3,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,662",green ash,5.8,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,663",green ash,6.9,,3,No,No,No,20-Nov,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,664",green ash,5.3,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,665",green ash,5.8,,3,No,No,No,0,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,666",green ash,7.4,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,667",green ash,8.1,,3,No,No,No,20-Nov,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,668",green ash,6.3,,3,No,No,No,20-Nov,20-Nov,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,669",green ash,8.2,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,670",green ash,7.2,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,671",green ash,7.9,,3,No,No,No,20-Nov,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,672",green ash,7.8,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,673",green ash,8.1,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,674",green ash,8.2,,3,No,No,No,20-Nov,10-Jan,Yes,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,675",green ash,5.8,,3,No,No,No,20-Nov,10-Jan,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,676",green ash,6.8,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,677",green ash,6.1,,3,No,No,No,0,20-Nov,Yes,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,678",green ash,9.3,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,897",Gale,"1,679",green ash,7.7,,2,No,No,No,0,0,No,"8/10/2011, 8:00 PM",Program,-88.46,47.2
+Michigan,"1,900",Pit,"1,630",green ash,10.1,,3,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,631",green ash,7.9,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,632",green ash,7.1,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,633",green ash,13.3,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,634",green ash,9.5,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,635",green ash,9.9,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,636",green ash,10.7,,3,No,No,No,20-Nov,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,637",green ash,11.4,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,638",green ash,8.2,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,639",green ash,7.4,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,640",green ash,7.1,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,641",green ash,12.6,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,642",green ash,9.5,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,643",green ash,14.8,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,644",green ash,10.4,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,645",green ash,10.3,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,646",green ash,8.8,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,647",green ash,11.6,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,648",green ash,11.4,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,649",green ash,7.9,,3,No,No,No,0,20-Nov,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,650",green ash,11.3,,2,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,651",green ash,16,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,652",green ash,9,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,653",green ash,7.8,,3,No,No,No,0,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,"1,900",Pit,"1,654",green ash,6.6,,3,No,No,No,20-Nov,0,No,"8/3/2011, 8:00 PM",Program,-88.49,47.18
+Michigan,61,Delta Co. Park Site,"7,201",green ash,6.5,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,202",green ash,4.4,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,203",green ash,4.6,,4,Yes,Yes,Yes,10-Jan,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,204",green ash,3.8,,4,Yes,Yes,Yes,10-Jan,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,205",green ash,8,,5,Yes,Yes,Yes,10-Jan,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,206",green ash,8.9,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,207",green ash,4.7,,5,Yes,Yes,Yes,10-Jan,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,208",green ash,7.6,,5,Yes,Yes,Yes,10-Jan,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,209",green ash,10.3,,5,Yes,Yes,Yes,20-Nov,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,210",green ash,5.7,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,211",green ash,5,,2,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,212",green ash,4.5,,4,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,213",green ash,4.4,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,214",green ash,2.6,,4,Yes,Yes,No,10-Jan,10-Jan,No,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,215",green ash,8.2,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,216",green ash,6,,5,Yes,No,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,217",green ash,9.6,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,218",green ash,10.5,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,219",green ash,9.1,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,220",green ash,4.7,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,221",green ash,10,,5,Yes,No,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,222",green ash,3.8,,3,No,No,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,223",green ash,8.6,,4,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,224",green ash,7.8,,3,No,No,Yes,10-Jan,10-Jan,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,61,Delta Co. Park Site,"7,225",green ash,7,,5,Yes,Yes,Yes,0,0,Yes,"8/7/2011, 8:00 PM",Research,-86.56,45.91
+Michigan,62,State Land Powerline,"7,226",green ash,6.4,,5,No,No,Yes,0,0,No,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,227",green ash,6.1,,5,No,No,Yes,0,0,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,228",green ash,9.8,,5,No,Yes,Yes,0,0,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,229",green ash,5.3,,3,No,Yes,No,10-Jan,10-Jan,No,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,230",green ash,8.7,,4,No,Yes,No,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,231",green ash,5.9,,4,No,No,No,10-Jan,10-Jan,No,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,232",green ash,9.1,,4,No,No,Yes,10-Jan,20-Nov,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,233",green ash,6.8,,4,No,No,Yes,0,0,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,234",green ash,6.9,,4,No,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,235",green ash,7.2,,4,No,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,236",green ash,8.5,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,237",green ash,7.2,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,238",green ash,7,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,239",green ash,7.7,,5,Yes,Yes,Yes,0,0,Yes,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,62,State Land Powerline,"7,240",green ash,5.5,,5,No,No,Yes,10-Jan,10-Jan,No,"8/4/2011, 8:00 PM",Research,-86.51,45.87
+Michigan,"1,947",Sharp,"7,241",green ash,4.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,242",green ash,3.9,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,243",green ash,9.5,,2,Yes,No,Yes,20-Nov,20-Nov,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,244",green ash,7.3,,2,Yes,No,Yes,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,245",green ash,10.1,,3,Yes,Yes,Yes,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,246",green ash,12,,3,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,247",green ash,6.7,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,248",green ash,6.4,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,249",green ash,6.4,,3,Yes,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,250",green ash,6.1,,3,Yes,No,No,0,0,Yes,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,251",green ash,5.9,,2,No,No,Yes,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,252",green ash,7,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,253",green ash,4.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,254",green ash,5.3,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,255",green ash,7.2,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,256",green ash,5,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,257",green ash,4.7,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,258",green ash,8.8,,3,No,No,No,0,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,259",green ash,5.2,,3,No,No,No,0,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,260",green ash,7.1,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,261",green ash,7.5,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,262",green ash,7,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,263",green ash,5.7,,3,No,No,No,10-Jan,10-Jan,Yes,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,264",green ash,8.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,947",Sharp,"7,265",green ash,8.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.56,45.81
+Michigan,"1,953",Forest of the Future,"7,291",green ash,6.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,292",green ash,9.5,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,293",green ash,9,,2,No,No,No,20-Nov,20-Nov,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,294",green ash,8.9,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,295",green ash,8,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,296",green ash,7.5,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,297",green ash,8.1,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,298",green ash,7.5,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,299",green ash,9.9,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,300",green ash,18,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,301",green ash,4.6,,2,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,302",green ash,8.4,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,303",green ash,9.2,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,304",green ash,11.3,,2,No,Yes,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,305",green ash,11.4,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,306",green ash,9.3,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,307",green ash,11.7,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,308",green ash,10.3,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,309",green ash,13.8,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,310",green ash,7.6,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,311",green ash,5.1,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,312",green ash,9.8,,3,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,313",green ash,9.3,,2,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,314",green ash,12.9,,3,No,No,No,10-Jan,10-Jan,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,953",Forest of the Future,"7,315",green ash,4.5,,2,No,No,No,0,0,No,"8/18/2011, 8:00 PM",Program,-86.6,45.91
+Michigan,"1,951",State of Mi,"7,266",green ash,5.4,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,267",green ash,11.7,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,268",green ash,3.7,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,269",green ash,7.9,,3,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,270",green ash,9,,3,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,271",green ash,6,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,272",green ash,7.1,,3,No,No,No,10-Jan,10-Jan,Yes,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,273",green ash,9.2,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,274",green ash,9,,3,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,275",green ash,5.4,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,276",green ash,10.7,,3,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,277",green ash,4.8,,3,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,278",green ash,5.5,,3,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,279",green ash,7.8,,3,No,No,No,0,20-Nov,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,280",green ash,3.4,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,281",green ash,7.6,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,282",green ash,14.6,,3,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,283",green ash,4.7,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,284",green ash,5.9,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,285",green ash,5.4,,3,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,286",green ash,4.9,,2,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,287",green ash,5.5,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,288",green ash,7.8,,3,No,No,No,10-Jan,10-Jan,Yes,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,289",green ash,7.3,,3,No,No,No,0,0,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"1,951",State of Mi,"7,290",green ash,5,,2,No,No,No,10-Jan,10-Jan,No,"8/23/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"2,015",Gravel Pit,"7,367",green ash,5.4,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"2,015",Gravel Pit,"7,375",green ash,6.5,,2,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"2,015",Gravel Pit,"7,380",green ash,9.4,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.47,45.9
+Michigan,"2,018",Plum Creek,"7,316",green ash,5.6,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,317",green ash,7.2,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,318",green ash,4.8,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,319",green ash,4.4,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,320",green ash,7,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,321",green ash,4.8,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,322",green ash,7.5,,3,No,Yes,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,323",green ash,5.1,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,324",green ash,5.5,,2,No,Yes,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,325",green ash,4.3,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,326",green ash,5.9,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,327",green ash,4.4,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,328",green ash,4.9,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,329",green ash,6,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,330",green ash,5,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,331",green ash,7.6,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,332",green ash,5.8,,3,No,Yes,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,333",green ash,4.8,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,334",green ash,5.5,,2,No,Yes,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,335",green ash,9.8,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,336",green ash,6.3,,3,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,337",green ash,6.2,,3,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,338",green ash,6.4,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,339",green ash,7.8,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,018",Plum Creek,"7,340",green ash,5.2,,3,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.46,45.88
+Michigan,"2,020",Gravel Pit,"7,366",green ash,10.1,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,367",green ash,5.4,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,368",green ash,4,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,369",green ash,4.4,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,370",green ash,7.2,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,371",green ash,5.9,,2,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,372",green ash,5.7,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,373",green ash,7.6,,3,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,374",green ash,9.1,,3,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,375",green ash,6.5,,2,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,376",green ash,5,,3,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,377",green ash,6.8,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,378",green ash,5.7,,2,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,379",green ash,7.3,,3,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,380",green ash,9.4,,2,No,No,No,10-Jan,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,381",green ash,6.3,,3,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,382",green ash,8.9,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,383",green ash,10.9,,2,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,384",green ash,10,,3,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,385",green ash,5.7,,2,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,386",green ash,10.2,,2,No,No,No,20-Nov,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,387",green ash,6.3,,3,No,No,No,0,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,388",green ash,5.7,,3,No,No,No,0,10-Jan,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,389",green ash,4.1,,2,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,020",Gravel Pit,"7,390",green ash,7.6,,2,No,No,No,10-Jan,0,No,"8/31/2011, 8:00 PM",Program,-86.64,45.89
+Michigan,"2,029",MUNN,"2,027",white ash,24.2,20 oobs,3,No,Yes,No,0,0,Yes,"6/14/2012, 11:47 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,026",white ash,25.6,20 oobs,2,Yes,Yes,Yes,10-Jan,0,No,"6/14/2012, 11:45 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,025",white ash,21.6,20 oobs,1,No,No,No,0,0,No,"6/14/2012, 11:43 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,024",white ash,17,20 oobs,1,No,No,No,0,0,No,"6/14/2012, 11:41 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,023",white ash,14.6,20 oobs,1,No,No,No,0,0,No,"6/14/2012, 11:38 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,022",white ash,12.5,10 oobs,1,No,No,No,0,0,No,"6/14/2012, 11:34 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,100",white ash,16.9,20 oobs,3,No,Yes,No,0,0,No,"6/14/2012, 11:31 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,073",white ash,11,20 oobs,4,No,No,No,0,0,No,"6/14/2012, 11:30 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,548",white ash,7.6,10 oobs,2,No,Yes,No,0,0,No,"6/14/2012, 11:28 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,021",white ash,11,10 oobs aand 10 on 2020 and 2019,4,No,No,No,10-Jan,0,No,"6/14/2012, 11:25 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,020",white ash,16.7,20 oobs,4,No,Yes,No,10-Jan,0,No,"6/14/2012, 11:23 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"2,019",white ash,18.4,20 oobs,4,Yes,Yes,No,10-Jan,0,No,"6/14/2012, 11:18 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,072",white ash,13,20 oobs,4,No,Yes,No,21+,10-Jan,No,"6/14/2012, 11:12 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,697",white ash,15.1,20 oobs,2,No,No,No,0,0,No,"6/14/2012, 11:06 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,698",white ash,11.2,20 oobs,3,No,Yes,Yes,10-Jan,0,Yes,"6/14/2012, 11:03 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,555",white ash,12,20 oobs,4,Yes,Yes,Yes,21+,0,Yes,"6/14/2012, 10:54 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,549",white ash,17,oobs 20,4,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"6/14/2012, 10:50 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,645",white ash,19.7,20 oobs,4,Yes,Yes,Yes,20-Nov,0,Yes,"6/14/2012, 10:46 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,645",white ash,19.7,,4,Yes,Yes,Yes,20-Nov,0,Yes,"6/14/2012, 10:43 AM",Research,-84.52,42.69
+Michigan,"2,029",MUNN,"1,645",white ash,19.7,20 00bs release,4,Yes,Yes,Yes,20-Nov,0,Yes,"6/14/2012, 10:16 AM",Research,-84.52,42.69
+Michigan,"1,830",SLW,"1,680",white ash,31,40 OOBS,4,No,Yes,Yes,0,0,Yes,"6/21/2012, 4:31 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,679",white ash,22.5,20 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 4:29 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,678",white ash,13.8,10 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 4:27 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,677",white ash,20.4,20 OOBS,1,No,Yes,No,10-Jan,10-Jan,No,"6/21/2012, 4:22 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,676",white ash,11,20 OOBS,1,No,Yes,Yes,10-Jan,10-Jan,Yes,"6/21/2012, 4:18 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,675",white ash,18.5,,2,No,Yes,No,0,0,No,"6/21/2012, 4:09 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,674",white ash,8,10 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 4:06 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,673",white ash,18.2,20 OOBS,3,No,Yes,Yes,10-Jan,10-Jan,Yes,"6/21/2012, 4:03 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,672",white ash,17,20 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 4:00 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,671",white ash,12.2,20 OOBS,3,No,Yes,No,0,0,No,"6/21/2012, 3:56 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,670",white ash,12.2,20 OOBS,3,No,Yes,No,0,0,No,"6/21/2012, 3:53 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,669",white ash,11.2,20 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 3:50 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,668",white ash,23.1,30 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 3:47 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,667",white ash,11,20 OOBS,3,No,No,No,10-Jan,10-Jan,No,"6/21/2012, 3:45 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,666",white ash,13.5,20 OOBS,2,No,Yes,No,0,0,No,"6/21/2012, 3:41 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,665",white ash,11,20 OOBS,3,No,Yes,No,10-Jan,10-Jan,No,"6/21/2012, 3:38 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,664",white ash,12.4,20 OOBS,4,No,Yes,Yes,0,0,No,"6/21/2012, 3:34 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,663",white ash,12.8,20 OOBS,4,No,No,No,0,10-Jan,No,"6/21/2012, 3:31 PM",Research,-83.66,42.82
+Michigan,"1,830",SLW,"1,662",green ash,13.2,20 OOBS,4,No,Yes,No,0,0,No,"6/21/2012, 3:28 PM",Research,-83.66,42.82
+Michigan,"2,104",SL,"1,661",white ash,10.4,20 OOBS,1,No,No,No,0,0,No,"6/21/2012, 2:58 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,660",white ash,7.6,10 OOBS,1,No,Yes,No,0,0,No,"6/21/2012, 2:53 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,659",white ash,8,10 OOBS,1,No,No,No,0,0,No,"6/21/2012, 2:45 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,658",white ash,11.8,20 OOBS,3,No,No,No,10-Jan,0,Yes,"6/21/2012, 2:37 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,657",white ash,16.5,20OOB,1,Yes,Yes,No,0,0,No,"6/21/2012, 2:29 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,656",white ash,10.7,20OOB,3,No,Yes,Yes,10-Jan,10-Jan,Yes,"6/21/2012, 2:18 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,655",white ash,16,,1,No,Yes,Yes,0,10-Jan,Yes,"6/21/2012, 2:11 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,651",white ash,13.5,,1,No,Yes,Yes,0,0,No,"6/21/2012, 2:07 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,648",white ash,18,,1,No,No,No,0,0,No,"6/21/2012, 2:05 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,649",white ash,12.5,,1,No,Yes,No,0,0,No,"6/21/2012, 2:03 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,647",white ash,12.5,,1,No,Yes,No,0,0,No,"6/21/2012, 2:00 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,654",white ash,10.2,,1,No,Yes,No,0,0,No,"6/21/2012, 1:57 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,653",white ash,10,,1,No,No,No,0,0,No,"6/21/2012, 1:53 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,652",white ash,13.2,20 OOBS 2006 OOB POP,2,No,No,No,0,10-Jan,No,"6/21/2012, 1:49 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,650",white ash,14,20 OOBS 2009 OOB POP,3,No,Yes,No,0,10-Jan,No,"6/21/2012, 1:42 PM",Research,-83.66,42.81
+Michigan,"2,104",SL,"1,646",white ash,11,10 OOBS 2006 OOB POP,2,No,Yes,No,10-Jan,0,No,"6/21/2012, 1:34 PM",Research,-83.66,42.81
+Michigan,"2,095",ALLSGA2,"1,764",green ash,66.5,7-9-12B 201 OOBS OOBINATORS,3,No,No,Yes,10-Jan,21+,Yes,"7/26/2012, 8:40 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,775",green ash,29.9,7-10-12N 200 OOBS OOBINATORS,1,No,No,No,0,0,Yes,"7/26/2012, 8:29 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,774",green ash,29.2,7-9-12E 205 OOBS OOBINATORS,3,No,No,No,10-Jan,10-Jan,Yes,"7/26/2012, 8:23 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,775",green ash,38.9,7-9-12A 200 OOBS OOBINATORS,1,No,No,No,0,0,No,"7/26/2012, 8:16 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,772",green ash,57.2,7-10-12M 201 OOBS OOBINATORS,3,No,No,No,10-Jan,20-Nov,Yes,"7/26/2012, 8:08 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,771",green ash,22.7,7-10-12O 200 OOBS OOBINATORS,2,No,No,No,10-Jan,10-Jan,No,"7/26/2012, 8:00 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,770",green ash,22.1,7-10-12L 201 OOBS OOBINATORS,3,No,No,No,21+,10-Jan,Yes,"7/26/2012, 7:50 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,779",green ash,73,7-9-12C 200 OOBS OOBINATORS,3,No,No,No,0,10-Jan,Yes,"7/26/2012, 7:43 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,778",green ash,21.4,OOBINATORS 7-10-12J 200 OOBS,1,No,No,No,0,10-Jan,No,"7/26/2012, 7:35 AM",Research,-86,42.61
+Michigan,"2,095",ALLSGA2,"1,777",green ash,32.5,7-10-12 K 200 OOBS OOBINATORS,2,No,No,Yes,10-Jan,10-Jan,Yes,"7/26/2012, 7:27 AM",Research,-86,42.61
+Michigan,"2,094",ALLSGA,"1,769",green ash,37.2,7-11-12B 114 OOBS,2,No,No,No,10-Jan,10-Jan,Yes,"7/26/2012, 6:16 AM",Research,-85.98,42.6
+Michigan,"2,094",ALLSGA,"1,768",green ash,22,OOBINATORS 7-10-12F 200 OOBS,2,No,No,No,10-Jan,10-Jan,Yes,"7/26/2012, 6:06 AM",Research,-85.98,42.6
+Michigan,"2,094",ALLSGA,"1,767",green ash,71,OOBINATORS 7-10-12E 200 OOBS,3,No,No,Yes,0,20-Nov,Yes,"7/26/2012, 5:57 AM",Research,-85.98,42.6
+Michigan,"2,094",ALLSGA,"1,766",green ash,32.2,OOBINATORS 7-11-12A 141 OOBS,3,No,No,No,20-Nov,20-Nov,Yes,"7/26/2012, 5:47 AM",Research,-85.98,42.6
+Michigan,"2,094",ALLSGA,"1,765",green ash,37.5,OOBINATORS 7-9-12D 203 3PM 80F CLOUDY HUMID NORTH OF TREE,1,No,No,No,20-Nov,20-Nov,No,"7/26/2012, 5:33 AM",Research,-85.98,42.6
+Michigan,"2,092",ROG_SGAN,"1,839",black ash,18.5,30 OOBS,1,No,No,No,0,0,No,"7/21/2012, 8:50 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,838",black ash,37.2,52 OOBS,3,No,No,No,0,0,No,"7/21/2012, 8:46 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,837",black ash,11,40 OOBS SPREAD ON ON 3 SIMILAR SUCKERS : EACH 11.0 CM,1,No,No,No,0,0,No,"7/21/2012, 8:41 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,826",black ash,27.3,50 OOBS,1,No,No,No,0,0,No,"7/21/2012, 8:35 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,835",black ash,15,25 OOBS,3,No,No,No,0,0,No,"7/21/2012, 8:28 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,834",black ash,21,4 OOBS,2,No,No,No,0,0,Yes,"7/21/2012, 8:22 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,833",green ash,23,45 OOBS,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/21/2012, 8:16 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,832",black ash,9,15 OOBS,1,No,No,No,0,0,No,"7/21/2012, 8:12 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,831",black ash,16.5,30 OOBS,1,No,No,Yes,0,0,No,"7/21/2012, 8:07 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,830",black ash,18.5,30 OOBS,2,No,Yes,No,10-Jan,10-Jan,No,"7/21/2012, 8:05 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,829",black ash,13.5,20 OOBS,3,No,No,No,10-Jan,20-Nov,No,"7/21/2012, 8:01 AM",Research,-85.69,43.25
+Michigan,"2,092",ROG_SGAN,"1,828",green ash,25.8,40 OOBS,2,No,No,No,0,0,No,"7/21/2012, 7:58 AM",Research,-85.69,43.25
+Michigan,"2,093",ROG_SGA,"1,827",black ash,28.5,35 OOBS,1,No,No,No,0,0,No,"7/21/2012, 7:32 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,826",black ash,17.5,25 OOBS,4,No,No,No,10-Jan,10-Jan,Yes,"7/21/2012, 7:29 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,825",green ash,23.5,OOBS,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/21/2012, 7:24 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,824",black ash,19.7,30 OOBS,4,No,No,No,0,0,No,"7/21/2012, 7:18 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,823",black ash,19,30 OOBS,3,No,No,No,0,20-Nov,Yes,"7/21/2012, 7:07 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,822",black ash,11.5,30,2,No,No,No,10-Jan,10-Jan,No,"7/21/2012, 7:01 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,821",green ash,10.8,25 OOBS,3,No,No,No,10-Jan,20-Nov,No,"7/21/2012, 6:55 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,820",black ash,18.3,35 OOBS,3,No,No,No,10-Jan,10-Jan,No,"7/21/2012, 6:51 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,819",black ash,15.3,,2,No,No,No,0,0,No,"7/21/2012, 6:48 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,818",black ash,35.7,OOBS,3,No,No,No,0,20-Nov,No,"7/21/2012, 6:44 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,817",black ash,13,25 OOBS,3,No,No,No,0,10-Jan,No,"7/21/2012, 6:40 AM",Research,-85.7,43.25
+Michigan,"2,093",ROG_SGA,"1,816",black ash,17,35 OOBS,3,No,No,No,0,10-Jan,No,"7/21/2012, 6:39 AM",Research,-85.7,43.25
+Michigan,"1,774",MRWEST,"1,815",green ash,15.5,10 OOBS,1,No,No,No,0,0,No,"7/14/2012, 7:15 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,814",green ash,19.5,15 OOBS,1,No,No,No,0,0,No,"7/14/2012, 7:12 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,813",green ash,26.5,20 OOBS,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/14/2012, 7:08 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,812",green ash,36.5,30 OOBS,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/14/2012, 7:04 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,811",green ash,43,40 OOBS,3,No,No,Yes,20-Nov,20-Nov,Yes,"7/14/2012, 6:57 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,810",green ash,41.4,40 OOBS,2,No,No,No,0,10-Jan,No,"7/14/2012, 6:52 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,809",green ash,31.5,30 OOBS,3,No,No,Yes,21+,20-Nov,Yes,"7/14/2012, 6:46 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,808",green ash,46.5,50 OOBS,3,No,No,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 6:42 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,807",green ash,30.3,30 OOBS,3,No,No,Yes,21+,20-Nov,Yes,"7/14/2012, 6:36 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,806",green ash,48.3,40 OOBS,3,No,No,No,20-Nov,20-Nov,Yes,"7/14/2012, 6:30 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,805",green ash,33,,3,No,No,Yes,21+,20-Nov,Yes,"7/14/2012, 6:25 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,804",green ash,47.8,50 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"7/14/2012, 6:20 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,802",green ash,47,45 OOBS,3,No,No,No,10-Jan,10-Jan,No,"7/14/2012, 6:17 AM",Research,-84.87,43.03
+Michigan,"1,774",MRWEST,"1,801",green ash,19,20 OOBS,3,No,No,No,20-Nov,20-Nov,Yes,"7/14/2012, 6:15 AM",Research,-84.87,43.03
+Michigan,"2,098",PLSGA,"1,780",white ash,33.7,30 OOBS + 20 OOBS @10 OOBS/TREE,2,No,No,No,10-Jan,0,No,"7/14/2012, 4:46 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,781",white ash,14,10 OOBS,1,No,Yes,Yes,10-Jan,0,No,"7/14/2012, 4:42 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,782",white ash,13.7,10 OOBS,1,No,Yes,No,0,0,No,"7/14/2012, 4:39 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,783",white ash,12,10 OOBS,1,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 4:35 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,784",white ash,30.7,30 OOBS,3,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"7/14/2012, 4:31 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,785",white ash,14,10 OOBS,2,Yes,Yes,Yes,10-Jan,0,No,"7/14/2012, 4:28 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,786",white ash,14.5,10 OOBS,1,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 4:21 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,787",white ash,11.5,10 OOBS,1,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 4:17 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,788",white ash,19.5,20 OOBS,2,No,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 4:07 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,789",white ash,24.5,20 OOBS,2,No,Yes,Yes,10-Jan,0,Yes,"7/14/2012, 4:04 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,790",white ash,23.3,30 OOBS,3,Yes,Yes,Yes,10-Jan,0,Yes,"7/14/2012, 3:59 AM",Research,-84.93,42.82
+Michigan,"2,098",PLSGA,"1,791",white ash,11.8,10 OOBS + 100 OOBS@ 10/TREE IN GENERAL AREA,1,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 3:48 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,792",white ash,14.2,20 OOBS,1,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"7/14/2012, 3:45 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,793",white ash,37.8,40 OOBS,3,No,No,No,0,0,Yes,"7/14/2012, 3:39 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,794",white ash,11.7,10 OOBS,3,Yes,Yes,Yes,10-Jan,0,Yes,"7/14/2012, 3:34 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,795",white ash,15.5,20 OOBS,2,No,No,No,10-Jan,10-Jan,No,"7/14/2012, 3:31 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,796",white ash,24.5,40 OOBS SPLIT ONTO MAIN TRUNK+2 SUCKERS 10-15 CM DBH,2,No,No,No,20-Nov,0,No,"7/14/2012, 3:25 AM",Research,-84.93,42.81
+Michigan,"2,098",PLSGA,"1,798",white ash,25,20 OOBS,3,No,Yes,Yes,0,0,Yes,"7/14/2012, 3:22 AM",Research,-84.93,42.81
+Michigan,"2,097",FRSGA_R,"1,711",black ash,14.4,20 OOBS +REMAINING DISPERSED ON 17 UNTAGGED BLACK ASH@ CA. 10/TREE,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"7/4/2012, 8:11 AM",Research,-85.14,43.13
+Michigan,"2,097",FRSGA_R,"1,713",black ash,17,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"7/4/2012, 8:06 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,710",white ash,20.8,20 OOBS,2,Yes,No,Yes,10-Jan,10-Jan,Yes,"7/4/2012, 8:00 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,709",white ash,36,40 OOBS,2,No,No,No,0,0,No,"7/4/2012, 7:53 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,708",white ash,49,50 OOBS,1,No,No,Yes,0,0,Yes,"7/4/2012, 7:48 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,707",black ash,17.5,20 OOBS,2,No,No,Yes,10-Jan,10-Jan,Yes,"7/4/2012, 7:37 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,703",black ash,15.5,20 OOBS,3,Yes,Yes,Yes,20-Nov,10-Jan,Yes,"7/4/2012, 7:33 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,704",black ash,15.5,10 OOBS,3,No,No,No,20-Nov,10-Jan,Yes,"7/4/2012, 7:32 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,702",black ash,20.5,20 OOBS,3,No,No,Yes,20-Nov,10-Jan,Yes,"7/4/2012, 7:27 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,706",black ash,12.5,10 OOBS,3,No,No,No,21+,10-Jan,No,"7/4/2012, 7:25 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,705",black ash,14.5,!20 OOBS,2,No,No,No,10-Jan,10-Jan,Yes,"7/4/2012, 7:18 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,701",black ash,17.2,20 OOBS,4,No,No,No,21+,20-Nov,Yes,"7/4/2012, 7:11 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,699",black ash,26.5,30 OOBS,4,No,No,Yes,10-Jan,10-Jan,Yes,"7/4/2012, 7:01 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,695",black ash,24.5,30 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"7/4/2012, 6:59 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,638",black ash,18.1,20 OOBS,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"7/4/2012, 6:52 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,696",black ash,19.4,20 OOBS,4,No,No,No,21+,10-Jan,Yes,"7/4/2012, 6:47 AM",Research,-85.13,43.13
+Michigan,"2,097",FRSGA_R,"1,700",black ash,20,20 OOBS,1,No,No,No,20-Nov,20-Nov,No,"7/4/2012, 6:39 AM",Research,-85.13,43.13
+Michigan,"2,096",AS_S,"1,681",green ash,22,20 OOBS,2,No,No,Yes,20-Nov,10-Jan,Yes,"6/30/2012, 7:13 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,694",black ash,22.5,20 OOBS,4,No,Yes,Yes,10-Jan,0,Yes,"6/30/2012, 7:02 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,693",black ash,27.5,40 OOBS + 160 MORE OOBS @ 10/TREE,2,No,No,No,10-Jan,0,Yes,"6/30/2012, 6:48 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,692",black ash,22,30 OOBS,4,No,No,Yes,20-Nov,10-Jan,Yes,"6/30/2012, 6:43 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,691",black ash,21,30 OOBS EAB OVI,4,Yes,No,Yes,10-Jan,0,Yes,"6/30/2012, 6:39 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,690",black ash,17,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"6/30/2012, 6:35 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,689",green ash,16.5,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"6/30/2012, 6:30 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,688",green ash,34.5,40 OOBS,4,No,No,Yes,10-Jan,10-Jan,Yes,"6/30/2012, 6:22 AM",Research,-84.5,43.53
+Michigan,"2,096",AS_S,"1,687",green ash,13.5,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"6/30/2012, 6:17 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,686",green ash,32,20 OOBS,4,No,No,Yes,10-Jan,10-Jan,Yes,"6/30/2012, 6:09 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,685",green ash,21,20 OOBS,3,No,No,No,10-Jan,0,No,"6/30/2012, 6:04 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,684",green ash,19.5,20 OOBS,3,No,No,No,20-Nov,10-Jan,Yes,"6/30/2012, 5:54 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,683",green ash,16,20 OOBS,2,No,No,No,10-Jan,10-Jan,No,"6/30/2012, 5:51 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,682",green ash,22,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"6/30/2012, 5:45 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,682",green ash,22,20 OOBS,3,No,No,No,10-Jan,10-Jan,Yes,"6/30/2012, 5:33 AM",Research,-84.51,43.53
+Michigan,"2,096",AS_S,"1,681",green ash,26,30 OOBS,3,No,No,No,20-Nov,10-Jan,Yes,"6/30/2012, 5:18 AM",Research,-84.51,43.53
+Michigan,57,BI,"1,276",black ash,19,30+10 tets 20 OOBS+162F/71MTETS+50F_12MSPATS,4,No,No,Yes,0,0,No,"7/22/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,902",pumpkin ash,27,20 OOBS+40+20Tets+,4,No,No,No,0,0,No,"7/31/2010, 8:00 PM",Research,-82.97,42.34
+Michigan,57,BI,"1,276",pumpkin ash,8,30+10 tets,3,No,No,No,0,0,No,"7/22/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,908",pumpkin ash,28,20 OOBS+40+10Tets+,4,No,No,Yes,21+,21+,Yes,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,906",pumpkin ash,29,20 OOBS+40*10Tets,3,Yes,Yes,Yes,21+,21+,Yes,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,907",pumpkin ash,26,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,905",pumpkin ash,30,20 OOBS+30+10Tets,3,No,No,No,20-Nov,20-Nov,No,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,908",pumpkin ash,8,30+10TETS,2,No,No,No,0,0,No,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,57,BI,"1,901",pumpkin ash,10,20 OOB+60F+10MTETS,2,No,No,No,10-Jan,10-Jan,No,"7/31/2010, 8:00 PM",Research,-82.97,42.35
+Michigan,"2,102",HNFE,"2,901",black ash,17.8,,3,No,Yes,Yes,20-Nov,10-Jan,Yes,"7/31/2012, 8:00 PM",Research,-83.46,44.58
+Michigan,"2,102",HNFE,"2,904",black ash,14,,3,No,Yes,No,10-Jan,0,Yes,"7/31/2012, 8:00 PM",Research,-83.47,44.58
+Michigan,"2,102",HNFE,"2,906",black ash,17.8,,2,No,Yes,No,10-Jan,0,No,"7/31/2012, 8:00 PM",Research,-83.46,44.58
+Michigan,"2,102",HNFE,"2,907",black ash,22.6,,2,No,No,No,20-Nov,10-Jan,No,"7/31/2012, 8:00 PM",Research,-83.46,44.58
+Michigan,"1,992",Empire Bluff Trail,1,green ash,17.02,,3,Yes,Yes,No,10-Jan,20-Nov,No,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,2,white ash,18.03,,4,Yes,Yes,Yes,20-Nov,21+,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,3,white ash,21.84,,4,Yes,No,No,0,21+,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,4,white ash,24.42,,2,No,Yes,No,0,20-Nov,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,5,white ash,14.22,,3,Yes,Yes,No,10-Jan,20-Nov,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,6,white ash,21.08,,3,No,Yes,No,0,20-Nov,No,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,7,white ash,22.86,,2,No,Yes,No,0,21+,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,8,white ash,12.5,,3,Yes,No,Yes,20-Nov,21+,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,9,green ash,6.4,,3,No,Yes,No,0,10-Jan,No,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,10,green ash,17,,3,No,Yes,No,10-Jan,20-Nov,Yes,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,11,white ash,13,,3,No,Yes,No,0,21+,No,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,992",Empire Bluff Trail,12,green ash,24,,4,No,Yes,No,0,21+,No,"8/23/2012, 8:00 PM",Program,-86.07,44.8
+Michigan,"1,983",Old Indian Trail,1,white ash,20,,3,No,Yes,Yes,10-Jan,10-Jan,No,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,2,white ash,15,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,3,black ash,8,,4,Yes,Yes,No,0,10-Jan,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,4,green ash,10,,4,No,Yes,No,10-Jan,10-Jan,No,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,5,white ash,13,,3,No,Yes,No,0,10-Jan,No,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,7,black ash,13,,2,Yes,No,No,0,10-Jan,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,6,green ash,18,,3,No,No,Yes,10-Jan,10-Jan,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,8,green ash,18,,2,No,No,No,0,10-Jan,No,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,9,white ash,14,,3,Yes,Yes,Yes,10-Jan,20-Nov,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,10,green ash,25,,3,No,Yes,Yes,20-Nov,20-Nov,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,11,white ash,30,,2,No,No,No,0,10-Jan,No,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"1,983",Old Indian Trail,12,black ash,18,,4,No,Yes,Yes,20-Nov,21+,Yes,"8/12/2012, 8:00 PM",Program,-86.18,44.7
+Michigan,"2,010",Otter Creek/Platte Plain,1,white ash,17,,2,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,2,white ash,16,,3,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.07,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,3,white ash,9.2,,2,Yes,No,No,0,10-Jan,No,"7/22/2012, 8:00 PM",Program,-86.07,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,4,white ash,15,,2,No,No,No,0,10-Jan,No,"7/22/2012, 8:00 PM",Program,-86.07,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,5,white ash,9.5,,2,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,6,white ash,10,,3,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.07,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,7,white ash,18.5,,2,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,8,white ash,16.5,,2,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,9,white ash,39,,1,No,Yes,No,10-Jan,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.07,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,10,white ash,16.8,,2,No,No,No,0,10-Jan,Yes,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,11,white ash,16.6,,2,No,No,No,10-Jan,10-Jan,No,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"2,010",Otter Creek/Platte Plain,12,white ash,15.7,,3,No,No,No,0,10-Jan,No,"7/22/2012, 8:00 PM",Program,-86.06,44.76
+Michigan,"1,957",Shauger Hill,101,green ash,10,,2,No,Yes,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,102,green ash,10,,3,Yes,Yes,No,0,20-Nov,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,103,green ash,9,,2,Yes,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,104,green ash,8.5,,2,No,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,105,green ash,11,,3,No,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,106,green ash,11.5,,3,No,No,No,0,0,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,107,green ash,8,,4,Yes,No,No,0,0,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,108,green ash,18,,1,Yes,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,110,green ash,10,,4,Yes,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"1,957",Shauger Hill,111,green ash,12.5,,2,No,No,No,0,10-Jan,No,"9/16/2011, 8:00 PM",Program,-86.04,44.85
+Michigan,"2,102",HNFE,"2,905",black ash,18.8,,2,No,Yes,No,10-Jan,0,No,"7/31/2012, 8:00 PM",Research,-83.46,44.58
+Michigan,"2,102",HNFE,"2,903",black ash,17.5,,2,No,No,No,10-Jan,0,No,"7/31/2012, 8:00 PM",Research,-83.47,44.58
+Michigan,"2,101",TOPH,11,green ash,11.4,An average of 50 Oobius adults were released/tree. GPS coorinates are inaccurate & must be retaken.,4,Yes,No,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,1,green ash,30.5,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,2,Yes,Yes,Yes,20-Nov,20-Nov,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,10,green ash,8.1,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,2,No,No,Yes,10-Jan,0,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,4,green ash,18.5,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,4,Yes,Yes,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,6,green ash,35.6,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,3,Yes,Yes,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,5,green ash,26.7,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,4,Yes,Yes,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,102",HNFE,"2,902",black ash,20.6,null,3,Yes,Yes,No,21+,0,Yes,"7/31/2012, 8:00 PM",Research,-83.47,44.58
+Michigan,"2,101",TOPH,2,green ash,28.2,average of 50 Oobius released/tree. GPS coorinates are inaccurate & must be retaken.,3,Yes,No,Yes,20-Nov,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,12,green ash,30,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,3,Yes,No,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,3,green ash,26.7,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,2,Yes,Yes,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,9,green ash,28.2,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,3,Yes,Yes,Yes,21+,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,7,green ash,13,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,2,Yes,No,Yes,20-Nov,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,101",TOPH,8,green ash,24.4,an average of 50 adult oobius were released/tree. GPS coorinates are inaccurate & must be retaken.,4,Yes,No,Yes,20-Nov,21+,Yes,"7/31/2012, 8:00 PM",Research,-82.72,43.95
+Michigan,"2,121",HNFHG,"2,921",black ash,3,,4,Yes,Yes,Yes,10-Jan,10-Jan,No,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,920",black ash,7,null,2,Yes,Yes,Yes,10-Jan,0,No,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,922",black ash,6,,3,Yes,No,No,10-Jan,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,923",black ash,6,,2,Yes,Yes,Yes,0,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,924",black ash,16,,3,Yes,No,Yes,10-Jan,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,925",black ash,10,,2,Yes,No,Yes,10-Jan,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,926",black ash,5,,2,No,No,No,0,0,No,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,940",black ash,3,,2,No,Yes,Yes,0,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,941",black ash,4,,2,No,No,No,0,0,No,"9/8/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,942",black ash,3,,2,No,Yes,Yes,10-Jan,10-Jan,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,943",black ash,4,,2,Yes,No,Yes,10-Jan,10-Jan,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,944",black ash,5,,2,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,945",black ash,7,,3,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,946",black ash,4,,3,No,Yes,Yes,10-Jan,0,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,121",HNFHG,"2,947",black ash,6,,3,No,Yes,No,10-Jan,10-Jan,Yes,"9/6/2012, 8:00 PM",Research,-83.87,44.68
+Michigan,"2,120",HNFPR,"2,913",black ash,11.2,,3,No,No,No,0,0,Yes,"8/30/2012, 8:00 PM",Research,-83.47,44.57
+Michigan,"2,120",HNFPR,"2,908",black ash,8.1,,4,No,No,Yes,10-Jan,0,Yes,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,909",black ash,11.2,,3,No,Yes,No,20-Nov,10-Jan,Yes,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,910",black ash,7.6,,2,No,Yes,No,20-Nov,20-Nov,No,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,911",black ash,12.1,,4,No,No,No,20-Nov,10-Jan,No,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,912",black ash,8.1,,2,No,No,No,0,0,No,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,914",black ash,9.5,,3,No,No,No,0,0,Yes,"8/30/2012, 8:00 PM",Research,-83.47,44.57
+Michigan,"2,120",HNFPR,"2,915",black ash,13.1,,4,No,No,Yes,20-Nov,0,Yes,"8/30/2012, 8:00 PM",Research,-83.47,44.57
+Michigan,"2,120",HNFPR,"2,916",black ash,9.8,,3,No,No,No,10-Jan,0,Yes,"8/30/2012, 8:00 PM",Research,-83.47,44.57
+Michigan,"2,120",HNFPR,"2,917",black ash,11.9,,4,No,No,No,20-Nov,0,Yes,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,918",black ash,12.5,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,120",HNFPR,"2,919",black ash,11.8,,4,Yes,No,Yes,20-Nov,10-Jan,Yes,"8/30/2012, 8:00 PM",Research,-83.46,44.57
+Michigan,"2,416",HIANF-Black Point,12,green ash,8.89,,1,No,No,No,0,0,Yes,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,1,green ash,10.92,null,2,No,No,No,10-Jan,0,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,2,green ash,29.21,null,3,No,No,No,10-Jan,10-Jan,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,3,black ash,24.64,,4,No,No,No,10-Jan,10-Jan,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,4,green ash,12.19,,2,No,No,No,0,0,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,5,green ash,16.76,,2,No,No,No,0,10-Jan,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,6,black ash,29.97,,2,No,No,No,10-Jan,10-Jan,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,7,black ash,22.1,,2,No,No,No,0,10-Jan,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,8,green ash,328.96,,3,No,Yes,No,0,0,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,9,green ash,25.4,,3,No,No,No,20-Nov,20-Nov,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,10,black ash,15.24,,2,No,No,No,0,0,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,416",HIANF-Black Point,11,green ash,7.87,,2,No,No,No,0,0,No,"8/21/2013, 8:00 PM",,-84.93,46.03
+Michigan,"2,413",HIANF-Satigo,1,white ash,12.7,null,1,Yes,No,No,0,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,2,white ash,25.4,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,3,white ash,15.24,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,4,white ash,30.48,null,2,No,No,No,0,0,Yes,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,5,white ash,5.08,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,6,white ash,30.48,null,2,No,Yes,No,10-Jan,0,Yes,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,7,white ash,30,null,2,No,No,No,10-Jan,0,Yes,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,8,white ash,10.16,null,2,No,No,No,0,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,9,white ash,17.78,null,2,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,10,white ash,13.97,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,11,white ash,25.4,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,413",HIANF-Satigo,12,white ash,22.86,null,2,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.76,45.97
+Michigan,"2,415",HIANF-Charles Moran,1,black ash,10.16,,4,No,No,No,10-Jan,20-Nov,No,"7/28/2013, 8:00 PM",,-84.75,46
+Michigan,"2,415",HIANF-Charles Moran,2,black ash,7.62,,3,No,No,No,10-Jan,20-Nov,No,"7/28/2013, 8:00 PM",,-84.75,46
+Michigan,"2,415",HIANF-Charles Moran,3,black ash,22.86,,3,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.75,46
+Michigan,"2,415",HIANF-Charles Moran,4,green ash,20.32,,2,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,5,black ash,26,,3,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,6,black ash,18,,4,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,7,green ash,10.16,,2,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,8,green ash,10.16,,2,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,9,black ash,33.02,,5,No,No,No,10-Jan,20-Nov,No,"7/28/2013, 8:00 PM",,-84.76,46
+Michigan,"2,415",HIANF-Charles Moran,10,black ash,16,,4,No,No,No,10-Jan,10-Jan,No,"7/28/2013, 8:00 PM",,-84.75,46
+Michigan,"2,415",HIANF-Charles Moran,11,black ash,7.62,,4,No,Yes,No,20-Nov,10-Jan,No,"8/29/2013, 8:00 PM",,-84.75,46
+Michigan,"2,415",HIANF-Charles Moran,12,black ash,7.62,,3,No,Yes,No,10-Jan,10-Jan,No,"8/29/2013, 8:00 PM",,-84.75,46
+Michigan,"2,412",HIANF-8Lake,1,black ash,5.08,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,2,black ash,5.08,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,3,black ash,5.08,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,4,black ash,5.08,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,5,black ash,7.62,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,6,black ash,7.62,,1,No,Yes,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,7,black ash,5.08,,1,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,8,black ash,5.08,,1,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,9,green ash,5.08,,1,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,10,black ash,5.08,,1,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,11,black ash,5.08,,1,No,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"2,412",HIANF-8Lake,12,black ash,10.16,,1,Yes,No,No,10-Jan,0,No,"7/28/2013, 8:00 PM",,-84.77,45.94
+Michigan,"1,770",LPRFLT,"6,001",white ash,21.1,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"6,002",white ash,15,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"6,003",white ash,15.3,Upper and lower crown combined and represented in Lower-Half fields.,4,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.37,42.7
+Michigan,"1,770",LPRFLT,"6,004",white ash,15.9,Upper and lower crown combined and represented in Lower-Half fields.,3,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"1,860",white ash,8.6,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"1,861",white ash,22.8,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"6,005",white ash,9.6,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"6,006",white ash,19.6,Upper and lower crown combined and represented in Lower-Half fields.,3,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"9,821",white ash,15.3,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,770",LPRFLT,"6,007",white ash,9,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.38,42.7
+Michigan,"1,769",CPNMLT,"6,008",white ash,36.5,Upper and lower crown combined and represented in Lower-Half fields.,3,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,009",white ash,24.8,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,010",white ash,16.1,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,011",white ash,10.5,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,012",white ash,12.4,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,106,white ash,33.6,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.43,42.73
+Michigan,"1,769",CPNMLT,"2,013",white ash,28.3,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,109,green ash,13.3,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,601,white ash,17.7,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,013",white ash,23,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,773",BFPKLT,"6,014",white ash,10.7,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,No,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.59,42.59
+Michigan,"1,773",BFPKLT,"6,015",white ash,22,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"6,016",white ash,19.2,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"9,823",white ash,21.3,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"9,818",white ash,13.8,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"6,017",white ash,14.4,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"6,018",white ash,17.5,Upper and lower crown combined and represented in Lower-Half fields.,5,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"6,019",white ash,13.7,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,109,white ash,19.9,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,"1,773",BFPKLT,"9,812",white ash,13,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/29/2015, 8:00 PM",Research,-84.6,42.59
+Michigan,54,MRE,"6,020",white ash,22,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"9,837",white ash,18.7,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,021",white ash,21.2,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,022",white ash,29.5,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,0,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,023",green ash,18,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,024",green ash,17.5,Upper and lower crown combined and represented in Lower-Half fields.,4,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,026",green ash,17.1,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,027",green ash,31.2,Upper and lower crown combined and represented in Lower-Half fields.,3,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,54,MRE,"6,028",green ash,27.8,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,25,GSW,"6,029",green ash,13.8,Upper and lower crown combined and represented in Lower-Half fields.,3,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"6,030",green ash,9.8,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"6,031",green ash,10.8,Upper and lower crown combined and represented in Lower-Half fields.,4,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"9,850",green ash,10.3,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,0,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"6,032",green ash,9.6,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,194,green ash,10.9,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,0,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,10,green ash,10.6,Upper and lower crown combined and represented in Lower-Half fields.,2,Yes,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,191,green ash,9.9,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"6,033",green ash,10.9,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,25,GSW,"6,034",green ash,11,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.45,43.23
+Michigan,55,RL,"6,035",green ash,16.7,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,0,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"6,036",green ash,18.5,Upper and lower crown combined and represented in Lower-Half fields.,2,No,Yes,No,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"6,037",green ash,8,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,0,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"6,038",green ash,9.2,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"6,039",green ash,9.1,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,No,0,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"6,040",white ash,11.6,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,No,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"2,645",white ash,14.9,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"2,646",white ash,17.4,Upper and lower crown combined and represented in Lower-Half fields.,3,No,Yes,Yes,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"2,640",white ash,28.8,Upper and lower crown combined and represented in Lower-Half fields.,1,No,Yes,Yes,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,55,RL,"2,643",white ash,17.8,Upper and lower crown combined and represented in Lower-Half fields.,1,Yes,Yes,Yes,10-Jan,0,No,"8/1/2015, 8:00 PM",Research,-84.35,42.81
+Michigan,54,MRE,"6,025",green ash,17.5,Upper and lower crown combined and represented in Lower-Half fields.,4,No,Yes,Yes,10-Jan,0,No,"7/30/2015, 8:00 PM",Research,-84.54,43.14
+Michigan,"2,847",Stanton10,"6,806",white ash,25.5,,3,No,No,Yes,10-Jan,10-Jan,Yes,"9/15/2015, 8:00 PM",Research,-85.09,43.25
+Michigan,"2,847",Stanton10,"6,807",white ash,28.3,,2,No,No,Yes,0,0,Yes,"9/15/2015, 8:00 PM",Research,-85.09,43.25
+Michigan,"2,847",Stanton10,"6,808",white ash,13.6,,3,No,No,Yes,10-Jan,0,Yes,"9/15/2015, 8:00 PM",Research,-85.09,43.25
+Michigan,"2,847",Stanton10,"6,809",white ash,29,,2,No,No,Yes,0,0,Yes,"9/15/2015, 8:00 PM",Research,-85.09,43.25
+Michigan,"2,847",Stanton10,"6,810",white ash,14.2,,1,No,Yes,Yes,0,0,Yes,"9/15/2015, 8:00 PM",Research,-85.09,43.25
+Michigan,"2,843",Stanton7,"6,801",white ash,22.1,,2,No,No,Yes,21+,21+,Yes,"9/15/2015, 8:00 PM",Research,-85.03,43.28
+Michigan,"2,843",Stanton7,"6,802",white ash,22.5,,2,No,No,Yes,20-Nov,20-Nov,Yes,"9/15/2015, 8:00 PM",Research,-85.03,43.28
+Michigan,"2,843",Stanton7,"6,803",white ash,24.1,,2,No,No,Yes,20-Nov,20-Nov,Yes,"9/15/2015, 8:00 PM",Research,-85.03,43.28
+Michigan,"2,843",Stanton7,"6,804",white ash,17.9,,3,No,No,Yes,21+,21+,Yes,"9/15/2015, 8:00 PM",Research,-85.03,43.28
+Michigan,"2,843",Stanton7,"6,805",white ash,26.8,,2,No,Yes,Yes,0,0,Yes,"9/15/2015, 8:00 PM",Research,-85.03,43.28
+Michigan,"2,941",Pokagon Lands Dowagiac,231,white ash,9.7,,2,No,No,No,10-Jan,0,No,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,561,black ash,5.1,,3,Yes,Yes,Yes,10-Jan,0,No,"9/9/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,597,black ash,2.7,,1,No,No,No,0,0,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,610,black ash,4.7,,4,No,Yes,No,10-Jan,10-Jan,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,623,black ash,5.1,,2,No,Yes,No,10-Jan,0,No,"7/28/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,761,black ash,4.9,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,762,black ash,1.4,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,763,black ash,2.1,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,764,black ash,1.8,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,765,black ash,2.8,,3,Yes,Yes,No,10-Jan,0,No,"7/28/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,766,black ash,1.5,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.21,41.93
+Michigan,"2,941",Pokagon Lands Dowagiac,767,black ash,1.3,,2,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,768,black ash,1.3,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,769,black ash,4.1,,4,No,Yes,No,10-Jan,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,770,black ash,1.8,,4,No,No,No,10-Jan,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,771,black ash,3.2,,1,No,No,No,10-Jan,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,772,black ash,2.9,,1,No,No,No,0,0,No,"7/28/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,774,black ash,2.2,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,775,black ash,1.3,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,776,black ash,3.6,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,777,black ash,3.6,,1,No,Yes,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,778,black ash,4.5,,2,No,Yes,No,10-Jan,10-Jan,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,779,black ash,1.9,,2,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,780,black ash,3.1,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,781,black ash,4,,1,No,Yes,No,10-Jan,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,782,black ash,1.9,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,783,black ash,3.2,,1,No,Yes,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,784,black ash,3.4,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,785,black ash,1.2,,1,No,No,No,0,0,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,786,black ash,3.1,,1,No,No,No,10-Jan,10-Jan,No,"8/11/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,835,black ash,1.6,,1,No,No,No,0,0,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,836,black ash,5.5,,1,Yes,Yes,No,10-Jan,10-Jan,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,837,black ash,3.9,,1,No,Yes,No,10-Jan,0,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,838,black ash,1.6,,1,No,Yes,No,0,0,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,839,black ash,0,Forgot to record DBH,4,Yes,No,Yes,10-Jan,10-Jan,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,849,black ash,3.2,,1,No,No,No,0,0,No,"8/26/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,856,black ash,3,,1,No,No,No,0,0,No,"9/9/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,857,black ash,2.6,,1,No,Yes,No,0,0,No,"9/9/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,858,black ash,2.4,,3,No,Yes,No,10-Jan,10-Jan,No,"9/9/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,859,black ash,3,,3,No,Yes,No,0,0,No,"9/9/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,860,black ash,3.5,,2,Yes,No,No,10-Jan,0,No,"9/9/2015, 8:00 PM",Program,-86.21,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,876,black ash,7.1,null,5,Yes,Yes,No,10-Jan,0,No,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,877,black ash,6.7,,5,Yes,Yes,No,10-Jan,10-Jan,No,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,878,green ash,5.4,,5,Yes,Yes,No,10-Jan,10-Jan,No,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,879,green ash,7.2,,5,Yes,No,Yes,0,0,No,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,880,green ash,6.3,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"9/29/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,891,black ash,4,,4,No,Yes,No,10-Jan,10-Jan,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,892,black ash,2.6,,4,No,No,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,893,black ash,2.4,,4,No,No,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,894,black ash,1.9,,4,No,No,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,895,blue ash,2.5,,4,No,Yes,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,897,black ash,2.7,,4,No,Yes,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,953",Pokagon Hartford,787,green ash,6.4,,5,Yes,No,Yes,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,788,green ash,13.5,,4,No,No,No,10-Jan,10-Jan,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,789,green ash,11.6,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,790,green ash,9.1,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,791,green ash,13.6,,5,Yes,No,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,792,green ash,7.7,,2,No,No,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,793,green ash,16.9,,5,Yes,Yes,Yes,0,0,Yes,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,794,green ash,16.6,,5,Yes,No,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,795,green ash,9.9,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,796,green ash,11.3,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,797,green ash,9.8,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,798,green ash,10.1,,5,Yes,Yes,No,0,0,No,"8/12/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,799,green ash,0.5,,1,No,No,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,800,green ash,1.7,,3,Yes,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,801,green ash,4.4,,1,No,No,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,802,green ash,8.4,,4,Yes,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,803,green ash,7.6,,4,Yes,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,804,green ash,8.2,,4,Yes,Yes,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,805,green ash,8,,5,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,806,green ash,10,,5,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,807,green ash,11.6,,5,Yes,Yes,Yes,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,808,green ash,2.9,,1,No,No,No,0,0,No,"7/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,821,white ash,13.4,,5,Yes,Yes,Yes,0,0,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,822,white ash,6.5,,5,Yes,Yes,Yes,0,0,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,823,green ash,8.9,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,824,black ash,5.8,,1,No,Yes,No,0,0,No,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,825,green ash,5.9,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,826,white ash,5.1,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,827,green ash,9.7,,5,Yes,No,Yes,0,0,Yes,"8/25/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,862,white ash,10.4,,5,Yes,No,Yes,0,0,Yes,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,863,white ash,7.5,,5,Yes,No,No,10-Jan,10-Jan,No,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,864,green ash,11,,5,No,No,No,0,0,No,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,865,green ash,12.8,,5,Yes,Yes,No,0,0,No,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,866,green ash,9.5,,5,Yes,No,No,0,0,No,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,869,green ash,0.6,,1,No,No,No,0,0,No,"9/10/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,870,green ash,12.9,,5,Yes,No,Yes,10-Jan,0,Yes,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,871,green ash,12.7,,4,Yes,Yes,Yes,10-Jan,0,Yes,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,872,green ash,9,,5,Yes,No,No,0,0,No,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,873,green ash,10.7,,4,Yes,No,Yes,10-Jan,10-Jan,No,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,874,green ash,10.9,,5,Yes,No,No,10-Jan,0,No,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,875,green ash,6.7,,5,Yes,Yes,No,10-Jan,10-Jan,No,"9/29/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,885,green ash,6.8,,5,Yes,Yes,Yes,0,0,Yes,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,886,green ash,5,,5,Yes,Yes,No,10-Jan,10-Jan,No,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,887,green ash,5.8,,4,Yes,Yes,No,10-Jan,10-Jan,No,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,888,green ash,17,,5,Yes,Yes,Yes,0,0,Yes,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,889,green ash,10.9,,4,No,Yes,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,890,green ash,3,,3,No,No,No,0,0,No,"10/13/2015, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,952","Pokagon, New Buffalo",809,green ash,8.4,,5,Yes,Yes,Yes,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",810,green ash,7.3,,5,No,No,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",811,black ash,12.5,,1,No,No,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",812,green ash,10,,1,No,No,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",813,white ash,5.9,,4,Yes,No,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",814,green ash,9.4,,1,No,No,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",815,green ash,3.8,,4,Yes,Yes,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",816,white ash,17.5,,5,Yes,Yes,No,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.78
+Michigan,"2,952","Pokagon, New Buffalo",817,green ash,5,,1,Yes,Yes,Yes,0,0,No,"7/30/2015, 8:00 PM",Program,-86.7,41.78
+Michigan,"2,952","Pokagon, New Buffalo",828,white ash,24.4,,5,Yes,No,Yes,0,0,No,"8/25/2015, 8:00 PM",Program,-86.71,41.77
+Michigan,"2,952","Pokagon, New Buffalo",829,white ash,11.5,,5,Yes,Yes,No,0,0,No,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",830,white ash,19.4,,5,Yes,No,Yes,0,0,No,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",831,white ash,14.5,,5,Yes,No,Yes,10-Jan,0,Yes,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",832,white ash,13.8,,4,Yes,No,No,0,0,No,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",833,white ash,5,,3,Yes,Yes,No,0,0,No,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",834,white ash,7.4,,2,Yes,No,Yes,10-Jan,10-Jan,No,"8/25/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",840,white ash,23.2,,5,Yes,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.71,41.77
+Michigan,"2,952","Pokagon, New Buffalo",841,white ash,3.3,,1,No,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",842,white ash,5.2,,5,Yes,No,Yes,10-Jan,0,Yes,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",843,white ash,10.3,,1,No,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",844,green ash,8,,4,Yes,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",845,white ash,16,,5,Yes,No,Yes,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",846,white ash,7.7,,4,Yes,No,No,10-Jan,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",847,white ash,11.7,,5,Yes,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",848,white ash,11.9,,5,Yes,No,No,0,0,No,"8/13/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",850,green ash,12.4,,5,Yes,No,No,0,0,No,"9/9/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",851,green ash,14,,5,Yes,No,Yes,0,0,No,"9/9/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",852,green ash,12.2,,5,Yes,Yes,No,0,0,No,"9/9/2015, 8:00 PM",Program,-86.71,41.77
+Michigan,"2,952","Pokagon, New Buffalo",853,green ash,5.6,,4,Yes,No,No,10-Jan,10-Jan,No,"9/9/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",854,white ash,11.9,,5,Yes,Yes,Yes,10-Jan,0,Yes,"9/9/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",855,white ash,14.5,,5,Yes,Yes,Yes,0,0,Yes,"9/9/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",867,white ash,12.8,,3,No,No,Yes,0,0,Yes,"9/30/2015, 8:00 PM",Program,-86.71,41.78
+Michigan,"2,952","Pokagon, New Buffalo",868,white ash,19.1,,5,No,Yes,No,0,0,Yes,"9/30/2015, 8:00 PM",Program,-86.71,41.78
+Michigan,"2,952","Pokagon, New Buffalo",881,white ash,10.2,,4,Yes,No,Yes,0,0,Yes,"9/30/2015, 8:00 PM",Program,-86.7,41.78
+Michigan,"2,952","Pokagon, New Buffalo",882,white ash,15.8,,5,No,No,No,0,0,No,"9/30/2015, 8:00 PM",Program,-86.7,41.78
+Michigan,"2,952","Pokagon, New Buffalo",883,green ash,6.2,,3,No,No,No,0,0,No,"9/30/2015, 8:00 PM",Program,-86.7,41.78
+Michigan,"2,952","Pokagon, New Buffalo",884,green ash,6,,4,Yes,No,Yes,0,0,Yes,"9/30/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",896,green ash,9.2,,5,Yes,Yes,Yes,0,0,Yes,"10/15/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",898,green ash,7.8,,4,Yes,No,No,0,0,No,"10/15/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",899,green ash,18.1,,5,Yes,Yes,Yes,0,0,Yes,"10/15/2015, 8:00 PM",Program,-86.7,41.77
+Michigan,"3,054",Site 1 - Southwest 80,1,white ash,29.46,,3,No,No,Yes,10-Jan,10-Jan,No,"9/2/2012, 8:00 PM",Program,-85.67,44.34
+Michigan,"3,054",Site 1 - Southwest 80,2,white ash,16.25,,2,Yes,No,Yes,0,0,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,3,white ash,13.72,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,4,white ash,28.19,,3,Yes,Yes,Yes,0,0,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,5,white ash,24.89,,2,No,Yes,No,10-Jan,10-Jan,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,6,white ash,23.11,,2,No,Yes,Yes,0,0,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,7,white ash,17.27,,2,No,Yes,No,0,10-Jan,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,8,white ash,21.08,,4,Yes,Yes,Yes,21+,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,9,white ash,24.64,,2,No,Yes,Yes,0,0,No,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,10,white ash,14.22,,4,Yes,Yes,Yes,21+,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,11,white ash,15.24,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,054",Site 1 - Southwest 80,12,white ash,25.91,,2,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.04
+Michigan,"3,055",Site 2 - Shrinking Woods,1,white ash,27.43,,3,No,No,Yes,0,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,2,white ash,40.64,,4,Yes,Yes,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,3,white ash,32.26,,3,No,No,Yes,0,10-Jan,No,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,4,white ash,28.7,,2,No,No,Yes,0,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,5,white ash,34.04,,2,No,No,Yes,10-Jan,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,6,white ash,36.32,,4,Yes,Yes,Yes,0,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,7,white ash,43.69,,3,No,No,Yes,10-Jan,10-Jan,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,8,white ash,28.96,,3,Yes,No,Yes,0,21+,No,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,9,white ash,38.86,,3,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,10,white ash,32.77,,2,Yes,Yes,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,11,white ash,34.04,,2,No,No,Yes,0,21+,No,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,055",Site 2 - Shrinking Woods,12,white ash,40.39,,2,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.67,44.05
+Michigan,"3,056",Site 3 - Hardwood Loop,1,white ash,50.04,,2,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,2,white ash,26.16,,3,Yes,Yes,Yes,10-Jan,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,3,white ash,31.5,,2,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,4,white ash,28.19,,4,No,No,Yes,10-Jan,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,5,white ash,42.93,,4,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,6,white ash,38.86,,4,Yes,Yes,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,7,white ash,25.91,,2,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,8,white ash,62.99,,2,No,No,No,21+,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,9,white ash,24.13,,3,No,Yes,Yes,0,10-Jan,No,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,10,white ash,23.88,,4,Yes,Yes,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,11,white ash,20.32,,4,Yes,Yes,Yes,21+,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,056",Site 3 - Hardwood Loop,12,white ash,29.46,,3,No,No,Yes,0,21+,Yes,"9/2/2012, 8:00 PM",Program,-85.66,44.04
+Michigan,"3,085",test,99,black ash,5,Test,1,No,No,No,0,0,No,"3/15/2016, 8:00 PM",Program,-84.48,42.73
+Michigan,55,RL,"2,647",white ash,11.6,,3,No,Yes,Yes,10-Jan,10-Jan,No,"8/1/2016, 8:00 PM",Research,-84.35,42.81
+Michigan,"1,769",CPNMLT,"6,834",white ash,27.4,,1,No,Yes,Yes,10-Jan,10-Jan,No,"8/1/2016, 8:00 PM",Research,-84.42,42.73
+Michigan,"1,769",CPNMLT,"6,896",white ash,16.5,,2,No,Yes,No,10-Jan,10-Jan,Yes,"8/1/2016, 8:00 PM",Research,-84.42,42.73
+Michigan,"2,953",Pokagon Hartford,906,green ash,12.6,,5,Yes,No,No,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,907,green ash,10.6,,5,Yes,Yes,Yes,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,908,green ash,7.3,,5,Yes,No,No,0,0,No,"5/26/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,909,green ash,10.5,,5,Yes,Yes,Yes,0,0,No,"5/26/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,910,green ash,10.7,,5,Yes,Yes,Yes,0,0,No,"5/26/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,951,green ash,7.7,,5,No,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,952,green ash,11.4,,5,Yes,Yes,Yes,0,0,Yes,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,953,green ash,7,,5,Yes,Yes,Yes,0,0,No,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,954,green ash,8,,5,Yes,Yes,Yes,0,0,No,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,955,green ash,10.6,,5,Yes,Yes,No,0,0,No,"8/3/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,956,green ash,16.3,,5,Yes,Yes,Yes,0,0,Yes,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,957,green ash,18.8,,5,Yes,Yes,Yes,0,0,No,"8/3/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,959,green ash,16.3,,5,Yes,Yes,Yes,0,0,No,"7/6/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,998,green ash,9.8,,5,Yes,Yes,No,0,0,No,"8/15/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,999,green ash,11.3,,5,Yes,Yes,No,0,0,No,"8/15/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,"1,000",green ash,9.9,,5,Yes,Yes,No,0,0,No,"8/15/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,"1,545",green ash,7.5,,5,Yes,No,No,10-Jan,10-Jan,No,"8/3/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,953",Pokagon Hartford,"1,547",green ash,6.8,,5,Yes,Yes,Yes,0,0,No,"8/3/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"3,130",Pokagon Lands South Bend,959,white ash,11.3,,1,No,No,No,0,0,No,"6/22/2016, 8:00 PM",Program,-86.21,42.22
+Michigan,"2,952","Pokagon, New Buffalo",930,white ash,24.4,,5,Yes,No,Yes,0,0,No,"7/21/2016, 8:00 PM",Program,-86.71,41.77
+Michigan,"2,952","Pokagon, New Buffalo",970,white ash,23.2,,5,Yes,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.71,41.77
+Michigan,"2,952","Pokagon, New Buffalo",971,white ash,8.2,,5,Yes,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",972,green ash,12.4,,5,Yes,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",973,white ash,7.4,,2,No,No,No,10-Jan,0,No,"7/20/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",974,white ash,5.4,,1,No,No,No,0,0,No,"7/20/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",975,green ash,12.5,,5,No,No,No,0,0,No,"7/20/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",979,green ash,4.1,,1,No,No,No,0,0,No,"8/4/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",980,green ash,4.4,,3,No,Yes,No,0,0,No,"8/4/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",981,green ash,4.1,,2,No,No,No,0,0,No,"8/4/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,952","Pokagon, New Buffalo",982,green ash,4.5,,4,Yes,Yes,Yes,10-Jan,0,Yes,"8/4/2016, 8:00 PM",Program,-86.7,41.77
+Michigan,"2,941",Pokagon Lands Dowagiac,901,black ash,4.4,,1,No,No,No,0,0,No,"5/26/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,902,black ash,5.3,,2,Yes,Yes,No,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,903,black ash,5.6,,1,Yes,Yes,No,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,904,black ash,4.1,,5,Yes,Yes,Yes,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,905,black ash,3.6,,5,Yes,Yes,No,10-Jan,0,No,"5/26/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,931,black ash,5.3,,1,No,No,No,0,0,No,"8/29/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,932,black ash,4.1,,2,No,Yes,No,0,0,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,933,green ash,2.2,,1,No,No,No,0,0,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,934,black ash,2.8,,1,Yes,Yes,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,935,green ash,1.5,,1,No,No,No,0,0,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,936,green ash,2.2,,4,Yes,Yes,No,10-Jan,10-Jan,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,938,green ash,1.3,,1,No,No,No,10-Jan,0,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,940,green ash,2.8,,1,Yes,Yes,No,10-Jan,10-Jan,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,941,black ash,3.5,,1,Yes,No,No,0,0,No,"8/3/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,942,green ash,3,,1,No,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,943,black ash,2.5,,1,Yes,No,No,0,0,No,"7/6/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,944,black ash,3.1,,2,Yes,Yes,Yes,0,0,No,"7/6/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,946,black ash,3,,2,Yes,Yes,Yes,10-Jan,0,No,"7/6/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,947,black ash,2,,1,No,No,No,0,0,No,"8/29/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,948,black ash,4.2,,1,Yes,Yes,No,0,0,No,"8/29/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,949,black ash,5,,1,No,Yes,No,10-Jan,0,No,"8/29/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,950,black ash,4.9,,2,Yes,Yes,No,10-Jan,0,No,"8/29/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,995,black ash,1.6,,1,No,Yes,No,0,0,No,"8/15/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,996,black ash,3.4,,2,No,Yes,No,10-Jan,0,No,"8/15/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"2,941",Pokagon Lands Dowagiac,997,black ash,3.7,,2,No,No,No,0,0,No,"8/15/2016, 8:00 PM",Program,-86.2,41.94
+Michigan,"3,715",clairetest,101,black ash,25,Test,1,No,No,No,0,0,No,"5/8/2018, 8:00 PM",Program,-84.48,42.73
+Michigan,"3,696","Pokagon, New Buffalo - West","7,916",black ash,2.4,,1,Yes,Yes,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,917",black ash,2.8,,2,No,Yes,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,918",black ash,3.2,,1,No,Yes,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,919",green ash,13.2,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,920",green ash,7.4,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,921",green ash,4.8,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,922",green ash,4.7,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,923",green ash,10.6,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,924",green ash,3.1,,4,Yes,Yes,Yes,10-Jan,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,925",green ash,1.8,,4,Yes,Yes,Yes,10-Jan,10-Jan,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,926",green ash,3,,5,Yes,Yes,Yes,10-Jan,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,927",green ash,2.4,,5,Yes,Yes,Yes,10-Jan,10-Jan,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,928",green ash,2.7,,1,No,No,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,696","Pokagon, New Buffalo - West","7,929",green ash,1.4,,2,No,No,No,10-Jan,0,No,"3/22/2018, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,697","Pokagon, Dowagiac - East","7,930",green ash,5.1,,2,No,Yes,Yes,0,0,Yes,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,931",green ash,2.7,,2,No,Yes,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,932",green ash,4.2,,5,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,933",green ash,2.5,,3,Yes,Yes,Yes,0,0,No,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,934",white ash,2.1,,1,No,No,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,935",white ash,2.2,,1,No,No,No,0,0,No,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,936",white ash,6.1,,3,Yes,Yes,Yes,0,0,Yes,"3/22/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,903",green ash,3.5,,3,Yes,Yes,Yes,10-Jan,0,Yes,"7/2/2018, 8:00 PM",Program,-86.19,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,906",green ash,4,,2,Yes,Yes,No,0,0,No,"7/2/2018, 8:00 PM",Program,-86.19,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,910",green ash,3.5,,2,Yes,Yes,No,0,0,No,"7/2/2018, 8:00 PM",Program,-86.19,41.95
+Michigan,"3,697","Pokagon, Dowagiac - East","7,912",white ash,6,,2,No,Yes,No,0,0,No,"7/2/2018, 8:00 PM",Program,-86.18,41.95
+Michigan,"4,022",Beaver Island Kings Hwy 1,1,black ash,10.5,,3,Yes,No,Yes,0,0,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,2,black ash,9.5,,4,Yes,No,Yes,0,0,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,3,black ash,10,,4,Yes,Yes,Yes,0,0,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,5,black ash,10.5,,3,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,6,black ash,13,,1,No,Yes,Yes,0,0,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,7,black ash,14,,4,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,8,black ash,11,,3,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,9,black ash,15.5,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,10,black ash,15.5,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,11,black ash,7.5,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,12,black ash,7,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,13,black ash,18.25,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,14,black ash,14,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,15,black ash,10.5,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,16,black ash,8.5,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,17,black ash,11.5,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,18,black ash,28.5,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,19,black ash,9,,2,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,022",Beaver Island Kings Hwy 1,4,black ash,10,,4,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.71
+Michigan,"4,022",Beaver Island Kings Hwy 1,20,black ash,15.5,,3,Yes,No,Yes,10-Jan,10-Jan,Yes,"6/27/2019, 8:00 PM",Program,-85.53,45.73
+Michigan,"4,706","Pokagon, Gage Lake","21,012",green ash,6.4,,2,Yes,Yes,Yes,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,013",green ash,1.3,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,014",green ash,1.4,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,015",green ash,1.5,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,016",green ash,5.2,,3,Yes,Yes,No,0,0,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,017",green ash,3.3,,1,No,No,No,0,0,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,018",green ash,2.4,,2,No,Yes,Yes,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,019",green ash,3.9,,4,Yes,Yes,Yes,0,10-Jan,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,020",green ash,7.6,,3,Yes,Yes,Yes,10-Jan,10-Jan,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,021",green ash,2.5,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,022",green ash,5.9,,3,Yes,Yes,Yes,0,10-Jan,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,023",green ash,2.7,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,024",green ash,2.8,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,025",green ash,0.9,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,026",green ash,3.5,,2,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,027",green ash,4.1,,2,No,Yes,Yes,0,0,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,028",green ash,2.6,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,029",green ash,7.9,,3,No,Yes,Yes,0,10-Jan,Yes,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","31,030",green ash,4.2,,2,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,031",green ash,5.7,,2,No,Yes,Yes,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"4,706","Pokagon, Gage Lake","21,032",green ash,0,,1,No,No,No,0,0,No,"8/4/2019, 8:00 PM",Program,-86.08,42.04
+Michigan,"3,696","Pokagon, New Buffalo - West","21,004",white ash,9,,1,No,No,No,0,0,No,"7/1/2019, 8:00 PM",Program,-86.72,41.77
+Michigan,"3,697","Pokagon, Dowagiac - East","21,001",white ash,8.2,,1,No,No,No,0,0,No,"6/18/2019, 8:00 PM",Program,-86.18,41.95
+Michigan,"3,696","Pokagon, New Buffalo - West","21,006",white ash,10.4,,5,Yes,Yes,Yes,10-Jan,0,Yes,"7/1/2019, 8:00 PM",Program,-86.72,41.77
+Michigan,"5,145",Claire test,15,black ash,12,Test,1,No,No,No,0,0,No,"8/25/2020, 8:00 PM",Program,-84.48,42.73
+Michigan,"5,147",Claire test 330,225,black ash,31,,1,No,No,No,0,0,No,"8/25/2020, 8:00 PM",Program,-84.48,42.73
+Michigan,"5,148",Claire rest 332,135,black ash,10,,1,No,No,No,0,0,No,"8/25/2020, 8:00 PM",Program,-84.48,42.73
+Michigan,"5,148",Claire rest 332,154,black ash,12,,1,No,No,No,0,0,No,"8/25/2020, 8:00 PM",Program,-84.48,42.73
