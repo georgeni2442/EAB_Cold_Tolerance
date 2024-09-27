@@ -6,7 +6,7 @@ library(timetk)
 library(plotly)
 
 #Read in .csv file
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files")
+setwd("~/OneDrive/Documents/R/Eab_ColdTolerance/Tet/SCP_Files")
 
 #Read HuaTuo Logger Files   
 
@@ -16,7 +16,7 @@ setwd("~/OneDrive/Documents/R/Tet/SCP_Files")
 #myfiles = lapply(temp, read.delim)
 
 #set working directory
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files")
+setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files")
 
 #scp_read function-input (File name, Group), reads in thermocouple temp readouts and converts format. 
 
@@ -34,9 +34,9 @@ scp_read<-function(a,b){
   p<-ggplotly(p)
  htmlwidgets::saveWidget(as_widget(p),"newplot.html")
 }
-scp_read("SCP_Nov.csv", "3_U")
+scp_read("SCP_Feb.csv", "3_U")
 
-y<-read.csv("SCP_Apr.csv")
+y<-read.csv("SCP_Dec_2_U_D.csv")
 
 #clean<-x%>%
 #  drop_na()%>%

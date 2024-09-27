@@ -11,7 +11,7 @@ library(pracma)
 library(DescTools)
 #Read in data
 #Grab all files with form "ibutton"
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files/Full_Ibutton_Logs") #This folder has all full ibutton logs (17 items because of malfunctions in one ibutton)
+setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Full_Ibutton_Logs") #This folder has all full ibutton logs (17 items because of malfunctions in one ibutton)
 
 #filelist<-list.files(pattern="Ibutton") #For previous set
 filelist<-list.files(pattern="Full") #Get list of all files with "Full" in the filename.
@@ -25,9 +25,9 @@ for (i in 1:length(filelist)){
   data<-data%>%
     mutate(Group=Group,Temp=as.numeric(Temperature), DateTime=mdy_hm(DateTime))%>%
   select(DateTime,Group,Temp)
-  setwd("~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files")
+  setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Processed_Files")
   write.table(data, file=output, sep=",", col.names=TRUE, row.names=FALSE)
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files/Full_Ibutton_Logs")
+setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Full_Ibutton_Logs")
 }
 
 input<-"11_1_2_U_Full.csv"
@@ -38,7 +38,7 @@ data<-x%>%
 class(data$X)
 
 
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files/")
+setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Processed_Files/")
 
 data_all<-list.files(path="~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files/", pattern="Full")%>%
   lapply(read_csv)%>%
@@ -46,11 +46,11 @@ data_all<-list.files(path="~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files/
   mutate(Group=as.factor(Group))
 
 
-write.csv(data_all,"~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files/iButton_All.csv", row.names=TRUE)
+write.csv(data_all,"~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Processed_Files/iButton_All.csv", row.names=TRUE)
 
 #Start here
 
-setwd("~/OneDrive/Documents/R/Tet/SCP_Files/Processed_Files/")
+setwd("~/OneDrive/Documents/R/EAB_Cold_Tolerance/Tet/SCP_Files/Processed_Files/")
 data_all<-read.csv("iButton_All.csv")
 data_edit<-data_all%>%
   mutate(Treatment=case_when(str_detect(data_all$Group, "U") ~ "Control", TRUE ~ "Treatment"))%>%
